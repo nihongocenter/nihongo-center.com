@@ -1,0 +1,15 @@
+{
+	"name": "nihongo-center.com",
+	"repository": "nihongocenter/nihongo-center.com",
+	"version": "1.0.0",
+	"dependencies": {
+		"aero": "*",
+		"i18n": "*",
+		"jstransformer-markdown": "*"
+	},
+	"author": {
+		"name": "Eduard Urbach",
+		"email": "e.urbach@gmail.com",
+		"url": "https://blitzprog.org"
+	}
+}
