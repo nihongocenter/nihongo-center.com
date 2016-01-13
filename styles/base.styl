@@ -2,23 +2,27 @@
 
 body
 	font-family "Open Sans", sans-serif
+	-webkit-font-smoothing antialiased
 	background-image url('/images/background.png')
-	padding 0.5em
 
 a
 	color linkColor
 	text-decoration none
+	&:hover
+		color linkColor + 15%
 
 h1
 	font-size 2em
 	line-height 1.4em
-	display none
 
 h2
-	font-size 1.5em
+	font-size 1.8em
+	line-height 1.7em
+	margin 0.5em 0
+	border-bottom 1px dotted rgba(0, 0, 0, 0.5)
 
 p
-	line-height 1.5em
+	line-height 1.7em
 	margin 0.5em 0
 
 strong
@@ -32,16 +36,17 @@ img
 
 span.glyphicon
 	font-size 0.9em
-	margin-right 0.4em
+	margin-right 0.5em
 
-.logo-container
-	flex-grow 1
+.wrapper
+	max-width 728px
 
 .widget
 	display flex
-	width calc(100% - 1em)
+	flex-direction column
 	padding 1em
-	margin 0.5em
+	margin 1em
+	width calc(100% - 2em)
 	border-radius 5px
 	background-color rgb(255, 255, 255)
 	box-sizing border-box

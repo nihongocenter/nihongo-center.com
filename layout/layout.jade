@@ -4,24 +4,30 @@ html
 		title= siteName
 	
 	body
-		header.widget
-			h1 Japanese Language School - Nihongo Center
-			.logo-container
-				img.logo(src='/images/japanese-language-school.png', alt='Japanese Language School - Nihongo Center')
+		header.widget.header
+			img.logo(src='/images/logo-64.png', alt='Japanese Language School - Nihongo Center')
+			h1.title
+				.title-top Japanese Language School
+				.title-bottom Nihongo Center
 			nav#navigation
-				.nav-item: a.ajax(href='/')
+				a.nav-item.ajax(href='/')
 					span.glyphicon.glyphicon-info-sign
 					span About
-				.nav-item: a.ajax(href='/course')
+				a.nav-item.ajax(href='/course')
 					span.glyphicon.glyphicon-education
 					span Course
-				.nav-item: a.ajax(href='/life')
+				a.nav-item.ajax(href='/life')
 					span.glyphicon.glyphicon-user
 					span Life
-				.nav-item: a.ajax(href='/future')
+				a.nav-item.ajax(href='/future')
 					span.glyphicon.glyphicon-flag
 					span Future
-				.nav-item: a.ajax(href='/join')
+				a.nav-item.ajax(href='/join')
 					span.glyphicon.glyphicon-share-alt
 					span Join us
-		main#content.widget.fade!= content
+		main#content.widget.fade
+			.wrapper!= content
+		footer.widget.footer
+			div
+				span &copy; 2016 
+				a(href='/') Nihongo Center

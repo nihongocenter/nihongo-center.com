@@ -14,8 +14,11 @@
 	],
 	"styles": [
 		"base",
+		"table",
 		"fade",
-		"nav"
+		"header",
+		"nav",
+		"footer"
 	],
 	"scripts": [],
 	"fonts": [

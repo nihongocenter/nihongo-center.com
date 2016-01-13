@@ -1,9 +1,25 @@
+@require "styles/config.styl"
+
 nav
 	display flex
-	flex-direction row
-	flex-flow: row wrap;
-	align-items center
+	flex-flow row wrap
+	justify-content flex-end
+	flex-grow 1
 
 .nav-item
-	padding 1em
+	padding 1em 1.3em
+	font-size 1.12em
 	text-transform uppercase
+	letter-spacing 1px
+	text-shadow 1px 1px 3px rgba(0, 0, 0, 0.1)
+	transition all 100ms ease
+	//border-radius 3px
+	.glyphicon
+		color linkColor - 15%
+		transition all 100ms ease
+	&:hover
+		background-color linkColor
+		color white
+		text-shadow 1px 1px 3px rgba(0, 0, 0, 0.5)
+		.glyphicon
+			color rgb(255, 255, 255)
