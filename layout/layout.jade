@@ -5,5 +5,23 @@ html
 	
 	body
 		header.widget
-			h1 Nihongo Center
-		main#content!= content
+			h1 Japanese Language School - Nihongo Center
+			.logo-container
+				img.logo(src='/images/japanese-language-school.png', alt='Japanese Language School - Nihongo Center')
+			nav#navigation
+				.nav-item: a.ajax(href='/')
+					span.glyphicon.glyphicon-info-sign
+					span About
+				.nav-item: a.ajax(href='/course')
+					span.glyphicon.glyphicon-education
+					span Course
+				.nav-item: a.ajax(href='/life')
+					span.glyphicon.glyphicon-user
+					span Life
+				.nav-item: a.ajax(href='/future')
+					span.glyphicon.glyphicon-flag
+					span Future
+				.nav-item: a.ajax(href='/join')
+					span.glyphicon.glyphicon-share-alt
+					span Join us
+		main#content.widget.fade!= content

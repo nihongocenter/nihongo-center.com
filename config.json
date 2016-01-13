@@ -13,14 +13,19 @@
 		"images"
 	],
 	"styles": [
-		"base"
+		"base",
+		"fade",
+		"nav"
 	],
 	"scripts": [],
 	"fonts": [
-		"Lato"
+		"Open Sans",
+		"Open Sans:bold"
 	],
 	"plugins": {
-		"style-reset": "*"
+		"style-reset": {},
+		"kaze": {},
+		"glyphicons": {}
 	},
 	"favIcon": "favicon.ico"
 }

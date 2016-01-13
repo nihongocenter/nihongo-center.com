@@ -1,11 +1,18 @@
+@require "styles/config.styl"
+
 body
-	font-family "Lato", sans-serif
+	font-family "Open Sans", sans-serif
 	background-image url('/images/background.png')
 	padding 0.5em
+
+a
+	color linkColor
+	text-decoration none
 
 h1
 	font-size 2em
 	line-height 1.4em
+	display none
 
 h2
 	font-size 1.5em
@@ -14,11 +21,24 @@ p
 	line-height 1.5em
 	margin 0.5em 0
 
+strong
+	font-weight bold
+
+em
+	font-style italic
+
 img
 	max-width 100%
 
+span.glyphicon
+	font-size 0.9em
+	margin-right 0.4em
+
+.logo-container
+	flex-grow 1
+
 .widget
-	float left
+	display flex
 	width calc(100% - 1em)
 	padding 1em
 	margin 0.5em
