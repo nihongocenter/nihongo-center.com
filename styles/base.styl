@@ -4,6 +4,7 @@ body
 	font-family "Open Sans", sans-serif
 	-webkit-font-smoothing antialiased
 	background-image url('/images/background.png')
+	overflow-y scroll
 
 a
 	color linkColor
@@ -16,7 +17,7 @@ h1
 	line-height 1.4em
 
 h2
-	font-size 1.8em
+	font-size 2em
 	line-height 1.7em
 	margin 0.5em 0
 	border-bottom 1px dotted rgba(0, 0, 0, 0.5)
@@ -38,16 +39,61 @@ span.glyphicon
 	font-size 0.9em
 	margin-right 0.5em
 
-.wrapper
-	max-width 728px
-
-.widget
+#container
+#header
+#main
+#content
+#sidebar
+#footer
 	display flex
 	flex-direction column
+	padding 0
+	margin 0
+
+#container
+	padding 0.5em
+
+#header
+#main
+#footer
+	width 100%
+
+#main
+	display flex
+	flex-direction row
+
+#content
+	width calc(100% - 300px)
+	flex-grow 1
+
+#sidebar
+	width 300px
+	flex-grow 0
+
+.widget
+	display block
+	position relative
 	padding 1em
-	margin 1em
-	width calc(100% - 2em)
+	margin 0.5em
+	width calc(100% - 1em)
 	border-radius 5px
 	background-color rgb(255, 255, 255)
 	box-sizing border-box
 	box-shadow 0 0 6px rgba(0, 0, 0, 0.6)
+	overflow hidden
+
+.badge
+	position absolute
+	top 30px
+	right -140px
+	width 400px
+	height 50px
+	line-height 50px
+	font-size 1.2em
+	font-weight 700
+	text-transform uppercase
+	background-color red
+	color white
+	box-shadow 0 0 8px rgba(0, 0, 0, 0.5)
+	opacity 0.7
+	transform rotateZ(45deg)

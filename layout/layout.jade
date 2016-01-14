@@ -4,30 +4,34 @@ html
 		title= siteName
 	
 	body
-		header.widget.header
-			img.logo(src='/images/logo-64.png', alt='Japanese Language School - Nihongo Center')
-			h1.title
-				.title-top Japanese Language School
-				.title-bottom Nihongo Center
-			nav#navigation
-				a.nav-item.ajax(href='/')
-					span.glyphicon.glyphicon-info-sign
-					span About
-				a.nav-item.ajax(href='/course')
-					span.glyphicon.glyphicon-education
-					span Course
-				a.nav-item.ajax(href='/life')
-					span.glyphicon.glyphicon-user
-					span Life
-				a.nav-item.ajax(href='/future')
-					span.glyphicon.glyphicon-flag
-					span Future
-				a.nav-item.ajax(href='/join')
-					span.glyphicon.glyphicon-share-alt
-					span Join us
-		main#content.widget.fade
-			.wrapper!= content
-		footer.widget.footer
-			div
-				span &copy; 2016 
-				a(href='/') Nihongo Center
+		#container
+			header#header
+				.widget.header-layout
+					img.logo(src='/images/logo-64.png', alt='Japanese Language School - Nihongo Center')
+					h1.title
+						.title-top Japanese Language School
+						.title-bottom Nihongo Center
+					nav#navigation
+						a.nav-item.ajax(href='/')
+							span.glyphicon.glyphicon-info-sign
+							span About
+						a.nav-item.ajax(href='/course')
+							span.glyphicon.glyphicon-education
+							span Course
+						a.nav-item.ajax(href='/life')
+							span.glyphicon.glyphicon-user
+							span Life
+						a.nav-item.ajax(href='/future')
+							span.glyphicon.glyphicon-flag
+							span Future
+						a.nav-item.ajax(href='/join')
+							span.glyphicon.glyphicon-share-alt
+							span Join us
+			#main
+				main#content.fade!= content
+				aside#sidebar
+					include sidebar.jade
+			footer#footer
+				.widget
+					span &copy; 2016 
+					a(href='/') Nihongo Center
