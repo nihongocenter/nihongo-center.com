@@ -18,9 +18,12 @@
 		"fade",
 		"header",
 		"nav",
-		"footer"
+		"footer",
+		"sidebar"
 	],
-	"scripts": [],
+	"scripts": [
+		"init"
+	],
 	"fonts": [
 		"Open Sans",
 		"Open Sans:bold"

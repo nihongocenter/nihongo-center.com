@@ -1,0 +1,59 @@
+.apply-now
+	display flex
+	align-items center
+	justify-content center
+	font-size 2em
+	color rgb(242, 248, 255)
+	background-image url('/images/apply-now-blue.png')
+	background-size cover
+	text-shadow none
+	font-weight bold
+	letter-spacing 1px
+	height 100px
+	transition all 200ms ease
+	&:hover
+		text-decoration none
+		text-shadow 0 0 8px rgba(255, 255, 255, 0.25)
+		box-shadow 0 0 24px rgba(0, 0, 0, 0.75)
+		color rgb(255, 255, 128)
+		transform scale(1.03)
+
+.sidebar-social-media
+	display flex
+	padding 0
+	overflow visible
+
+.sidebar-social-media:hover
+	box-shadow 0 0 6px rgba(0, 0, 0, 0.6)
+
+.sidebar-social-media-link
+	flex 1
+	text-align center
+	border-radius 0
+	margin 0
+	padding 1em
+	transition all 250ms ease
+
+.sidebar-social-media-link:first-child
+	border-top-left-radius 5px
+	border-bottom-left-radius 5px
+
+.sidebar-social-media-link:last-child
+	border-top-right-radius 5px
+	border-bottom-right-radius 5px
+
+.sidebar-social-media-link:hover
+	box-shadow 0 0 6px rgba(0, 0, 0, 0.6)
+	transform scale(1.1)
+
+.facebook
+	background-color rgb(59, 89, 152)
+
+.googleplus
+	background-color rgb(221, 75, 57)
+
+.twitter
+	background-color rgb(0, 172, 237)
+
+.mail-button
+	background-color rgb(80, 80, 80)
