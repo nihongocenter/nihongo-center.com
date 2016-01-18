@@ -5,7 +5,9 @@
 	"dependencies": {
 		"aero": "*",
 		"i18n": "*",
-		"jstransformer-markdown": "*"
+		"jstransformer-markdown": "*",
+		"bluebird": "*",
+		"node-watch": "*"
 	},
 	"author": {
 		"name": "Eduard Urbach",
