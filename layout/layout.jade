@@ -6,32 +6,32 @@ html
 	body
 		#container
 			header#header
-				.widget.header-layout
+				.box.header-layout
 					img.logo(src='/images/logos/nihongo-center-small.png', alt='Japanese Language School - Nihongo Center')
 					h1.title
 						.title-top Japanese Language School
 						.title-bottom Nihongo Center
 					nav#navigation
 						a.nav-item.ajax(href='/')
-							span.glyphicon.glyphicon-info-sign
-							span About
+							span.glyphicon.glyphicon-info-sign.nav-icon
+							span.nav-text About
 						a.nav-item.ajax(href='/course')
-							span.glyphicon.glyphicon-education
-							span Course
+							span.glyphicon.glyphicon-education.nav-icon
+							span.nav-text Course
 						a.nav-item.ajax(href='/life')
-							span.glyphicon.glyphicon-user
-							span Life
+							span.glyphicon.glyphicon-user.nav-icon
+							span.nav-text Life
 						a.nav-item.ajax(href='/future')
-							span.glyphicon.glyphicon-flag
-							span Future
+							span.glyphicon.glyphicon-flag.nav-icon
+							span.nav-text Future
 						a.nav-item.ajax(href='/join')
-							span.glyphicon.glyphicon-share-alt
-							span Join us
+							span.glyphicon.glyphicon-share-alt.nav-icon
+							span.nav-text Join us
 			#main
 				main#content.fade!= content
 				aside#sidebar
 					include sidebar.jade
 			footer#footer
-				.widget
+				.box
 					span &copy; 2016 
 					a(href='/') Nihongo Center

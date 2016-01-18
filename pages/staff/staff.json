@@ -1,0 +1,50 @@
+{
+	"staff": [
+		{
+			"name": "Hideo Kurita",
+			"image": "kurita.png",
+			"role": "Principal"
+		},
+		{
+			"name": "Kuniko Kinomura",
+			"image": "kinomura.png",
+			"role": "Managing Director"
+		},
+		{
+			"name": "Koji Ueda",
+			"image": "ueda.png",
+			"role": "Teacher"
+		},
+		{
+			"name": "Takayuki Niwa",
+			"image": "niwa.png",
+			"role": "Teacher"
+		},
+		{
+			"name": "Erika Kadowaki",
+			"image": "kadowaki.png",
+			"role": "Teacher"
+		},
+		{
+			"name": "Mitsuaki Morita",
+			"image": "morita.png",
+			"role": "Teacher"
+		},
+		{
+			"name": "Kohei Ashida",
+			"image": "ashida.png",
+			"role": "Admission"
+		},
+		{
+			"name": "Guillaume Scharff",
+			"image": "guillaume.png",
+			"role": "Admission"
+		},
+		{
+			"name": "Eduard Urbach",
+			"image": "edo.png",
+			"role": "Web Developer",
+			"link": "https://blitzprog.org"
+		}
+	]
+}

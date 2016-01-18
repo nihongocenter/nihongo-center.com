@@ -19,7 +19,8 @@
 		"header",
 		"nav",
 		"footer",
-		"sidebar"
+		"sidebar",
+		"mobile"
 	],
 	"scripts": [
 		"init"
