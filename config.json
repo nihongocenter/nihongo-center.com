@@ -15,6 +15,7 @@
 	"styles": [
 		"base",
 		"table",
+		"video",
 		"fade",
 		"header",
 		"nav",
