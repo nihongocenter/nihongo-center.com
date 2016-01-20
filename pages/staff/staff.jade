@@ -1,3 +1,5 @@
+include ../about/header.jade
+
 mixin showMember(member)
 	img(src='/images/staff/' + member.name.split(' ')[1].toLowerCase() + '.png', alt=member.name, title=`${member.name} (${member.role})`)
 

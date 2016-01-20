@@ -12,7 +12,7 @@ nav
 	text-transform uppercase
 	letter-spacing 1px
 	text-shadow 1px 1px 3px rgba(0, 0, 0, 0.1)
-	color rgb(32, 32, 32)
+	color textColor
 	transition all 100ms ease
 	border-radius 3px
 	.glyphicon
@@ -22,5 +22,28 @@ nav
 		background-color linkColor
 		color white
 		text-shadow 1px 1px 3px rgba(0, 0, 0, 0.5)
+		.glyphicon
+			color rgb(255, 255, 255)
+
+.sub-navigation
+	display flex
+	flex-flow row wrap
+	padding 0
+	//border-radius borderRadius
+
+.sub-navigation-item
+	display inline-block
+	margin 0
+	padding 1em
+	color textColor
+	.glyphicon
+		color linkColor - 15%
+		font-size 0.9em
+	//&:first-child
+	//	border-radius borderRadius 0 0 borderRadius
+	&:hover
+		background-color subNavHoverBackgroundColor
+		color white
+		text-shadow 1px 1px 3px rgba(0, 0, 0, 0.3)
 		.glyphicon
 			color rgb(255, 255, 255)

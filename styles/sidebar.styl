@@ -1,9 +1,11 @@
+@require "styles/config.styl"
+
 .apply-now
 	display flex
 	align-items center
 	justify-content center
 	font-size 2em
-	color rgb(80, 80, 80)
+	color textColor
 	//background-image url('/images/apply-now.png')
 	background-size cover
 	text-shadow none
@@ -40,12 +42,12 @@
 	transition all 250ms ease
 
 .sidebar-social-media-link:first-child
-	border-top-left-radius 5px
-	border-bottom-left-radius 5px
+	border-top-left-radius borderRadius
+	border-bottom-left-radius borderRadius
 
 .sidebar-social-media-link:last-child
-	border-top-right-radius 5px
-	border-bottom-right-radius 5px
+	border-top-right-radius borderRadius
+	border-bottom-right-radius borderRadius
 
 .sidebar-social-media-link:hover
 	box-shadow 0 0 6px rgba(0, 0, 0, 0.6)

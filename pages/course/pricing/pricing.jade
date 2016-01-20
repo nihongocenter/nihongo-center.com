@@ -1,0 +1,73 @@
+include ../header.jade
+
+mixin pricing(registration, textbooks, tuition, visa)
+	- var currency = '¥'
+	table
+		tbody
+			if visa
+				tr
+					td
+						span.glyphicon.glyphicon-plane
+						span Visa application fee
+					td.price= intComma(visa) + ' ' + currency
+				
+			tr
+				td
+					span.glyphicon.glyphicon-share-alt
+					span Registration fee
+				td.price= intComma(registration) + ' ' + currency
+				
+			tr
+				td
+					span.glyphicon.glyphicon-book
+					span Textbooks
+				td.price= intComma(textbooks) + ' ' + currency
+				
+			tr
+				td
+					span.glyphicon.glyphicon-education
+					span Tuition
+				td.price= intComma(tuition) + ' ' + currency
+				
+			tr
+				td.total
+					span.glyphicon.glyphicon-chevron-right
+					span Total
+				td.total.price= intComma(visa + registration + textbooks + tuition) + ' ' + currency
+
+.box
+	h2 Pricing
+		
+	p The course price depends on how long you want to study Japanese at Nihongo Center:
+	
+.box
+	h3
+		span 10 weeks
+	
+	+pricing(27000, 19440, 194400, 0)
+	
+.box
+	h3
+		span 20 weeks
+	
+	+pricing(54000, 19440, 324000, 0)
+	
+.box
+	h3
+		span 6 months
+	
+	+pricing(54000, 19440, 324000, 32400)
+	
+.box
+	h3
+		span 1 year
+	
+	+pricing(54000, 38880, 648000, 32400)
+	
+.box
+	h3
+		span 2 years
+	
+	+pricing(54000, 38880 * 2, 648000 * 2, 32400)
+	
+	p ※ For the 2-year course you don't need to pay everything at once.

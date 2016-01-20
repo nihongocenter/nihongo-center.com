@@ -6,6 +6,7 @@ body
 	background-image url('/images/background.png')
 	overflow-y scroll
 	opacity 0.25
+	color textColor
 	transform rotateY(90deg)
 	transition all 500ms ease
 
@@ -74,6 +75,9 @@ li
 	line-height 1.7em
 	margin 0.1em 0
 
+tr:hover
+	background-color rgba(0, 0, 0, 0.05)
+
 #container
 #header
 #main
@@ -112,7 +116,7 @@ li
 	position relative
 	padding 1rem
 	margin 0.5rem
-	border-radius 5px
+	border-radius borderRadius
 	background-color rgb(255, 255, 255)
 	box-sizing border-box
 	box-shadow 0 0 6px rgba(0, 0, 0, 0.6)
