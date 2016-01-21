@@ -8,7 +8,7 @@ body
 	opacity 0.25
 	color textColor
 	transform rotateY(90deg)
-	transition all 500ms ease
+	transition all 400ms ease
 
 .loaded
 	opacity 1
@@ -36,9 +36,28 @@ h3
 	margin 0.5em 0
 	border-bottom 1px dotted rgba(0, 0, 0, 0.5)
 
-p
+p, dt, dd, .question, .answer
 	line-height 1.7em
 	margin 0.5em 0
+
+dt
+.question
+	font-weight bold
+
+/*.question:hover
+	.answer
+		opacity 1
+		height auto
+		transform rotateX(0)*/
+
+dd
+.answer
+	font-weight normal
+	margin-left 1em
+	/*opacity 0
+	height 0
+	transform rotateX(90deg)
+	transition all 200ms ease*/
 
 p:first-child
 	margin-top 0
@@ -129,6 +148,7 @@ tr:hover
 	width 400px
 	height 50px
 	line-height 50px
+	text-align center
 	font-size 1.2em
 	font-weight 700
 	text-transform uppercase
