@@ -1,13 +1,9 @@
 {
-	"siteName": "Japanese School - Nihongo Center",
+	"title": "Japanese School - Nihongo Center",
+	"favIcon": "favicon.ico",
 	"security": {
 		"key": "",
 		"cert": ""
-	},
-	"ports": {
-		"http": 4000,
-		"https": 4001,
-		"liveReload": 9000
 	},
 	"static": [
 		"images"
@@ -30,10 +26,9 @@
 		"Open Sans",
 		"Open Sans:bold"
 	],
-	"plugins": {
-		"style-reset": {},
-		"kaze": {},
-		"glyphicons": {}
-	},
-	"favIcon": "favicon.ico"
+	"ports": {
+		"http": 4000,
+		"https": 4001,
+		"liveReload": 9000
+	}
 }

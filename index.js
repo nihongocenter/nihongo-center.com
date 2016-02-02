@@ -1,1 +1,1 @@
-require('aero').run()
+require('aero')().run()

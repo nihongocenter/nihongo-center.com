@@ -4,8 +4,12 @@
 	"version": "1.0.0",
 	"dependencies": {
 		"aero": "*",
+		"aero-style-reset": "*",
+		"aero-kaze": "*",
+		"aero-glyphicons": "*",
 		"i18n": "*",
-		"jstransformer-markdown": "*",
+		"jstransformer-marked": "*",
+		"marked": "*",
 		"bluebird": "*",
 		"node-watch": "*",
 		"humanize-plus": "*"
