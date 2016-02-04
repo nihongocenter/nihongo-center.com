@@ -1,0 +1,25 @@
+featureColors = ( rgb(167, 227, 245) rgb(255, 196, 198) rgb(206, 255, 167) )
+
+.features
+	display flex
+	flex-direction row
+	width 100%
+
+.feature
+	flex 1
+	transition box-shadow 250ms ease
+
+.international-school
+	background linear-gradient(155deg, rgb(255, 255, 255) 0%, featureColors[0] 60%)
+	&:hover
+		box-shadow 0 0 8px featureColors[0]
+
+.practical-japanese
+	background linear-gradient(155deg, rgb(255, 255, 255) 0%, featureColors[1] 60%)
+	&:hover
+		box-shadow: 0 0 8px featureColors[1]
+
+.cultural-experience
+	background linear-gradient(155deg, rgb(255, 255, 255) 0%, featureColors[2] 60%)
+	&:hover
+		box-shadow 0 0 8px featureColors[2]

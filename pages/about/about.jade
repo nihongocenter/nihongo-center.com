@@ -17,3 +17,9 @@ include header.jade
 		Because of our rich and varied curriculum,
 		many of our students have been able to pass the entrance exams needed to continue
 		on to universities throughout Japan without any worries about language barriers.
+		
+.features
+	each feature, id in features
+		.box.feature(class=id)
+			h3= __(feature.title)
+			p!= __(feature.text)
