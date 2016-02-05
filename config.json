@@ -6,7 +6,8 @@
 		"cert": ""
 	},
 	"static": [
-		"images"
+		"images",
+		"downloads"
 	],
 	"styles": [
 		"base",

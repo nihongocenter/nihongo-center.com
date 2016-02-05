@@ -21,5 +21,6 @@ include header.jade
 .features
 	each feature, id in features
 		.box.feature(class=id)
-			h3= __(feature.title)
+			img.feature-icon(src=`/images/about/${id}.png`, alt=feature.title)
+			h3.feature-title= __(feature.title)
 			p!= __(feature.text)

@@ -2,12 +2,24 @@ featureColors = ( rgb(167, 227, 245) rgb(255, 196, 198) rgb(206, 255, 167) )
 
 .features
 	display flex
-	flex-direction row
+	flex-flow row wrap
 	width 100%
 
 .feature
-	flex 1
+	flex 1 0 300px
+	text-align center
 	transition box-shadow 250ms ease
+
+.feature-icon
+	width 90px !important
+	height 90px
+
+.feature-title
+	//font-weight bold
+	font-size 1.6rem
+	border-bottom none
+	margin-top 0
+	margin-bottom 0.5em
 
 .international-school
 	background linear-gradient(155deg, rgb(255, 255, 255) 0%, featureColors[0] 60%)

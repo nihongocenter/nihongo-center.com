@@ -1,7 +1,7 @@
 @require "styles/config.styl"
 
 body
-	font-family "Open Sans", sans-serif
+	font-family "Open Sans", "Ubuntu", sans-serif
 	-webkit-font-smoothing antialiased
 	background-image url('/images/background.png')
 	overflow-y scroll
@@ -59,11 +59,13 @@ dd
 	transform rotateX(90deg)
 	transition all 200ms ease*/
 
-p:first-child
-	margin-top 0
+p, h2, h3, h4
+	&:first-child
+		margin-top 0
 
-p:last-child
-	margin-bottom 0
+p, h2, h3, h4
+	&:last-child
+		margin-bottom 0
 
 strong
 	font-weight bold
