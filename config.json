@@ -1,10 +1,5 @@
 {
 	"title": "Japanese School - Nihongo Center",
-	"favIcon": "favicon.ico",
-	"security": {
-		"key": "",
-		"cert": ""
-	},
 	"static": [
 		"images",
 		"downloads"

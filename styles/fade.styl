@@ -1,7 +1,21 @@
 .fade
 	opacity 1
-	transition opacity 200ms ease
-	will-change opacity
+	transform-origin 0% 0%
+	//transform rotateX(0deg)
+	transform translateX(0)
+	transition all 350ms ease
 
 .fade-out
+	//transform rotateX(-90deg)
+	transform translateX(-100%)
 	opacity 0
+
+// .fade
+// 	opacity 1
+// 	transform-origin 50% 100vh
+// 	transform rotateZ(0deg) scale(1)
+// 	transition all 300ms ease
+//
+// .fade-out
+// 	opacity 0
+// 	transform rotateZ(45deg) scale(0.5)

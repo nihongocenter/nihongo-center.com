@@ -7,12 +7,10 @@ body
 	overflow-y scroll
 	opacity 0.25
 	color textColor
-	transform rotateY(90deg)
-	transition all 400ms ease
+	transition opacity 400ms ease
 
 .loaded
 	opacity 1
-	transform rotateY(0deg)
 
 a
 	color linkColor
@@ -30,11 +28,20 @@ h2
 	margin 0.5em 0
 	border-bottom 1px dotted rgba(0, 0, 0, 0.5)
 
-h3
-	font-size 1.5em
+h3, h4, h5, h6
+	font-size 1.6em
 	line-height 1.7em
 	margin 0.5em 0
 	border-bottom 1px dotted rgba(0, 0, 0, 0.5)
+
+h4
+	font-size 1.45em
+
+h5
+	font-size 1.3em
+
+h6
+	font-size 1.15em
 
 p, dt, dd, .question, .answer
 	line-height 1.7em
@@ -59,11 +66,11 @@ dd
 	transform rotateX(90deg)
 	transition all 200ms ease*/
 
-p, h2, h3, h4
+p, h2, h3, h4, h5
 	&:first-child
 		margin-top 0
 
-p, h2, h3, h4
+p, h2, h3, h4, h5
 	&:last-child
 		margin-bottom 0
 
