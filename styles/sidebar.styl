@@ -1,5 +1,23 @@
 @require "styles/config.styl"
 
+.flags
+	display flex
+	align-items center
+	justify-content center
+
+.flag
+	flex 1
+	text-align center
+	transition all 350ms ease
+	transform rotateZ(0)
+	filter saturate(90%)
+	&:hover
+		filter saturate(100%)
+		transform rotateZ(360deg)
+
+.flag-image
+	box-shadow 0 0 4px rgba(0, 0, 0, 0.3)
+
 .apply-now
 	display flex
 	align-items left

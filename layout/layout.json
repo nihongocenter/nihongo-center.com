@@ -1,0 +1,35 @@
+{
+	"languages": [
+		{
+			"name": "English",
+			"code": "",
+			"flag": "en"
+		},
+		{
+			"name": "Français",
+			"code": "fr"
+		},
+		{
+			"name": "繁體中文",
+			"code": "zh-hant",
+			"flag": "tw"
+		},
+		{
+			"name": "Indonesia",
+			"code": "id"
+		},
+		{
+			"name": "Русский",
+			"code": "ru"
+		},
+		{
+			"name": "Español",
+			"code": "es"
+		},
+		{
+			"name": "日本語",
+			"code": "ja",
+			"flag": "jp"
+		}
+	]
+}
