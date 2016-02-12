@@ -3,7 +3,7 @@
 	"repository": "nihongocenter/nihongo-center.com",
 	"version": "1.0.0",
 	"dependencies": {
-		"aero": "https://github.com/aerojs/aero/tarball/remake",
+		"aero": "*",
 		"aero-reset": "*",
 		"aero-ajax": "*",
 		"aero-glyphicons": "*",
