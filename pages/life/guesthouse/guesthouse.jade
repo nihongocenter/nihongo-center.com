@@ -1,0 +1,15 @@
+include ../header.jade
+
+.box
+	h2 Guest House
+	
+	:marked
+		We can offer you to live at the **Nihongo Center Guest House** which is located inside the school building for ~32,000 ¥ per month.
+
+- var n = 1
+- var pad = '00'
+while n <= 15
+	- var str = n.toString()
+	.box
+		img.accomodation-image(src='/images/accomodation/' + (pad.substring(0, pad.length - str.length) + str) + '.jpg', alt='Accomodation ' + n)
+	- n++
