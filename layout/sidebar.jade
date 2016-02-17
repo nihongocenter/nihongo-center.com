@@ -1,6 +1,6 @@
 a.box.apply-now(href='https://my.nihongo-center.com/', target='_blank')
 	span.glyphicon.glyphicon-thumbs-up
-	span Apply now!
+	span= __(apply)
 
 .box.sidebar-social-media
 	a(href='https://www.facebook.com/NihongoCenterKyoto', target='_blank', title='Facebook', class='sidebar-social-media-link facebook')
@@ -17,7 +17,8 @@ a.box.apply-now(href='https://my.nihongo-center.com/', target='_blank')
 
 .box.flags
 	each language in languages
-		a(href='/' + (language.code ? language.code + '/' : ''), title=language.name).flag
+		//a(href='/' + (language.code ? language.code + '/' : ''), title=language.name).flag
+		a(href=`javascript:window.changeLanguage('${language.code}');`, title=language.name).flag
 			img.flag-image(src=`/images/flags/${language.flag ? language.flag : language.code}.png`, alt=language.name)
 
 .box

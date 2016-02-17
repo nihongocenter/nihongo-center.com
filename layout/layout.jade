@@ -9,24 +9,24 @@ html
 				.box.header-layout
 					img.logo(src='/images/logos/nihongo-center-small.png', alt='Japanese Language School - Nihongo Center')
 					h1.title
-						span.title-top Japanese Language School
-						span.title-bottom Nihongo Center
+						span.title-top= __(title.top)
+						span.title-bottom= __(title.bottom)
 					nav#navigation
 						a.nav-item.ajax(href='/')
 							span.glyphicon.glyphicon-info-sign.nav-icon
-							span.nav-text About
+							span.nav-text= __(nav.about)
 						a.nav-item.ajax(href='/course')
 							span.glyphicon.glyphicon-education.nav-icon
-							span.nav-text Course
+							span.nav-text= __(nav.course)
 						a.nav-item.ajax(href='/life')
 							span.glyphicon.glyphicon-user.nav-icon
-							span.nav-text Life
+							span.nav-text= __(nav.life)
 						a.nav-item.ajax(href='/future')
 							span.glyphicon.glyphicon-flag.nav-icon
-							span.nav-text Future
+							span.nav-text= __(nav.future)
 						a.nav-item.ajax(href='/join')
 							span.glyphicon.glyphicon-share-alt.nav-icon
-							span.nav-text Join us
+							span.nav-text= __(nav.join)
 			#main
 				main#content.fade!= content
 				aside#sidebar

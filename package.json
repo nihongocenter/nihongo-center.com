@@ -12,7 +12,8 @@
 		"marked": "*",
 		"bluebird": "*",
 		"node-watch": "*",
-		"humanize-plus": "*"
+		"humanize-plus": "*",
+		"cookie-session": "*"
 	},
 	"author": {
 		"name": "Eduard Urbach",

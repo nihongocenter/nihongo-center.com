@@ -1,4 +1,12 @@
 {
+	"title": {
+		"en": "Staff",
+		"ja": "スタッフ"
+	},
+	"membersTitle": {
+		"en": "Staff members",
+		"ja": "メンバー"
+	},
 	"staff": [
 		{
 			"name": "Hideo Kurita",

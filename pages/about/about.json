@@ -3,28 +3,34 @@
 	"features": {
 		"international-school": {
 			"title": {
-				"en": "International School"
+				"en": "International School",
+				"ja": "国際色豊かな教育環境"
 			},
 			"text": {
-				"en": "Our students come <strong>from all over the world</strong>, with about 60% from western and 40% from Asian countries. With over 30 different countries represented at our school, we are proud of our great cultural diversity."
+				"en": "Our students come <strong>from all over the world</strong>, with about 60% from western and 40% from Asian countries. With over 30 different countries represented at our school, we are proud of our great cultural diversity.",
+				"ja": "日本語センターの学生はとにかくカラフル。西洋系6割、東洋系7割という割合でみれば一 目瞭然です。なんと30ヶ国以上の学生が学習しているので「国際色豊か」という言葉がぴったりです。"
 			}
 		},
 
 		"practical-japanese": {
 			"title": {
-				"en": "Practical Japanese"
+				"en": "Practical Japanese",
+				"ja": "本当に使える日本語"
 			},
 			"text": {
-				"en": "Our professional instructors use a uniquely developed teaching method to guide students through the learning process. <strong>Even complete beginners</strong> find they are able to start communicating from the very first week, and ..."
+				"en": "Our professional instructors use a uniquely developed teaching method to guide students through the learning process. <strong>Even complete beginners</strong> find they are able to start communicating from the very first week, and ...",
+				"ja": "プロのインストラクターが独自に開発された習得ノウハウの世界に学生を導きます。最初の1週間で「もうしゃべっている自分」を発見できるのは、日本語センターだけ。"
 			}
 		},
 
 		"cultural-experience": {
 			"title": {
-				"en": "Cultural Experience"
+				"en": "Cultural Experience",
+				"ja": "日本語学習＋文化体験"
 			},
 			"text": {
-				"en": "<em>\"I want to do more than just study...\"</em> If you're looking for something more than hitting the textbooks every day, then our school is for you. With our <strong>Discover Kyoto Program</strong>, you have the chance to explore the rich history and traditional culture still present in Kyoto today, ..."
+				"en": "<em>\"I want to do more than just study...\"</em> If you're looking for something more than hitting the textbooks every day, then our school is for you. With our <strong>Discover Kyoto Program</strong>, you have the chance to explore the rich history and traditional culture still present in Kyoto today, ...",
+				"ja": "日本語学習だけでは物足りない・・・というあなたには日本語センターがぴったりです。ディスカバー京都プログラム、文化体験授業といった課外活動がたくさん盛り込まれています。"
 			}
 		}
 	}

@@ -4,11 +4,11 @@ mixin showMember(member)
 	img(src='/images/staff/' + member.name.split(' ')[1].toLowerCase() + '.png', alt=member.name, title=`${member.name} (${member.role})`)
 
 .box
-	h2 Staff
+	h2= __(title)
 	img(src='/images/staff/staff.jpg', alt='All staff members')
 	
 .box
-	h3 Staff members
+	h3= __(membersTitle)
 	.staff-members
 		each member in staff
 			if member.link

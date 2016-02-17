@@ -1,13 +1,8 @@
 include ../header.jade
 
 .box
-	:marked
-		## International School
+	h2= __(title)
 	
-		Our students at Nihongo Center come from all over the world,
-		with about 60% from western countries, and 40% from Asian countries.
-		With over 30 different countries represented at our international school,
-		we are proud of our great cultural diversity. What nationality will your classmates be?
-		Join us and find out!
+	!= md(__(text))
 		
-		![International School](/images/international-school.jpg)
+	img(src='/images/international-school.jpg', alt='International School')

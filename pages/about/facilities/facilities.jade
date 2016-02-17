@@ -1,11 +1,9 @@
 include ../header.jade
 
 .box
-	:marked
-		## Facilities
+	h2= __(title)
 	
-		We put a lot of effort into making your study environment as **clean** and **relaxing** as possible.
-		The following photos show how Nihongo Center looks from the inside:
+	!= md(__(text))
 	
 .box
 	each image in imageList

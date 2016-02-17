@@ -1,5 +1,3 @@
-'use strict'
-
 let Humanize = require('humanize-plus')
 
 exports.get = (request, response) => {
