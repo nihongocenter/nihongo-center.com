@@ -1,6 +1,42 @@
 {
+	"title": {
+		"en": "Japanese courses at Nihongo Center",
+		"ja": "日本語のコース"
+	},
 	"lead": {
 		"en": "Here at Nihongo Center, we recognize the multitude of reasons for studying Japanese. For those who wish to master daily conversation, continue your education in Japan, or find a job related to Japanese, we have carefully developed courses to meet your various needs and prepare you for any [JLPT](/future/jlpt) level you wish to pass.",
 		"ja": "ヨーロッパ、北南米、アジア等、世界30カ国以上からの留学生が学習している日本語センターでは、「日本語が話せるようになりたい」「日本で進学したい」「日本語を使って仕事をしたい」といった様々なニーズに対応できるコースを用意しています。"
+	},
+	"introductory": {
+		"en": "Introductory",
+		"ja": "入門",
+		"text": {
+			"en": "Students learn the Japanese sentence structure and vocabulary necessary for acquiring basic conversational skills. Students are also taught to read and write about basic, familiar topics. At the completion of this course, students will be at approximately level N5 or N4 of the Japanese Language Proficiency Test.",
+			"ja": "ダイレクトメソッドによる文法導入から、学んだ文型や語彙を使用して基本的な日常会話に必要な会話力を習得します。また、身近なことがらについての基礎的な読み書きができるように指導します。日本語能力試験Ｎ５からＮ４レベルです。"
+		}
+	},
+	"beginner": {
+		"en": "Beginner",
+		"ja": "初級",
+		"text": {
+			"en": "This course focuses on improving practical daily conversational skills, including honorific expressions. In addition, readings and writings focus on topics related to Japanese culture to help deepen the students’ interest and understanding. Japanese ability should be comparable to level N3 of the JLPT at the completion of this course.",
+			"ja": "敬語表現を含む実用的な日常会話の習得を目指します。また、日本文化に密着したトピックについての読み書きを指導し、興味と理解を深めます。日本語能力試験Ｎ３レベルです。"
+		}
+	},
+	"intermediate": {
+		"en": "Intermediate",
+		"ja": "中級",
+		"text": {
+			"en": "In this course students learn to distinguish various levels of formality, honorifics, and gender-specific speech, while continuing to build their conversational ability in a number of situations. Students read novels, newspapers, and magazines, and learn to express their opinions through high-level writing. Japanese level will be comparable to level N2 of the JLPT at the end of this course.",
+			"ja": "待遇表現、敬語、性別による違いを含む、さまざまな場面に応じた会話力を習得します。また小説、新聞、雑誌などを読み、自分の意見を高度な文章で書き表す力を身に付けます。日本語能力試験Ｎ２レベルです。"
+		}
+	},
+	"advanced": {
+		"en": "Advanced",
+		"ja": "上級",
+		"text": {
+			"en": "This course helps student attain fluency in communication and the skills needed to exchange thoughts, opinions, and information freely. Students read and write about novels, current events, and other technical topics, as well as build their ability to discuss and debate. Japanese level should comparable to level N1 of the JLPT at the completion of this course.",
+			"ja": "情報や意見の交換など、「流暢さ」を追求した自由会話を指導します。小説や時事問題、専門的なトピックについての読み書きと討論をする能力を身に付けます。日本語能力試験Ｎ１レベルです。"
+		}
 	}
 }

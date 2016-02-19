@@ -1,0 +1,26 @@
+{
+	"title": {
+		"en": "Duration",
+		"ja": "受講期間"
+	},
+	"lead": {
+		"en": "We're very **flexible**. You can choose how long you want to study at Nihongo Center and we will handle all the visa paperwork with the Japanese government in order for you to come to Japan.",
+		"ja": ""
+	},
+	"shortCourse": {
+		"en": "10 - 20 weeks",
+		"ja": "10週間、20週間",
+		"text": {
+			"en": "The **Short-Term Course** is designed for those who wish to improve their conversation skills for daily life in Japan, for their job, or whatever other reason they may have. We offer classes to fit the students’ wants and needs, with [4 levels from beginner to advanced](/course). The number of lesson hours per week allows for optimal learning without being overwhelming. Those wishing to come to Japan on a short-term 90 day visa should consider this Japanese course.",
+			"ja": "日本で生活する、または仕事をするために必要な日常会話を短期間で修得するコースです。レベルは初級から上級まで４段階に対応し、生徒の希望にあったかたちで授業を進めます。１週間あたりのレッスン数も、無理なく学習できるように配慮されています。 ９０日の短期ビザ（日本語学習）で来日したい学生はこのコースをとってください。"
+		}
+	},
+	"intensiveCourse": {
+		"en": "1 - 2 years",
+		"ja": "1年以上",
+		"text": {
+			"en": "The **Intensive Course** is for those who wish to thoroughly study Japanese for a year or longer, and is particularly suited for those wishing to improve their language skills, continue their education in Japan, or find a job that makes use of their Japanese language skills. [Classes are divided into 4 levels](/course), with curriculum designed to each student’s ability. In particular, the course focuses on developing the student’s verbal communication skills, while helping to develop reading, writing, and listening as well. Guidance is also provided for those wishing to take the Japanese Language Proficiency Test, enter university or find work in Japan.",
+			"ja": "1年以上じっくり日本語を学習したい人のためのコースです。日本語表現能力の向上、日本での進学、日本語能力を生かしての就職を目的としている人に最適です。レベルは五段階に分かれており、それぞれの学習者の能力に応じてクラス編成されています。特に、話す能力に重点を置きつつ、読む、書く、聴くを加えた4技能を相対的に発展させることを目的としています。キャリアアップのための日本語能力試験対策、進学・就職のための指導も行います。"
+		}
+	}
+}
