@@ -3,13 +3,7 @@ include header.jade
 .box
 	h2 Japanese courses at Nihongo Center
 	
-	p
-		| Here at Nihongo Center, we recognize the multitude of reasons for studying Japanese.
-		| For those who wish to master daily conversation, continue your education in Japan,
-		| or find a job related to Japanese, we have carefully developed courses to meet your various needs
-		| and prepare you for any 
-		a.ajax(href='/future/jlpt') JLPT
-		|  level you wish to pass.
+	!= md(__(lead))
 	
 	img(src='/images/course.jpg', alt='Course overview')
 

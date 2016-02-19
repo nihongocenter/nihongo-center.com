@@ -1,12 +1,1 @@
-.box.sub-navigation
-	a.sub-navigation-item.ajax(href='/course')
-		span.glyphicon.glyphicon-education
-		span Difficulty
-	
-	a.sub-navigation-item.ajax(href='/course/duration')
-		span.glyphicon.glyphicon-time
-		span Duration
-	
-	a.sub-navigation-item.ajax(href='/course/pricing')
-		span.glyphicon.glyphicon-usd
-		span Pricing
+.box.sub-navigation!= navBar(nav.course)

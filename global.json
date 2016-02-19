@@ -1,0 +1,153 @@
+{
+	"nav": {
+		"about": {
+			"en": "About",
+			"fr": "L’école",
+			"ja": "学院",
+			"pages": [
+				{
+					"en": "About",
+					"ja": "概要",
+					"icon": "home",
+					"url": ""
+				},
+				{
+					"en": "International",
+					"ja": "多国籍",
+					"icon": "globe",
+					"url": "/about/international-school"
+				},
+				{
+					"en": "Practical",
+					"ja": "実践",
+					"icon": "comment",
+					"url": "/about/practical-japanese"
+				},
+				{
+					"en": "Events",
+					"ja": "イベント",
+					"icon": "calendar",
+					"url": "/about/events"
+				},
+				{
+					"en": "Facilities",
+					"ja": "施設",
+					"icon": "blackboard",
+					"url": "/about/facilities"
+				},
+				{
+					"en": "Staff",
+					"ja": "スタッフ",
+					"icon": "user",
+					"url": "/about/staff"
+				}
+			]
+		},
+		"course": {
+			"en": "Course",
+			"fr": "Cours",
+			"ja": "コース",
+			"pages": [
+				{
+					"en": "Difficulty",
+					"ja": "レベル",
+					"icon": "education",
+					"url": "/course"
+				},
+				{
+					"en": "Duration",
+					"ja": "受講期間",
+					"icon": "time",
+					"url": "/course/duration"
+				},
+				{
+					"en": "Pricing",
+					"ja": "学費",
+					"icon": "usd",
+					"url": "/course/pricing"
+				}
+			]
+		},
+		"life": {
+			"en": "Life",
+			"fr": "Quotidien",
+			"ja": "生活",
+			"pages": [
+				{
+					"en": "Life",
+					"ja": "生活",
+					"icon": "eye-open",
+					"url": "/life"
+				},
+				{
+					"en": "Study",
+					"ja": "勉強",
+					"icon": "education",
+					"url": "/life/study-in-japan"
+				},
+				{
+					"en": "Accomodation",
+					"ja": "宿舎",
+					"icon": "bed",
+					"url": "/life/accomodation"
+				},
+				{
+					"en": "Guest House",
+					"ja": "ゲストハウス",
+					"icon": "home",
+					"url": "/life/guesthouse"
+				},
+				{
+					"en": "FAQ",
+					"ja": "FAQ",
+					"icon": "question-sign",
+					"url": "/life/faq"
+				}
+			]
+		},
+		"future": {
+			"en": "Future",
+			"fr": "Future",
+			"ja": "進路",
+			"pages": [
+				{
+					"en": "Future",
+					"ja": "進路",
+					"icon": "flag",
+					"url": "/future"
+				},
+				{
+					"en": "Education",
+					"ja": "進学",
+					"icon": "education",
+					"url": "/future/education"
+				},
+				{
+					"en": "JLPT",
+					"ja": "JLPT",
+					"icon": "certificate",
+					"url": "/future/jlpt"
+				}
+			]
+		},
+		"join": {
+			"en": "Join us",
+			"fr": "Admission",
+			"ja": "申込",
+			"pages": [
+				{
+					"en": "Join us",
+					"ja": "申込",
+					"icon": "share-alt",
+					"url": "/join"
+				},
+				{
+					"en": "Visa",
+					"ja": "ビザ",
+					"icon": "plane",
+					"url": "/join/visa"
+				}
+			]
+		}
+	}
+}

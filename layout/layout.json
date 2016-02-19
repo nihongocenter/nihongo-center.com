@@ -5,7 +5,8 @@
 			"fr": "Ecole de japonais à Kyoto",
 			"ja": "京都の日本語学校",
 			"zh-hant": "日本語學校",
-			"ru": "Японского школа"
+			"ru": "Японского школа",
+			"id": "-"
 		},
 		"bottom": {
 			"en": "Nihongo Center",
@@ -17,33 +18,6 @@
 		"en": "Apply now!",
 		"fr": "Postuler!",
 		"ja": "今すぐ申し込む"
-	},
-	"nav": {
-		"about": {
-			"en": "About",
-			"fr": "L’école",
-			"ja": "学院"
-		},
-		"course": {
-			"en": "Course",
-			"fr": "Cours",
-			"ja": "コース"
-		},
-		"life": {
-			"en": "Life",
-			"fr": "Quotidien",
-			"ja": "生活"
-		},
-		"future": {
-			"en": "Future",
-			"fr": "Future",
-			"ja": "将来"
-		},
-		"join": {
-			"en": "Join us",
-			"fr": "Admission",
-			"ja": "入学"
-		}
 	},
 	"languages": [
 		{
@@ -68,6 +42,10 @@
 		{
 			"name": "Русский",
 			"code": "ru"
+		},
+		{
+			"name": "Indonesia",
+			"code": "id"
 		}
 	]
 }

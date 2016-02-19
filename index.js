@@ -2,6 +2,8 @@
 
 const app = require('aero')()
 const cookieSession = require('cookie-session')
+const globalJSON = require('./global.json')
+const marked = require('marked')
 
 app.use(cookieSession({
 	name: 'session',
@@ -23,20 +25,25 @@ app.use((request, response, next) => {
 	if(!request.session.language)
 		request.session.language = 'en'
 
+	request.globals = globalJSON
+
 	// Translate function
-	request.globals = {
-		__: languages => {
-			if(typeof languages !== 'object')
-				return languages
+	request.globals.__ = languages => {
+		if(typeof languages !== 'object')
+			return languages
 
-			let translation = languages[request.session.language]
+		let translation = languages[request.session.language]
 
-			if(translation === undefined)
-				return '-'//languages.en
+		if(translation === undefined)
+			return '-'//languages.en
 
-			return translation
-		},
-		md: require('marked')
+		return translation
+	}
+
+	request.globals.md = marked
+
+	request.globals.navBar = function(main) {
+		return main.pages.map(link => `<a href='${link.url}' class='sub-navigation-item ajax'><span class='glyphicon glyphicon-${link.icon}'></span><span>${request.globals.__(link)}</span></a>`).join('')
 	}
 
 	next()
