@@ -6,85 +6,49 @@ include ../header.jade
 	!= md(__(lead))
 
 .box
-	h3 Experience
+	h3= __(experience)
 	
 	.step
 		img.step-image(src='/images/wagashi/1.jpg', alt='Experience')
 		
-		.step-info
-			p.
-				First, students decide someplace they’d like to go to or
-				something they’d like to experience based on their interests.
-				This group decided to go to a Wagashi-making event held
-				at a long-standing Japanese sweets shop in Kyoto.
+		.step-info!= md(__(experience.text))
 
 .box
-	h3 Choose a topic
+	h3= __(topic)
 	
 	.step
 		img.step-image(src='/images/wagashi/2.jpg', alt='Choose a topic')
-			
-		.step-info
-			p.
-				After experiencing it first hand, students decide which specific topic
-				they’d like to research further. This group chose to present themes such as:
-			
-			ul
-				li How to make Wagashi
-				li History and ingredients
-				li Interview with a Wagashi artisan
-				li Ingredients and shapes of Wagashi
+		
+		.step-info!= md(__(topic.text))
 		
 .box
-	h3 Investigate
+	h3= __(investigate)
 	
 	.step
 		img.step-image(src='/images/wagashi/3.jpg', alt='Investigate')
 		
-		.step-info
-			p.
-				Once the topics have been decided, it’s time for research.
-				Students put their Japanese to use outside of the classroom to conduct interviews,
-				surveys and research through the internet.
-				This group went around to famous Wagashi shops in Kyoto,
-				interviewing employees and Wagashi artisans.
+		.step-info!= md(__(investigate.text))
 		
 .box
-	h3 Prepare
+	h3= __(prepare)
 	
 	.step
 		img.step-image(src='/images/wagashi/4.jpg', alt='Prepare')
 		
-		.step-info
-			p.
-				After all the research has been conducted,
-				students gather their information to create a manuscript and slides for their presentation.
-				Then comes practice; Group members check each others’ pronunciation, mannerisms,
-				and volume of voice, making sure everyone is well-prepared.
+		.step-info!= md(__(prepare.text))
 		
 .box
-	h3 Present
+	h3= __(present)
 		
 	.step
 		img.step-image(src='/images/wagashi/5.jpg', alt='Present')
 		
-		.step-info
-			p
-				| Other classes gather to 
-				a(href='https://www.youtube.com/watch?v=WTSVOaWCkYo', target='_blank') watch the presentation
-				| . This way, students are able
-				| to fully show the hard work and effort they put into their project.
-				| Once the presentation is over, everyone in the group feels a sense of accomplishment
-				| that they made it through to the end.
+		.step-info!= md(__(present.text))
 		
 .box
-	h3 Reflect
+	h3= __(reflect)
 	
 	.step
 		img.step-image(src='/images/wagashi/6.jpg', alt='Reflect')
 		
-		.step-info
-			p.
-				Finally, the group receives feedback from the class.
-				By watching a video of their presentation they can see themselves objectively
-				and look back on the efforts they made from the beginning to the end.
+		.step-info!= md(__(reflect.text))

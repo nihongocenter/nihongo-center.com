@@ -1,29 +1,58 @@
 {
 	"title": {
-		"en": "Events"
+		"en": "Events",
+		"ja": "イベント"
 	},
 	"lead": {
-		"en": "Through project work students are given a chance to put their acquired knowledge to use, by using practical Japanese outside of the class to research, plan, and prepare a presentation. As an example, we will take a look at a beginner’s group who chose to make a presentation about “Wagashi” (Japanese sweets)."
+		"en": "Through project work students are given a chance to put their acquired knowledge to use, by using practical Japanese outside of the class to research, plan, and prepare a presentation. As an example, we will take a look at a beginner’s group who chose to make a presentation about “Wagashi” (Japanese sweets).",
+		"ja": "日本語センターでは、日々の授業のほかに、その学びを総合的に用いて、学習者が自分達で話し合って計画をたて、実際に教室の外で日本語を使って調べ、一つの作品（発表、ビデオなど）にまとめる学習活動、プロジェクトワークを行っています。「和菓子」をグループテーマにした初級クラスの1つのグループを例に、プロジェクトワークについてご紹介します。"
 	},
 	"experience": {
-		"en": "",
+		"en": "Experience",
+		"ja": "体験する",
 		"text": {
-			"en": ""
+			"en": "First, students decide someplace they’d like to go to or something they’d like to experience based on their interests. This group decided to go to a Wagashi-making event held at a long-standing Japanese sweets shop in Kyoto.",
+			"ja": "プロジェクトの最初には、まずどこかへ行ってみたり、何かを体験してみたりして、学生の興味を引き出すところから始まります。和菓子グループは、京都の老舗和菓子店で開催されている和菓子手作り体験に行ってみることになりました。"
 		}
 	},
 	"topic": {
-		"en": ""
+		"en": "Choose a topic",
+		"ja": "テーマ決定",
+		"text": {
+			"en": "After experiencing it first hand, students decide which specific topic they’d like to research further. This group chose to present themes such as:\n\n* How to make Wagashi\n* History and ingredients\n* Interview with a Wagashi artisan\n* Ingredients and shapes of Wagashi",
+			"ja": "体験してきたことやそこから興味をもったことを出発点に、さらに深めて調べていくテーマを決めます。和菓子グループは、「和菓子の作り方」「歴史と材料」「和菓子職人にインタビュー」「和菓子の材料と形」などのテーマについて発表することにしました。"
+		}
 	},
 	"investigate": {
-		"en": ""
+		"en": "Investigate",
+		"ja": "調査する",
+		"text": {
+			"en": "Once the topics have been decided, it’s time for research. Students put their Japanese to use outside of the classroom to conduct interviews, surveys and research through the internet. This group went around to famous Wagashi shops in Kyoto, interviewing employees and Wagashi artisans.",
+			"ja": "テーマが決まったら、次は調査です。教室の外で実際に日本語を使って、インタビューやアンケートを行ったり、インターネットで調べたりします。和菓子グループは、京都で有名な和菓子店をめぐり、店員さんや職人さんにインタビュー調査を行いました。"
+		}
 	},
 	"prepare": {
-		"en": ""
+		"en": "Prepare",
+		"ja": "準備する",
+		"text": {
+			"en": "After all the research has been conducted, students gather their information to create a manuscript and slides for their presentation. Then comes practice; Group members check each others’ pronunciation, mannerisms, and volume of voice, making sure everyone is well-prepared.",
+			"ja": "調査が済んだら、まず調査して集めた内容を、原稿とパワーポイントにまとめ、発表できる形にします。それができれば、次に発表練習。発音、態度、声の大きさなど、グループでチェックしあい、より良い発表を作り上げていきます。"
+		}
 	},
 	"present": {
-		"en": ""
+		"en": "Present",
+		"ja": "発表する",
+		"text": {
+			"en": "Other classes gather to [watch the presentation](https://www.youtube.com/watch?v=WTSVOaWCkYo). This way, students are able to fully show the hard work and effort they put into their project. Once the presentation is over, everyone in the group feels a sense of accomplishment that they made it through to the end.",
+			"ja": "発表会はクラス内だけでなく、他のクラスとも合同で行います。学生たちは練習のときには見せなかった底力をここで見せてくれます。そして、終わったあとの学生たちの表情は、グループで協力しあって最後までやりとげたという達成感に満ち溢れています。"
+		}
 	},
 	"reflect": {
-		"en": ""
+		"en": "Reflect",
+		"ja": "ふりかえる",
+		"text": {
+			"en": "Finally, the group receives feedback from the class. By watching a video of their presentation they can see themselves objectively and look back on the efforts they made from the beginning to the end.",
+			"ja": "最後に、クラスにかえって、プロジェクトのフィードバックを行います。発表のビデオで自分が日本語を話している様子を客観的に見てみたり、体験から発表までの取り組みをふりかえることで、この一連のプロジェクトを学生たちの学びへとつなげます。"
+		}
 	}
 }
