@@ -1,21 +1,21 @@
 include header.jade
 
 .box
-	h2 Future
+	h2= __(title)
 	
 	img(src='/images/future.jpg', alt='What will you do after graduating from Nihongo Center?')
 	
 .box
-	h3 We got your back
+	h3= __(subTitle)
 	
-	p Whatever you wish to do in the future, Nihongo Center can guide you to your goal:
+	!= md(__(text))
 	
 	ul
 		li
-			a.ajax(href='/future/education') Education
+			a.ajax(href='/future/education')= __(links.education)
 			
 		//li
-		//	a.ajax(href='/future/career') Career
+		//	a.ajax(href='/future/career')= __(links.career)
 			
 		li
-			a.ajax(href='/future/jlpt') JLPT
+			a.ajax(href='/future/jlpt')= __(links.jlpt)
