@@ -1,0 +1,66 @@
+{
+	"title": {
+		"en": "Pricing",
+		"ja": "学費"
+	},
+	"lead": {
+		"en": "The course price depends on how long you want to study Japanese at Nihongo Center:",
+		"ja": "学費はコースの期間によって違います。"
+	},
+	"pricing": {
+		"visa": {
+			"en": "Visa application fee",
+			"ja": "ビザ申請料"
+		},
+		"registration": {
+			"en": "Registration fee",
+			"ja": "入学金"
+		},
+		"textbooks": {
+			"en": "Textbooks",
+			"ja": "教材費"
+		},
+		"tuition": {
+			"en": "Tuition",
+			"ja": "授業料"
+		},
+		"total": {
+			"en": "Total",
+			"ja": "合計"
+		}
+	},
+	"popular": {
+		"en": "Popular",
+		"ja": "人気"
+	},
+	"duration": {
+		"10 weeks": {
+			"en": "10 weeks",
+			"ja": "10週間"
+		},
+		"20 weeks": {
+			"en": "20 weeks",
+			"ja": "20週間"
+		},
+		"6 months": {
+			"en": "6 months",
+			"ja": "6ヶ月間"
+		},
+		"1 year": {
+			"en": "1 year",
+			"ja": "１年間",
+			"note": {
+				"en": "For this course you don't need to pay everything at once.",
+				"ja": "分割払いが可能です。"
+			}
+		},
+		"2 years": {
+			"en": "2 years",
+			"ja": "２年間",
+			"note": {
+				"en": "For this course you don't need to pay everything at once.",
+				"ja": "分割払いが可能です。"
+			}
+		}
+	}
+}

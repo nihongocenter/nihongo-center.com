@@ -8,67 +8,69 @@ mixin pricing(registration, textbooks, tuition, visa)
 				tr
 					td
 						span.glyphicon.glyphicon-plane
-						span Visa application fee
+						span= __(pricing.visa)
 					td.price= intComma(visa) + ' ' + currency
 				
 			tr
 				td
 					span.glyphicon.glyphicon-share-alt
-					span Registration fee
+					span= __(pricing.registration)
 				td.price= intComma(registration) + ' ' + currency
 				
 			tr
 				td
 					span.glyphicon.glyphicon-book
-					span Textbooks
+					span= __(pricing.textbooks)
 				td.price= intComma(textbooks) + ' ' + currency
 				
 			tr
 				td
 					span.glyphicon.glyphicon-education
-					span Tuition
+					span= __(pricing.tuition)
 				td.price= intComma(tuition) + ' ' + currency
 				
 			tr
 				td.total
 					span.glyphicon.glyphicon-chevron-right
-					span Total
+					span= __(pricing.total)
 				td.total.price= intComma(visa + registration + textbooks + tuition) + ' ' + currency
 
 .box
-	h2 Pricing
-		
-	p The course price depends on how long you want to study Japanese at Nihongo Center:
+	h2= __(title)
+	
+	!= md(__(lead))
 	
 .box
 	h3
-		span 10 weeks
+		span= __(duration['10 weeks'])
 	
 	+pricing(27000, 19440, 194400, 0)
 	
 .box(title='This course is taken using consecutive 3-month tourist visas.')
 	h3
-		span 20 weeks
+		span= __(duration['20 weeks'])
 	
 	+pricing(54000, 19440, 324000, 0)
 	
 .box
 	h3
-		span 6 months
+		span= __(duration['6 months'])
 	
 	+pricing(54000, 19440, 324000, 32400)
 	
 .box
-	.badge Popular
+	.badge= __(popular)
 	h3
-		span 1 year
+		span= __(duration['1 year'])
 	
 	+pricing(54000, 38880, 648000, 32400)
 	
+	p= '※ ' + __(duration['1 year'].note)
+	
 .box
 	h3
-		span 2 years
+		span= __(duration['2 years'])
 	
 	+pricing(54000, 38880 * 2, 648000 * 2, 32400)
 	
-	p ※ For the 2-year course you don't need to pay everything at once.
+	p= '※ ' + __(duration['2 years'].note)
