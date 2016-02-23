@@ -1,0 +1,52 @@
+{
+	"study": {
+		"title": {
+			"en": "Study in Japan",
+			"ja": "日本で日本語を学ぶ"
+		},
+		"text": {
+			"en": "Our students say that studying Japanese in Japan is a wonderful experience. After just a few lessons you begin to understand what people around you in everyday life are saying. Slowly you pick up the Kanji and suddenly texts with previously unreadable signs start to make sense.",
+			"ja": "日本語センターの生徒たちは日本で日本語を学んだことは本当に素晴らしい経験だったと語ってくれます。彼らの言葉の背景の１つには、最初の数時間の授業で、周りの日本人の会話を聞き取ることができるようになり、漢字は少しずつだとしても、今まで読めなかった日本の文字をすぐに理解できるようになっていく実体験があるからといえます。"
+		}
+	},
+	"practical": {
+		"title": {
+			"en": "Practical experience",
+			"ja": "実践的授業"
+		},
+		"text": {
+			"en": "You can immediately test your newly acquired knowledge by talking to friends or teachers, therefore gaining confidence in speaking Japanese. This constant practical experience will turn you into a fluent Japanese speaker very soon. Additionally, students acquire a part-time job after coming to Japan in order to finance their living expenses and to improve their Japanese in a professional work environment.",
+			"ja": "日本語センターの生徒は覚えたばかりの日本語の知識をすぐに授業の中で友達や先生と話すことで定着させることができ、生徒達にとっては日本語を話すうえで大きな自信になります。こういった継続的な実践経験で効率的に日本語話者として高いレベルへ進むことができるのです。また、授業だけでなく、アルバイトを通して日本のビジネスシーンでの日本語能力を磨くこともできます。"
+		}
+	},
+	"work": {
+		"title": {
+			"en": "Work",
+			"ja": "アルバイト"
+		},
+		"text": {
+			"en": "Students who need additional money for their daily life usually find a part-time job within their first months in Japan. Using a student visa you are allowed to work 28 hours per week. It is therefore absolutely possible to become independent in a very short time.",
+			"ja": "日本語センターに通う学生の中にはアルバイトをすることで生活費を調達している人もいます。留学ビザでは1週間あたり28時間以内であればアルバイトをすることが可能です。"
+		}
+	},
+	"everyone": {
+		"title": {
+			"en": "For everyone",
+			"ja": "留学を考えている皆さんへ"
+		},
+		"text": {
+			"en": "It doesn’t matter if you’re a beginner starting with zero knowledge or if you are advanced and have already studied the language. As an international language school we have Japanese courses for everyone. Join us now to study Japanese in Japan!",
+			"ja": ""
+		}
+	},
+	"visa": {
+		"title": {
+			"en": "Visa",
+			"ja": ""
+		},
+		"text": {
+			"en": "We will handle all the necessities that are required for you to be able to live and study in Japan during your course period. Once you apply at our school you will receive the Certificate of Eligibility which allows you to obtain a student visa. A visa is required to stay in Japan.",
+			"ja": ""
+		}
+	}
+}

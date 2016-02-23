@@ -1,46 +1,21 @@
 include ../header.jade
 
 .box
-	:marked
-		## Study in Japan
-		
-		Our students say that studying Japanese in Japan is a wonderful experience.
-		After just a few lessons you begin to understand what people around you in everyday life are saying.
-		Slowly you pick up the Kanji and suddenly texts with previously unreadable signs start
-		to make sense.
-		
+	h2= __(study.title)
+	!= md(__(study.text))
+
 .box
-	:marked
-		### Practical experience
-		You can immediately test your newly acquired knowledge
-		by talking to friends or teachers, therefore gaining confidence in speaking Japanese.
-		This constant practical experience will turn you into a fluent Japanese speaker very soon.
-		Additionally, students acquire a part-time job after coming to Japan in order to finance their
-		living expenses and to improve their Japanese in a professional work environment.
-	
-		
+	h3= __(practical.title)
+	!= md(__(practical.text))
+
 .box
-	:marked
-		### Work
-		
-		Students who need additional money for their
-		daily life usually find a part-time job within their first months in Japan.
-		Using a student visa you are allowed to work 28 hours per week.
-		It is therefore absolutely possible to become independent in a very short time.
-		
+	h3= __(work.title)
+	!= md(__(work.text))
+
 .box
-	:marked
-		### For everyone
-		
-		It doesn’t matter if you’re a beginner starting with zero knowledge or if you are advanced
-		and have already studied the language. As an international language school we have Japanese courses
-		for everyone. Join us now to study Japanese in Japan!
-		
+	h3= __(everyone.title)
+	!= md(__(everyone.text))
+
 .box
-	:marked
-		### Visa
-		
-		We will handle all the necessities that are required for you to be able to live
-		and study in Japan during your course period. Once you apply at our school you will
-		receive the Certificate of Eligibility which allows you to obtain a student visa.
-		A visa is required to stay in Japan.
+	h3= __(visa.title)
+	!= md(__(visa.text))

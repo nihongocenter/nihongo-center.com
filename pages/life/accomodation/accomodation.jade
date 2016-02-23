@@ -1,14 +1,9 @@
 include ../header.jade
 
 .box
-	h2 Accomodation
+	h2= __(title)
 	
-	p
-		| Nihongo Center has partnered up with Sakura and other housing companies 
-		| to make it easier for you to find 
-		strong a place to live in Japan
-		| . The following 
-		| list shows you some of the apartments we can offer you.
+	!= md(__(lead))
 
 .box
 	h3 Apartments
