@@ -1,45 +1,12 @@
 include ../../../header.jade
 
 .box
-	h2 Interview: Gabriella Miranda
+	h2= __(title)
 	
 	img.interview-picture(src='/images/interview/miranda.png', alt='Gabriella Miranda')
-	
+
 .box
 	dl
-		dt How long have you been living in Japan?
-		dd I lived in Japan for a year and 9 months. (From October 2011-June 2013)
-		
-		dt Why did you decide to come to Japan?
-		dd To improve my speaking, and to pass the JLPT.
-		
-		dt How long did you study Japanese before coming to Japan?
-		dd On my own I studied hiragana and katakana, as well as basic greetings.
-		
-		dt What was your Japanese level before coming to Japan?
-		dd Pretty much nothing.
-		
-		dt What were your thoughts when taking the JLPT?
-		dd I was glad there were many questions like we had practiced in class.
-		
-		dt How did you feel after passing the JLPT?
-		dd I thought, “No way!” I was so surprised. （＾▽＾）
-		
-		dt What efforts did you make in order to pass the JLPT?
-		dd
-			| I tried my hardest in class, speaking and listening. Studying everyday is very important.
-		
-		dt What aspect of classes at Nihongo Center were useful for passing the JLPT?
-		dd
-			| Listening practice was really helpful! It made the JLPT much easier. And the JLPT practice in class was helpful too.
-		
-		dt Do you have a message for the teachers at Nihongo Center?
-		dd
-			| I want to say thank you so much to all my teachers! It was because of you that I could pass. I really enjoyed my time here! I will definitely come back to Japan so let's meet again! (*^▽^*)
-		
-		dt Do you have a message for those who are thinking about studying Japanese?
-		dd Please come to Japan. You can learn much more quickly and enjoy learning.
-		
-		dt What are your future plans? (Japanese study, JLPT, work, etc)
-		dd
-			| I plan to study at university but I'm still deciding my major. For my Japanese, I want to make friends with Japanese people and other Japanese speaker's at a language cafe in Göteborg, Sweden.
+		each pair in interview
+			dt= __(pair.question)
+			dd!= md(__(pair.answer))
