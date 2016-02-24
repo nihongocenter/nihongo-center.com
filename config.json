@@ -22,6 +22,14 @@
 		"Open Sans",
 		"Open Sans:bold"
 	],
+	"languages": [
+		"en",
+		"ja",
+		"fr",
+		"zh-hant",
+		"ru",
+		"id"
+	],
 	"ports": {
 		"http": 4000,
 		"https": 4001,

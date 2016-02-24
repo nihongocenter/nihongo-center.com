@@ -1,45 +1,26 @@
 include ../header.jade
 
 .box
-	:marked
-		## JLPT
-	
-		The [Japanese Language Proficiency Test](http://www.jlpt.jp/), or JLPT, is a certification examination
-		that verifies the Japanese ability of people whose native language is not Japanese.
-		The JLPT was started in 1984 by the Japan Foundation and the
-		Association of International Education,
-		Japan (currently the Japan Educational Exchanges and Services).
-		A total of approximately 7,000 people from throughout the world took the first-ever JLPT.
-		However, the number of worldwide examines increased to about 770,000 for the 2009 examination,
-		making the JLPT the largest Japanese language examination in the world.
+	h2= __(title)
+	!= md(__(lead))
 	
 .box
-	:marked
-		### Levels
-		
-		The JLPT has **5 levels** ranging from N5 (easiest) to N1 (hardest). Most universities and work places require you to own at least JLPT N2 certification.
-		
+	h3= __(levels)
+	!= md(__(levels.text))
+
 .box
-	:marked
-		### Obtaining Certification
-		
-		Although passing the JLPT is more difficult than you might expect,
-		passing Level N1 will greatly increase your chances of entering a
-		Japanese university or graduate school, or obtaining employment at a
-		Japanese corporation. Passing Level N2 will greatly increase your
-		chances of entering a Japanese technical college.If you are considering using
-		Japanese at your job after returning to your native country, we recommend
-		that you try to pass Level N2 or higher.
-		Nihongo Center will give our utmost support to students who are trying to
-		achieve high goals.
-		
+	h3= __(certification)
+	!= md(__(certification.text))
+
 .box
-	h3 Interviews
+	h3= __(interviews)
 	
 	ul
 		li
 			a.ajax(href='/future/jlpt/interview/johansson') Peter Johansson
-			span  (Student with N1 Certification)
+			|  
+			span= __(certification.N1)
 		li
 			a.ajax(href='/future/jlpt/interview/miranda') Gabriella Miranda
-			span  (Student with N2 Certification)
+			|  
+			span= __(certification.N2)

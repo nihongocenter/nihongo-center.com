@@ -1,80 +1,29 @@
 include ../header.jade
 
 .box
-	h2 Education
-	
-	p There are many students who decide to continue their education after graduating from Nihongo Center.
+	h2= __(title)
+	!= md(__(lead))
 
 .box
-	:marked
-		### University
-	
-		Studying at a Japanese Language School will give you the opportunity to enter a university in Japan.
-		Since this is a very common case you can find the requirements for entering a university below.
+	h3= __(university)
+	!= md(__(university.text))
 		
 .box
-	:marked
-		#### Bachelor degree
-		
-		The requirements for obtaining a bachelor degree differ depending on
-		whether you go to a public or private university.
+	h4= __(university.bachelor)
+	!= md(__(university.bachelor.text))
+
+.box
+	h5= __(university.bachelor.public)
+	!= md(__(university.bachelor.public.text))
+
+.box
+	h5= __(university.bachelor.private)
+	!= md(__(university.bachelor.private.text))
+
+.box
+	h4= __(university.master)
+	!= md(__(university.master.text))
 	
 .box
-	:marked
-		##### Public universities
-		
-		- EJU exam, TOEIC exam
-		- Application (January for entrance in April, July for entrance in October)
-		- Entrance exam (interview, university specific exam)
-		
-		**Important:** An EJU score of at least **250 / 400** is required as well as **basic academic skills** (English, mathematics, science…).
-	
-.box
-	:marked
-		##### Private universities
-		
-		Here it usually depends on the university type and your chosen major.
-		
-		###### Universities where EJU is required
-		
-		An interview is required.
-		
-		###### Universities where EJU is not required
-		
-		A Japanese exam and an interview are required.
-		
-		###### Global 30 universities
-		
-		An entrance exam (in English) is required.
-		
-		###### Application
-		
-		Apply until January for entrance in April or apply until July for entrance in October.
-		
-		**Important:** Essential Japanese language abilities as well as English language abilities.
-	
-.box
-	h4 Master degree
-	
-	p In case you choose the same major you had during your Bachelor studies you can directly take the entrance exam.
-	p In case you choose a different major you need to:
-	
-	ul
-		li
-			span(style='line-height: 1.5;')
-				| Enter as a research student (you will need an interview with a professor before deciding your entrance period).
-		li Take the entrance exam the next year.
-	
-	p
-		strong Important:
-		|	JLPT N1, English abilities and knowledge about the chosen major.
-		
-.box
-	:marked
-		### Vocational school
-	
-		You can also choose to enter a vocational school in Japan. The requirements are as follows:
-		
-		1. JLPT (at least N2)
-		1. School application
-		1. Exam
+	h3= __(vocational)
+	!= md(__(vocational.text))
