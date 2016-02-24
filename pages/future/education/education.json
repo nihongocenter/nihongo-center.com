@@ -1,58 +1,58 @@
 {
 	"title": {
 		"en": "Education",
-		"ja": ""
+		"ja": "進学"
 	},
 	"lead": {
 		"en": "There are many students who decide to continue their education after graduating from Nihongo Center.",
-		"ja": ""
+		"ja": "日本語センターでは卒業後に日本の大学、専門学校などに進学を希望する生徒が多くいます。（私たちスタッフは様々なかたちで彼らの進学サポートをしております。）"
 	},
 	"university": {
 		"en": "University",
-		"ja": "",
+		"ja": "大学",
 		"text": {
 			"en": "Studying at a Japanese Language School will give you the opportunity to enter a university in Japan. Since this is a very common case you can find the requirements for entering a university below.",
-			"ja": ""
+			"ja": "日本語学校で勉強することで、日本の大学への進学を目指すことができます。日本の大学への進学する留学生は多く、一般的に入学の条件は以下の通りとなっております。\n\n※詳細は各大学の募集要項をご確認ください。"
 		},
 		"bachelor": {
 			"en": "Bachelor degree",
-			"ja": "",
+			"ja": "学士",
 			"text": {
 				"en": "The requirements for obtaining a bachelor degree differ depending on whether you go to a public or private university.",
-				"ja": ""
+				"ja": "学士号の取得については、国公立大学か私立大学かによって条件が異なります。"
 			},
 			"public": {
 				"en": "Public universities",
-				"ja": "",
+				"ja": "国公立大学",
 				"text": {
 					"en": "- EJU exam, TOEIC exam\n- Application (January for entrance in April, July for entrance in October)\n- Entrance exam (interview, university specific exam)\n\n**Important:** An EJU score of at least **250 / 400** is required as well as **basic academic skills** (English, mathematics, science…).",
-					"ja": ""
+					"ja": "- EJU試験、TOEIC試験\n- 入学申込　（4月入学の場合1月申込、10月入学の場合7月申込）\n- 入学試験　（面接、及び各大学独自の試験）\n\n**備考：**EJU試験の得点は最低での250点(400点満点)必要であり、尚且つ基礎科目(英語、数学、理科など)の知識も必要となります。"
 				}
 			},
 			"private": {
 				"en": "Private universities",
-				"ja": "",
+				"ja": "私立大学",
 				"text": {
 					"en": "Here it usually depends on the university type and your chosen major.\n\n###### Universities where EJU is required\n\nAn interview is required.\n\n###### Universities where EJU is not required\n\nA Japanese exam and an interview are required.\n\n###### Global 30 universities\n\nAn entrance exam (in English) is required.\n\n###### Application\n\nApply until January for entrance in April or apply until July for entrance in October.\n\n**Important:** Essential Japanese language abilities as well as English language abilities.",
-					"ja": ""
+					"ja": "私立大学では、大学や学部ごとに条件が異なります。\n\n###### EJU試験の得点が必要な大学\n\n実施科目：面接\n\n###### EJU試験の得点を必要としない大学\n\n実施科目：日本語、面接\n\n###### グローバル30\n\n実施科目：一般入学試験(言語は英語)\n\n###### 入学申込\n\n入学申込みは4月入学の場合は1月までに、10月入学の場合は7月までに行います。\n\n**備考：**英語と日本語の両方の能力が必要となります。"
 				}
 			}
 		},
 		"master": {
 			"en": "Master degree",
-			"ja": "",
+			"ja": "修士課程",
 			"text": {
 				"en": "In case you choose the same major you had during your Bachelor studies you can directly take the entrance exam.\n\nIn case you choose a different major you need to:\n\n- Enter as a research student (you will need an interview with a professor before deciding your entrance period).\n- Take the entrance exam the next year.\n\n**Important:** JLPT N1, English abilities and knowledge about the chosen major.",
-				"ja": ""
+				"ja": "希望している修士課程と同様の専攻科目で学士号を既に取得している場合、直接その修士課程の入学試験を受けることができます。\n\n希望している修士課程と異なる学士号を取得している場合、\n\n- まず研修生として希望する修士課程の研究室へ所属します。(研修生になるには、教授との面接を行い、研究室に入る時期を決定する必要があります。)\n- 研究室に所属した翌年に修士課程の入学試験を受験。\n\n**備考：**JLPT N1合格、及び英語能力と希望する修士課程の専門分野に関する知識が必要となります。"
 			}
 		}
 	},
 	"vocational": {
 		"en": "Vocational school",
-		"ja": "",
+		"ja": "専門学校",
 		"text": {
 			"en": "You can also choose to enter a vocational school in Japan. The requirements are as follows:\n\n1. JLPT (at least N2)\n1. School application\n1. Exam",
-			"ja": ""
+			"ja": "日本語センターを卒業後、日本の専門学校へ進学することも可能です。入学に係る条件/手続きは一般的に以下の通りです。"
 		}
 	}
 }

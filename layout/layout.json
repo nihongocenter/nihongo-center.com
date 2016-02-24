@@ -14,6 +14,14 @@
 			"zh-hant": "日本語中心"
 		}
 	},
+	"description": {
+		"en": "Nihongo Center is a Japanese school located in the heart of Kyoto. With over 30 years of experience teaching the Japanese language, we have established ourselves with our unique teaching methods as well as the talent and ability of our experienced instructors.",
+		"zh-hant": "日本語中心位於京都的中心四條河原町，對於上學非常便利。三十年來的日語教學經驗，由兼具能力及經驗的年輕教師教授公認為獨特的教學方式。"
+	},
+	"keywords": {
+		"en": "Japanese,Language,School,Kyoto",
+		"ja": "日本語,学校,留学,京都"
+	},
 	"apply": {
 		"en": "Apply now!",
 		"fr": "Postuler!",
@@ -22,7 +30,7 @@
 	"languages": [
 		{
 			"name": "English",
-			"code": "",
+			"code": "en",
 			"flag": "en"
 		},
 		{

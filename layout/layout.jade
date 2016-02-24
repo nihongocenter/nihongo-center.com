@@ -2,6 +2,10 @@ doctype html
 html
 	head
 		title= app.config.title
+		meta(name='keywords', content=__(keywords))
+		meta(name='description', content=__(description))
+		each language in languages
+			link(rel='alternate', hreflang=language.code, href='https://nihongo-center.com' + requestURL + '?language=' + language.code)
 	
 	body
 		#container

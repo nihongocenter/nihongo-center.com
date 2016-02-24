@@ -6,7 +6,7 @@ include header.jade
 		
 .features
 	each feature, id in features
-		.box.feature(class=id)
+		a.box.feature(class=id, href=feature.link)
 			img.feature-icon(src=`/images/about/${id}.png`, alt=__(feature.title))
 			h3.feature-title= __(feature.title)
 			p!= __(feature.text)

@@ -1,0 +1,30 @@
+{
+	"title": {
+		"en": "Join us!",
+		"ja": "いますぐ申込み！"
+	},
+	"lead": {
+		"en": "It's simple. Just fill in your personal data at our [online registration](${MNC}) platform, upload your documents and you're ready to apply.",
+		"ja": ""
+	},
+	"preparation": {
+		"en": "Preparation",
+		"ja": "",
+		"text": {
+			"en": "You'll need the following documents:",
+			"ja": ""
+		}
+	},
+	"cv": {
+		"en": "Curriculum Vitae",
+		"ja": ""
+	},
+	"letter": {
+		"en": "Letter of Guarantee",
+		"ja": ""
+	},
+	"pledge": {
+		"en": "Pledge",
+		"ja": ""
+	}
+}
