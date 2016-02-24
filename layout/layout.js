@@ -1,3 +1,4 @@
 exports.render = (request, render) => render({
-	requestURL: request.url
+	requestURL: request.url,
+	requestLanguage: request.session.language
 })
