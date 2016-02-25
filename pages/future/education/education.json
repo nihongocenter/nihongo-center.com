@@ -52,7 +52,7 @@
 		"ja": "専門学校",
 		"text": {
 			"en": "You can also choose to enter a vocational school in Japan. The requirements are as follows:\n\n1. JLPT (at least N2)\n1. School application\n1. Exam",
-			"ja": "日本語センターを卒業後、日本の専門学校へ進学することも可能です。入学に係る条件/手続きは一般的に以下の通りです。"
+			"ja": "日本語センターを卒業後、日本の専門学校へ進学することも可能です。入学に係る条件/手続きは一般的に以下の通りです。\n\n1. JLPT N2以上\n1. 入学申込\n1. 入学試験"
 		}
 	}
 }
