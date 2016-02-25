@@ -17,9 +17,17 @@ a.box.apply-now(href='https://my.nihongo-center.com/', target='_blank')
 
 .box.flags
 	each language in languages
-		//a(href='/' + (language.code ? language.code + '/' : ''), title=language.name).flag
-		a(href=`javascript:window.changeLanguage('${language.code}');`, title=language.name).flag
-			img.flag-image(src=`/images/flags/${language.flag ? language.flag : language.code}.png`, alt=language.name)
+		if language.code === 'en' || language.code === 'ja'
+			a(href=`javascript:window.changeLanguage('${language.code}');`, title=language.name).flag
+				img.flag-image(src=`/images/flags/${language.flag ? language.flag : language.code}.png`, alt=language.name)
+		else
+			a(href='/' + (language.code ? language.code + '/' : ''), title=language.name).flag
+				img.flag-image(src=`/images/flags/${language.flag ? language.flag : language.code}.png`, alt=language.name)
+
+if requestLanguage === 'ja'
+	.box
+		a.ajax(href='/join/recruit')
+			img.recruit-image(src='/images/recruit.jpg', alt='Nihongo Center Recruitment')
 
 .box
 	a(href='https://www.youtube.com/channel/UCESbRxjpk764iuXmLt9soxQ', target='_blank', title='Nihongo Center Youtube Channel')

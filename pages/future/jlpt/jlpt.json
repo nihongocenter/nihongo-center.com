@@ -1,38 +1,38 @@
 {
 	"title": {
 		"en": "JLPT",
-		"ja": ""
+		"ja": "日本語能力試験 (JLPT)"
 	},
 	"lead": {
 		"en": "The [Japanese Language Proficiency Test](http://www.jlpt.jp/), or JLPT, is a certification examination that verifies the Japanese ability of people whose native language is not Japanese. The JLPT was started in 1984 by the Japan Foundation and the Association of International Education, Japan (currently the Japan Educational Exchanges and Services). A total of approximately 7,000 people from throughout the world took the first-ever JLPT. However, the number of worldwide examines increased to about 770,000 for the 2009 examination, making the JLPT the largest Japanese language examination in the world.",
-		"ja": ""
+		"ja": "[日本語能力試験](http://www.jlpt.jp/)は、日本語を母語としない人の日本語能力を測定し認定する試験として、国際交流基金と日本国際教育協会(現日本国際教育支援協会)が1984 年に開始しました。開始当初の受験者数は全世界で7,000人ほどでしたが、2009年の受験者数は全世界で約77万人にのぼり、世界最大規模の日本語の試験となっています。"
 	},
 	"levels": {
 		"en": "Levels",
-		"ja": "",
+		"ja": "レベル",
 		"text": {
 			"en": "The JLPT has **5 levels** ranging from N5 (easiest) to N1 (hardest). Most universities and work places require you to own at least JLPT N2 certification.",
-			"ja": ""
+			"ja": "JLPTは5段階のレベルに分かれており、N5(初級)からN1(上級)まであります。ほとんどの日本の大学はJLPTのN2を日本語能力の条件としています。"
 		}
 	},
 	"certification": {
 		"en": "Obtaining Certification",
-		"ja": "",
+		"ja": "資格取得方法",
 		"text": {
 			"en": "Although passing the JLPT is more difficult than you might expect, passing Level N1 will greatly increase your chances of entering a Japanese university or graduate school, or obtaining employment at a Japanese corporation. Passing Level N2 will greatly increase your chances of entering a Japanese technical college.If you are considering using Japanese at your job after returning to your native country, we recommend that you try to pass Level N2 or higher. Nihongo Center will give our utmost support to students who are trying to achieve high goals.",
-			"ja": ""
+			"ja": "JLPTに合格するのは皆さんにとって予想以上に難しい部分もあるかもしれませんが、もしN1に合格できれば、日本の大学や大学院への進学を目指す方々や、日系企業への就職を目指す方々にとってとても有効な資格です。また、N2に合格すれば、専門学校への入学のチャンスがあります。もし皆さんが日本語センターを卒業後、母国へ帰ってから日本語を使用する機会のある職場へ就職する場合はN2以上を取得することをおすすめします。皆さんのどのような目標にも、私たちスタッフが実現のために全力でサポートします。"
 		},
 		"N1": {
 			"en": "(Student with N1 Certification)",
-			"ja": ""
+			"ja": "(日本語センター在学中にN1に合格)"
 		},
 		"N2": {
 			"en": "(Student with N2 Certification)",
-			"ja": ""
+			"ja": "(日本語センター在学中にN2に合格)"
 		}
 	},
 	"interviews": {
 		"en": "Interviews",
-		"ja": ""
+		"ja": "卒業生インタビュー"
 	}
 }
