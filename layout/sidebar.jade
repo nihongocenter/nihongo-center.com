@@ -26,8 +26,9 @@ a.box.apply-now(href='https://my.nihongo-center.com/', target='_blank')
 
 if requestLanguage === 'ja'
 	.box
-		a.ajax(href='/join/recruit')
-			img.recruit-image(src='/images/recruit.jpg', alt='Nihongo Center Recruitment')
+		p(style='text-align: center')
+			a.ajax(href='/join/recruit')
+				img.recruit-image(src='/images/recruit.jpg', alt='Nihongo Center Recruitment')
 
 .box
 	a(href='https://www.youtube.com/channel/UCESbRxjpk764iuXmLt9soxQ', target='_blank', title='Nihongo Center Youtube Channel')
@@ -36,7 +37,12 @@ if requestLanguage === 'ja'
 .box
 	a.ajax(href='/join/access', title='Access')
 		img.access-image(src='/images/access.png', alt='Nihongo Center Access')
-	
+
+.box
+	p(style='text-align: center')
+		a(href='http://blog.nihongo-center.com/')
+			img(src='/images/student-blog.jpg', alt='Nihongo Center - Student Blog')
+
 .box.sidebar-logos
 	a.sidebar-logo(href='http://www.nisshinkyo.org/', title='Association for the Promotion of Japanese Language Education', target='_blank')
 		img(src='/images/logos/nisshinkyo.png', alt='Nisshinkyo')
@@ -46,7 +52,7 @@ if requestLanguage === 'ja'
 		
 	a.sidebar-logo(href='http://www.csn.se/', title='Centrala studiestödsnämnden (Scholarship for Swedish people)', target='_blank')
 		img(src='/images/logos/csn.png', alt='CSN')
-	
+
 .box
 	p(style='text-align: center')
 		a(href='https://www.studykyoto.jp/', target='_blank')
