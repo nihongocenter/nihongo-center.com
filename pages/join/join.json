@@ -5,26 +5,26 @@
 	},
 	"lead": {
 		"en": "It's simple. Just fill in your personal data at our [online registration](${MNC}) platform, upload your documents and you're ready to apply.",
-		"ja": ""
+		"ja": "申込方法はとても簡単です。日本語センターの[オンライン申込サイト](${MNC})でプロフィールを入力して、申込書類をアップロードするだけで完了です。"
 	},
 	"preparation": {
 		"en": "Preparation",
-		"ja": "",
+		"ja": "必要書類",
 		"text": {
 			"en": "You'll need the following documents:",
-			"ja": ""
+			"ja": "申込には以下の書類を提出してください。"
 		}
 	},
 	"cv": {
 		"en": "Curriculum Vitae",
-		"ja": ""
+		"ja": "履歴書"
 	},
 	"letter": {
 		"en": "Letter of Guarantee",
-		"ja": ""
+		"ja": "経費支弁書、身元保証書"
 	},
 	"pledge": {
 		"en": "Pledge",
-		"ja": ""
+		"ja": "誓約書"
 	}
 }

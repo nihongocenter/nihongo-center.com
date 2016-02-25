@@ -19,8 +19,18 @@
 		"zh-hant": "日本語中心位於京都的中心四條河原町，對於上學非常便利。三十年來的日語教學經驗，由兼具能力及經驗的年輕教師教授公認為獨特的教學方式。"
 	},
 	"keywords": {
-		"en": "Japanese,Language,School,Kyoto",
-		"ja": "日本語,学校,留学,京都"
+		"en": [
+			"Japanese",
+			"Language",
+			"School",
+			"Kyoto"
+		],
+		"ja": [
+			"日本語",
+			"学校",
+			"留学",
+			"京都"
+		]
 	},
 	"apply": {
 		"en": "Apply now!",

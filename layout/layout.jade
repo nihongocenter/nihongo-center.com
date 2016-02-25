@@ -1,9 +1,12 @@
 doctype html
-html
+html(lang=requestLanguage)
 	head
 		title= app.config.title
-		meta(name='keywords', content=__(keywords))
+		
+		- var keywordList = __(keywords)
+		meta(name='keywords', content=Array.isArray(keywordList) ? keywordList.join(',') : '')
 		meta(name='description', content=__(description))
+		
 		each language in languages
 			if language !== requestLanguage
 				link(rel='alternate', hreflang=language.code, href='https://nihongo-center.com' + requestURL + '?language=' + language.code)
