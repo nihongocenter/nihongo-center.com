@@ -13,7 +13,7 @@ In addition, we help students grow and develop their self-expression and communi
 through project work, class discussions, etc.
 
 Because of our rich and varied curriculum,
-many of our students have been able to pass the entrance exams needed to continue
+many of our Japanese language students have been able to pass the entrance exams needed to continue
 on to universities throughout Japan without any worries about language barriers.`,
 		ja: `
 日本語センターは京都の中心、四条河原町にあって、通学に便利な日本語学校です。

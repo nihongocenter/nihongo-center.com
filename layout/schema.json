@@ -1,0 +1,11 @@
+{
+	"@context": "http://schema.org",
+	"@type": "Organization",
+	"name": "Nihongo Center",
+	"url": "https://nihongo-center.com",
+	"sameAs": [
+		"https://www.facebook.com/NihongoCenterKyoto",
+		"https://twitter.com/NihongoCenterJP",
+		"https://plus.google.com/+NihongoCenterJapaneseLanguageSchool京都市",
+	]
+}
