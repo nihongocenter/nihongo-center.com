@@ -1,12 +1,19 @@
 doctype html
 html(lang=requestLanguage)
 	head
-		meta(charset="utf-8")
-		title= app.config.title
+		meta(charset='utf-8')
+		title= __(title.bottom)
 		
+		//- Meta data
 		- var keywordList = __(keywords)
 		meta(name='keywords', content=Array.isArray(keywordList) ? keywordList.join(',') : '')
 		meta(name='description', content=__(description))
+		
+		//- Open Graph
+		meta(property='og:title', content=__(title.bottom))
+		meta(property='og:type', content='website')
+		meta(property='og:image', content='https://nihongo-center.com/images/logos/nihongo-center.png')
+		meta(property='og:url', content='https://nihongo-center.com')
 		
 		each language in languages
 			if language !== requestLanguage
@@ -46,5 +53,5 @@ html(lang=requestLanguage)
 					a(href='/') Nihongo Center
 					|  | 
 					a(href='mailto:support@nihongo-center.com') Contact
-			script(type="application/ld+json")
+			script(type='application/ld+json')
 				include schema.json
