@@ -3,9 +3,18 @@
 	"@type": "EducationalOrganization",
 	"name": "Nihongo Center",
 	"url": "https://nihongo-center.com",
+	"email": "support@nihongo-center.com",
+	"telephone": "+81-(0)75-344-3776",
+	"faxNumber": "+81-(0)75-344-3786",
 	"sameAs": [
 		"https://www.facebook.com/NihongoCenterKyoto",
 		"https://twitter.com/NihongoCenterJP",
 		"https://plus.google.com/+NihongoCenterJapaneseLanguageSchool京都市"
-	]
+	],
+	"address": {
+		"@type": "PostalAddress",
+		"addressLocality": "Kyoto, Japan",
+		"postalCode": "600-8023",
+		"streetAddress": "356 Tominaga-cho, South Bukkoh-ji Kawaramachi Street"
+	}
 }

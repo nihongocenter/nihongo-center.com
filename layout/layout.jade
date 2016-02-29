@@ -1,6 +1,7 @@
 doctype html
 html(lang=requestLanguage)
 	head
+		meta(charset="utf-8")
 		title= app.config.title
 		
 		- var keywordList = __(keywords)
@@ -20,19 +21,19 @@ html(lang=requestLanguage)
 						span.title-top= __(title.top)
 						span.title-bottom= __(title.bottom)
 					nav#navigation
-						a.nav-item.ajax(href='/')
+						a.nav-item.ajax(href='/', accesskey='1')
 							span.glyphicon.glyphicon-info-sign.nav-icon
 							span.nav-text= __(nav.about)
-						a.nav-item.ajax(href='/course')
+						a.nav-item.ajax(href='/course', accesskey='2')
 							span.glyphicon.glyphicon-education.nav-icon
 							span.nav-text= __(nav.course)
-						a.nav-item.ajax(href='/life')
+						a.nav-item.ajax(href='/life', accesskey='3')
 							span.glyphicon.glyphicon-user.nav-icon
 							span.nav-text= __(nav.life)
-						a.nav-item.ajax(href='/future')
+						a.nav-item.ajax(href='/future', accesskey='4')
 							span.glyphicon.glyphicon-flag.nav-icon
 							span.nav-text= __(nav.future)
-						a.nav-item.ajax(href='/join')
+						a.nav-item.ajax(href='/join', accesskey='5')
 							span.glyphicon.glyphicon-share-alt.nav-icon
 							span.nav-text= __(nav.join)
 			#main
