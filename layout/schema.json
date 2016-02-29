@@ -1,6 +1,6 @@
 {
 	"@context": "http://schema.org",
-	"@type": "Organization",
+	"@type": "EducationalOrganization",
 	"name": "Nihongo Center",
 	"url": "https://nihongo-center.com",
 	"sameAs": [
