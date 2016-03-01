@@ -1,5 +1,8 @@
 {
 	"title": "Japanese School - Nihongo Center",
+	"domains": [
+		"nihongo-center.com"
+	],
 	"static": [
 		"images",
 		"downloads"
