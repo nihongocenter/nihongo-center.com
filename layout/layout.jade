@@ -2,7 +2,7 @@ doctype html
 html(lang=requestLanguage, prefix="og: http://ogp.me/ns#")
 	head
 		meta(charset='utf-8')
-		title= __(title.bottom)
+		title= page.json.title ? __(page.json.title) : (__(title.top) + ' - ' + __(title.bottom))
 		
 		//- Meta data
 		- var keywordList = __(keywords)
