@@ -1,11 +1,13 @@
 include header.jade
 
 .box
-	h2#frontpage-header= __(app.layout.json.title.top)
 	picture
 		source(media='(min-width: 321px)', srcset='/images/japanese-language-school-kyoto-987.jpg')
 		source(media='(min-width: 988px)', srcset='/images/japanese-language-school-kyoto-1280.jpg')
 		img(src='/images/japanese-language-school-kyoto.jpg', alt='Japanese Language School in Kyoto: Nihongo Center')
+	
+.box
+	h2#frontpage-header= __(app.layout.json.title.top)
 	!= md(__(intro))
 		
 .features
@@ -14,3 +16,26 @@ include header.jade
 			img.feature-icon(src=`/images/about/${id}.png`, alt=__(feature.title))
 			h3.feature-title= __(feature.title)
 			p!= __(feature.text)
+
+if language === 'en'
+	.box
+		picture
+			source(media='(min-width: 321px)', srcset='/images/kyoto-987.jpg')
+			source(media='(min-width: 988px)', srcset='/images/kyoto-1280.jpg')
+			img(src='/images/kyoto.jpg', alt='Kyoto, Japan')
+	
+	.box
+		h2 Kyoto
+		:marked
+			Studying Japanese in Kyoto will give you the ability to see the numerous sightseeing spots
+			of what was once the capital of Japan for over a thousand years. The temples and shrines and
+		
+	.box
+		//- Graph
+		
+	.box
+		h2 International
+		
+		//- * Sightseeing (many temples)
+		//- * Lots of universities
+		//- * Manga museum

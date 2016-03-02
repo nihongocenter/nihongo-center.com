@@ -1,7 +1,8 @@
 exports.get = (request, response) => response.render({
+	language: request.session.language,
 	intro: {
 		en: `
-Nihongo Center is a **Japanese school** located in the heart of Kyoto.
+Nihongo Center is a Japanese school located in the heart of Kyoto.
 With over 30 years of experience teaching the Japanese language,
 we have established ourselves with our unique teaching methods as well as the talent
 and ability of our experienced instructors.
