@@ -2,7 +2,10 @@ include header.jade
 
 .box
 	h2#frontpage-header= __(app.layout.json.title.top)
-	img(src='/images/frontpage.jpg', alt='Nihongo Center')
+	picture
+		source(media='(min-width: 321px)', srcset='/images/japanese-language-school-kyoto-987.jpg')
+		source(media='(min-width: 988px)', srcset='/images/japanese-language-school-kyoto-1280.jpg')
+		img(src='/images/japanese-language-school-kyoto.jpg', alt='Japanese Language School in Kyoto: Nihongo Center')
 	!= md(__(intro))
 		
 .features
