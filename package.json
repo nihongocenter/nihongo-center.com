@@ -7,6 +7,7 @@
 		"aero-reset": "*",
 		"aero-ajax": "*",
 		"aero-glyphicons": "*",
+		"aero-admin": "*",
 		"i18n": "*",
 		"jstransformer-marked": "*",
 		"marked": "*",
