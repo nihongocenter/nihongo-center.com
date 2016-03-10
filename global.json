@@ -8,36 +8,42 @@
 				{
 					"en": "About",
 					"ja": "概要",
+					"fr": "A propos",
 					"icon": "home",
 					"url": ""
 				},
 				{
 					"en": "International",
 					"ja": "多国籍",
+					"fr": "International",
 					"icon": "globe",
 					"url": "/about/international-school"
 				},
 				{
 					"en": "Practical",
 					"ja": "実践",
+					"fr": "Pratique",
 					"icon": "comment",
 					"url": "/about/practical-japanese"
 				},
 				{
 					"en": "Events",
 					"ja": "イベント",
+					"fr": "Sorties extrascolaires",
 					"icon": "calendar",
 					"url": "/about/events"
 				},
 				{
 					"en": "Facilities",
 					"ja": "施設",
+					"fr": "Nos locaux",
 					"icon": "blackboard",
 					"url": "/about/facilities"
 				},
 				{
 					"en": "Staff",
 					"ja": "スタッフ",
+					"fr": "Staff",
 					"icon": "user",
 					"url": "/about/staff"
 				}
@@ -51,18 +57,21 @@
 				{
 					"en": "Difficulty",
 					"ja": "レベル",
+					"fr": "Niveaux",
 					"icon": "education",
 					"url": "/course"
 				},
 				{
 					"en": "Duration",
 					"ja": "受講期間",
+					"fr": "Programmes",
 					"icon": "time",
 					"url": "/course/duration"
 				},
 				{
 					"en": "Pricing",
 					"ja": "学費",
+					"fr": "Tarifs",
 					"icon": "usd",
 					"url": "/course/pricing"
 				}
@@ -76,30 +85,35 @@
 				{
 					"en": "Life",
 					"ja": "生活",
+					"fr":"Quotidien",
 					"icon": "eye-open",
 					"url": "/life"
 				},
 				{
 					"en": "Study",
 					"ja": "勉強",
+					"fr": "Etudes",
 					"icon": "education",
 					"url": "/life/study-in-japan"
 				},
 				{
 					"en": "Accomodation",
 					"ja": "宿舎",
+					"fr": "Logements",
 					"icon": "bed",
 					"url": "/life/accomodation"
 				},
 				{
 					"en": "Guest House",
 					"ja": "ゲストハウス",
+					"fr": "Guest House",
 					"icon": "home",
 					"url": "/life/guesthouse"
 				},
 				{
 					"en": "FAQ",
 					"ja": "FAQ",
+					"fr": "FAQ",
 					"icon": "question-sign",
 					"url": "/life/faq"
 				}
@@ -113,18 +127,21 @@
 				{
 					"en": "Future",
 					"ja": "進路",
+					"fr": "Future",
 					"icon": "flag",
 					"url": "/future"
 				},
 				{
 					"en": "Education",
 					"ja": "進学",
+					"fr": "Etudes supérieures",
 					"icon": "education",
 					"url": "/future/education"
 				},
 				{
 					"en": "JLPT",
 					"ja": "JLPT",
+					"fr": "JLPT",
 					"icon": "certificate",
 					"url": "/future/jlpt"
 				}
@@ -138,12 +155,14 @@
 				{
 					"en": "Join us",
 					"ja": "申込",
+					"fr": "Admission",
 					"icon": "share-alt",
 					"url": "/join"
 				},
 				{
 					"en": "Visa",
 					"ja": "ビザ",
+					"fr": "Visa",
 					"icon": "plane",
 					"url": "/join/visa"
 				}

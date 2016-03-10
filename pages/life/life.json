@@ -1,29 +1,35 @@
 {
 	"title": {
 		"en": "Life",
-		"ja": "生活"
+		"ja": "生活",
+		"fr": "Quotidien"
 	},
 	"lead": {
 		"en": "“I want to do more than just study…” If you’re looking for something more than hitting the textbooks everyday, then Nihongo Center is for you. With our Discover Kyoto Program, you have the chance to explore the rich history and traditional culture still present in Kyoto today, as well as having the opportunity to interact with Japanese student volunteers.",
-		"ja": "日本語学習だけでは物足りない・・・というあなたには日本語センターがぴったりです。ディスカバー京都プログラム、文化体験授業といった課外活動がたくさん盛り込まれています。"
+		"ja": "日本語学習だけでは物足りない・・・というあなたには日本語センターがぴったりです。ディスカバー京都プログラム、文化体験授業といった課外活動がたくさん盛り込まれています。",
+		"fr": "“Je veux faire plus que bachoter…” Si vous cherchez à faire plus que suivre les manuels toute la journée alors le Nihongo Center est pour vous. Avec notre Programme de Découverte de Kyoto, vous avez la chance d'explorer la culture traditionnelle et riche d'histoire encore présente à Kyoto de nos jours, ainsi que l'opportunité d'intéragir avec des étudiants japonais volontaires. "
 	},
 	"dkp": {
 		"title": {
 			"en": "What’s the Discover Kyoto Program?",
-			"ja": "京都ディスカバープログラムとは"
+			"ja": "京都ディスカバープログラムとは",
+			"fr": "Qu'est-ce que le Programme Découverte de Kyoto"
 		},
 		"text": {
 			"en": "The Discover Kyoto Program (DKP) is a “tour experience” program started at Nihongo Center in 2011. From visiting famous places to trying out different aspects of Japanese culture, the DKP gives you a unique opportunity to expand on your cultural experiences in Japan. There are eight events scheduled throughout the year, on weekends and holidays. Students can choose which events they are interested in, and simply pay the fee to participate.",
-			"ja": "ディスカバー京都プログラムとは、日本語センターが2011年から始めた体験ツアープログラムです。京都の名所をめぐり、そして日本の文化を体験するプログラム構成になっています。通常の授業の無い週末や休みを利用して、年8回の実施しています。日本語センターの学生なら、いつでも好きなプグラムの開催時に費用を払って参加することができます。"
+			"ja": "ディスカバー京都プログラムとは、日本語センターが2011年から始めた体験ツアープログラムです。京都の名所をめぐり、そして日本の文化を体験するプログラム構成になっています。通常の授業の無い週末や休みを利用して、年8回の実施しています。日本語センターの学生なら、いつでも好きなプグラムの開催時に費用を払って参加することができます。",
+			"fr": "Le Programme Découverte de Kyoto (DKP) est une 'expérience' commencée au Nihongo Center en 2011. De la visite de site connus aux expérimentations des différents aspects de la culture japonaise, les DKP vous apporte une opportunité unique d'élargir vos expériences culturelles au Japon. Il y a huits sorties prévues tout au long de l'année, durant les weekend et les vacances. Les étudiants peuvent choisir les sorties qui les intéressent, et payer les frais pour participer."
 		},
 		"purpose": {
 			"title": {
 				"en": "Purpose of the Program",
-				"ja": "プログラムの目的"
+				"ja": "プログラムの目的",
+				"fr": "But du programme"
 			},
 			"text": {
 				"en": "We believe there is more to learning Japanese than simply going to class. Experiencing Japanese culture and customs are very important aspects to the learning process. We hope to give our students as many opportunities as possible. Before, we held various events such as visiting the famous Gion Matsuri and our Daimonji hiking tour, and in 2011 decided to expand on these events, thus establishing the Discover Kyoto Program. We invite you all to join us and have a great time!",
-				"ja": "日本語センターでは、日本語習得において、通常の授業のほか、もうひとつ重要なことがあると考えています。それは、日本の文化や習慣を体験することです。その機会を少しでも多くの学生に持ってほしいのです。私達はこれまで祇園祭や大文字ハイキングなど定期的にいろいろなイベントを開催してきました。2011年からはこれを更に拡充し、体験ツアープログラムとして実施していくことにしました。是非皆さんもこのプログラムに奮って参加してください。すごく楽しいですよ。"
+				"ja": "日本語センターでは、日本語習得において、通常の授業のほか、もうひとつ重要なことがあると考えています。それは、日本の文化や習慣を体験することです。その機会を少しでも多くの学生に持ってほしいのです。私達はこれまで祇園祭や大文字ハイキングなど定期的にいろいろなイベントを開催してきました。2011年からはこれを更に拡充し、体験ツアープログラムとして実施していくことにしました。是非皆さんもこのプログラムに奮って参加してください。すごく楽しいですよ。",
+				"fr": "Nous pensons qu'il y a plus que simplement apprendre en classe. Expérimenter la culture et les coûtumes japonaises sont un aspect important dans le processus d'apprentissage d'une langue. Nous esperons donner à nos étudiants autant d'opportunités que possible. Auparavant nous participions au Festival de Gion, ou partions en randonnée au Daimonji, et en 2011 nous avons décidé d'augmenter ces sorties au travers du Programme Découverte de Kyoto. Nous vous invitons tous à nous rejoindre à passer du bon temps avec nous ! "
 			}
 		}
 	}

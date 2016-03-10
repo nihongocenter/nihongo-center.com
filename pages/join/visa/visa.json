@@ -1,50 +1,62 @@
 {
 	"title": {
 		"en": "Visa",
-		"ja": "ビザ"
+		"ja": "ビザ",
+		"fr": "Visa"
 	},
 	"lead": {
 		"en": "To be able to stay in Japan you will need to obtain a visa. The most common visa types used by foreign students are listed below.",
-		"ja": "日本留学にはビザが必要です。留学生が利用するビザで最も一般的なのは以下の通りです。"
+		"ja": "日本留学にはビザが必要です。留学生が利用するビザで最も一般的なのは以下の通りです。",
+		"fr": "Pour être en mesure de rester au Japon vous aurez besoin d'un visa. Les visa les plus souvent utilisés par les étrangers sont listés ci-dessous."
 	},
 	"studentVisa": {
 		"en": "Student Visa",
 		"ja": "留学ビザ",
+		"fr": "Visa étudiant",
 		"text": {
 			"en": "Those wishing to study in Japan will stay under “student visa” status. With a student visa you can stay for 1 year, with the option of extending up to 2 years. Those students who study Japanese for more than 20 hours per week and for longer than 6 months may apply for a student visa at Nihongo Center.",
-			"ja": "日本語学習を目的に滞在される方の在留資格を「留学」といいます。 認められる在留期間は1年で、更新ができ、最長2年間の滞在が許されています。 日本語センターでは、週20時間以上で1年以上の日本語学習を希望される方のために留学ビザを申請することができます。"
+			"ja": "日本語学習を目的に滞在される方の在留資格を「留学」といいます。 認められる在留期間は1年で、更新ができ、最長2年間の滞在が許されています。 日本語センターでは、週20時間以上で1年以上の日本語学習を希望される方のために留学ビザを申請することができます。",
+			"fr": "Ceux qui désirent venir étudiant au Japon reçevrons un “visa étudiant”. Avec celui-ci vous pouvez rester 1 an avec la possibilité de l'étendre une deuxième année. Les étudiants désireux d'étudier pour 6 mois ou plus au Nihongo Center peuvent bénéficier de ce visa."
 		}
 	},
 	"partTimeJob": {
 		"en": "Part-time Jobs",
 		"ja": "アルバイトについて",
+		"fr": "Travail à mi-temps",
 		"text": {
 			"en": "After issuance of a work permit by the immigration service, it is possible for a person in possession of a student visa to find work not exceeding 28 hours per week (you can work 8 hours day during the summer or winter).",
-			"ja": "留学ビザの学生は資格外活動許可を得て、週28時間までアルバイトをすることができます。（夏休み冬休みなどの長期休暇中は1日8時間まで可能）"
+			"ja": "留学ビザの学生は資格外活動許可を得て、週28時間までアルバイトをすることができます。（夏休み冬休みなどの長期休暇中は1日8時間まで可能）",
+			"fr": "Après délivrance d'un permis de travail par le service d'immigration, il est posssible pour une personne détentrice d'un visa étudiant de travailler à hauteur de 28 heures par semaine (vous pouvez travailler 8h par jour durant les vacances). "
 		}
 	},
 	"shortTermVisa": {
 		"en": "Short-term Visa",
 		"ja": "短期ビザ",
+		"fr": "Visa courte durée",
 		"text": {
 			"en": "Language school students may obtain a short-term student visa (for the purpose of learning Japanese language). Or if your country is part of the visa exemption agreement with Japan, students can come to Japan without a visa (for 90 days or 180 days) but it is not possible to extend the period of stay. Those who wish to stay in Japan for a short period may apply for this visa or come without visa. Also, those students who could not file for a regular student visa by the deadline may apply for this visa (or come without visa) and stay in Japan until the next enrollment period. In such a case, students must leave Japan once because it is not permitted to extend a short-term visa.",
-			"ja": "日本語学習者に対して「留学」ビザの他に短期ビザ（日本語学習）が認められています。 在留期限は90日で、期間更新は認められていません。また、国によって査証免除（90日または180日）が認められています。 短期で来日を希望される方は、短期ビザを取得するか査証免除で来日して下さい。 また、「留学」ビザ申請に間に合わなかった方が、次回の申請までに短期滞在し、その間に「留学」ビザを申請することができます。"
+			"ja": "日本語学習者に対して「留学」ビザの他に短期ビザ（日本語学習）が認められています。 在留期限は90日で、期間更新は認められていません。また、国によって査証免除（90日または180日）が認められています。 短期で来日を希望される方は、短期ビザを取得するか査証免除で来日して下さい。 また、「留学」ビザ申請に間に合わなかった方が、次回の申請までに短期滞在し、その間に「留学」ビザを申請することができます。",
+			"fr": "Les étudiants d'écoles de langue peuvent obtenir un visa courte durée (dans le but d'étudier la langue japonaise). Si votre pays fait partie de l'accort d'exemption de visa avec le Japon, les étudiants peuvent venir sans visa (pour 90 ou 180 jours) mais il n'est pas possible d'étendre cette période. De plus les étudiants qui n'auraient pas faire la demande d'un visa étudiant avant la date limite ont la possibilité de venir au Japon jusqu'à la période d'inscription suivante. Dans ce cas là, il suffit de sortir du pays et de rerentrer pour recevoir un niveau visa de 3 mois."
 		},
 		"application": {
 			"en": "Applying for Short-term Visa",
 			"ja": "短期ビザ申請方法",
+			"fr": "Demande de visa courte durée",
 			"text": {
 				"en": "If your country is not on the visa exemption list and requires a short-term visa to enter Japan, Nihongo Center will provide the following documents.\n\n1. School Admission Permit\n1. Letter of Invitation\n1. Personal Reference Form\n1. Schedule of Visit to Japan\n\nPlease take these documents to the nearest Japanese Embassy or Consulate and apply for a short-term visa.\nRequired documents may vary by country, so please confirm beforehand.",
-				"ja": "自国が日本の査証免除国ではなく短期ビザが必要になる場合は、日本語センターより下記の書類を発行いたします。\n\n* 入学許可書\n* 招へい理由書\n* 身元保証書\n* 来日スケジュール表\n\nこれを日本国大使館（又は領事館）に提出して短期ビザを申請してください。国によって必要書類が異なる場合がありますので、事前にご相談ください。"
+				"ja": "自国が日本の査証免除国ではなく短期ビザが必要になる場合は、日本語センターより下記の書類を発行いたします。\n\n* 入学許可書\n* 招へい理由書\n* 身元保証書\n* 来日スケジュール表\n\nこれを日本国大使館（又は領事館）に提出して短期ビザを申請してください。国によって必要書類が異なる場合がありますので、事前にご相談ください。",
+				"fr": "Si votre pays ne figure pas dans la liste des pays exempts de visa, Nihongo Center vous procurera les documents suivants.\n\n1. Permis d'admission\n1. Lettre d'invitation\n1. Lettre de garantie.\n\n Il est nécessaire d'apporter ces documents à l'ambassade ou au consulat japonais le plus proche pour faire la demande de visa.\nLes documents requis peuvent variés d'un pays à l'autre."
 			}
 		}
 	},
 	"visaNotRequiredCountries": {
 		"en": "Countries where a visa is not required",
 		"ja": "査証（ビザ）免除国について",
+		"fr": "Pays où le visa n'est pas requis",
 		"text": {
 			"en": "Japan has taken measures concerning the visa exemption with 61 countries and regions. Because of this, students from most countries are able to take our regular course without the need of a visa. However, those from countries not on the visa waver agreement need to obtain a short-term visa. To see whether or not your country is part of the visa waver agreement, please check the Japanese Ministry of Foreign Affairs' [list of countries qualifying for visa exemption](http://www.mofa.go.jp/j_info/visit/visa/short/novisa.html).",
-			"ja": "日本は現在61の国・地域に対して査証免除措置を実施しております。そのためほとんどの国の方がレギュラーコース受講に際してビザは必要ありません。しかし査証免除国以外の方は短期ビザを取得していただく必要があります。自国が査証免除国かどうかは日本国外務省のWebページを参照してください。\n\n[日本国外務省Webサイト　日本国査証免除措置国一覧](http://www.mofa.go.jp/mofaj/toko/visa/tanki/novisa.html)"
+			"ja": "日本は現在61の国・地域に対して査証免除措置を実施しております。そのためほとんどの国の方がレギュラーコース受講に際してビザは必要ありません。しかし査証免除国以外の方は短期ビザを取得していただく必要があります。自国が査証免除国かどうかは日本国外務省のWebページを参照してください。\n\n[日本国外務省Webサイト　日本国査証免除措置国一覧](http://www.mofa.go.jp/mofaj/toko/visa/tanki/novisa.html)",
+			"fr": "Le Japon a passé en accord d'exemption de via avec 61 pays. De fait, la plupart des étudiants peuvent participer au cours réguliers sans avoir besoin de visa. Cependant les pays hors de cet accort ont besoin d'un visa courte durée. Pour savoir si votre pays fait partie de cet accord ou non, veuillez vous référer au Ministère Japonais des affaires étrangères. [Liste des pays exempts de Visa](http://www.mofa.go.jp/j_info/visit/visa/short/novisa.html)."
 		}
 	}
 }

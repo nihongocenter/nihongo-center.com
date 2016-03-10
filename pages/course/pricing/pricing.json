@@ -1,65 +1,80 @@
 {
 	"title": {
 		"en": "Pricing",
-		"ja": "学費"
+		"ja": "学費",
+		"fr": "Tarifs"
 	},
 	"lead": {
 		"en": "The course price depends on how long you want to study Japanese at Nihongo Center:",
-		"ja": "学費はコースの期間によって違います。"
+		"ja": "学費はコースの期間によって違います。",
+		"fr": "Les tarifs des programmes dépendent de la durée où vous souhaitez étudier au Nihongo Center"
 	},
 	"pricing": {
 		"visa": {
 			"en": "Visa application fee",
-			"ja": "ビザ申請料"
+			"ja": "ビザ申請料",
+			"fr": "Frais de demande de visa"
 		},
 		"registration": {
 			"en": "Registration fee",
-			"ja": "入学金"
+			"ja": "入学金",
+			"fr": "Frais d'inscription"
 		},
 		"textbooks": {
 			"en": "Textbooks",
-			"ja": "教材費"
+			"ja": "教材費",
+			"fr": "Manuels"
 		},
 		"tuition": {
 			"en": "Tuition",
-			"ja": "授業料"
+			"ja": "授業料",
+			"fr": "Frais de scolarité"
 		},
 		"total": {
 			"en": "Total",
-			"ja": "合計"
+			"ja": "合計",
+			"fr": "Total"
 		}
 	},
 	"popular": {
 		"en": "Popular",
-		"ja": "人気"
+		"ja": "人気",
+		"fr": "Populaire"
 	},
 	"duration": {
 		"10 weeks": {
 			"en": "10 weeks",
-			"ja": "10週間"
+			"ja": "10週間",
+			"fr": "10 semaines"
 		},
 		"20 weeks": {
 			"en": "20 weeks",
-			"ja": "20週間"
+			"ja": "20週間",
+			"fr": "20 semaines"
 		},
 		"6 months": {
 			"en": "6 months",
-			"ja": "6ヶ月間"
+			"ja": "6ヶ月間",
+			"fr": "6 mois"
 		},
 		"1 year": {
 			"en": "1 year",
 			"ja": "１年間",
+			"fr": "1 année",
 			"note": {
 				"en": "For this course you don't need to pay everything at once.",
-				"ja": "分割払いが可能です。"
+				"ja": "分割払いが可能です。",
+				"fr": "Pour ce programme vous n'êtes pas obligé de payer tout en une fois"
 			}
 		},
 		"2 years": {
 			"en": "2 years",
 			"ja": "２年間",
+			"fr": "2 années",
 			"note": {
 				"en": "For this course you don't need to pay everything at once.",
-				"ja": "分割払いが可能です。"
+				"ja": "分割払いが可能です。",
+				"fr": "Pour ce programme vous n'êtes pas obligé de payer tout en une fois"
 			}
 		}
 	}

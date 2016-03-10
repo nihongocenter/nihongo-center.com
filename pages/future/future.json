@@ -1,28 +1,34 @@
 {
 	"title": {
 		"en": "Future",
-		"ja": "進路"
+		"ja": "進路",
+		"fr": "Etudes supérieures"
 	},
 	"subTitle": {
 		"en": "We got your back",
-		"ja": "あなたを全力でサポート！"
+		"ja": "あなたを全力でサポート！",
+		"fr": "Nous vous soutenons!"
 	},
 	"text": {
 		"en": "Whatever you wish to do in the future, Nihongo Center can guide you to your goal:",
-		"ja": "皆さんのどんな目標も、日本語センターのスタッフが実現のために全力でお手伝いさせて頂きます。"
+		"ja": "皆さんのどんな目標も、日本語センターのスタッフが実現のために全力でお手伝いさせて頂きます。",
+		"fr": "Qu'importe ce que vous souhaitez faire de votre avenir, Nihongo Center peut vous aider à atteindre votre but"
 	},
 	"links": {
 		"education": {
 			"en": "Education",
-			"ja": "進学"
+			"ja": "進学",
+			"fr": "Etudes supérieures"
 		},
 		"career": {
 			"en": "Career",
-			"ja": ""
+			"ja": "就職",
+			"fr": "Carrière"
 		},
 		"jlpt": {
 			"en": "JLPT",
-			"ja": "JLPT"
+			"ja": "JLPT",
+			"fr": "JLPT"
 		}
 	}
 }

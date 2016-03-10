@@ -2,51 +2,61 @@
 	"study": {
 		"title": {
 			"en": "Study in Japan",
-			"ja": "日本で日本語を学ぶ"
+			"ja": "日本で日本語を学ぶ",
+			"fr": "Etudier au Japon"
 		},
 		"text": {
 			"en": "Our students say that studying Japanese in Japan is a wonderful experience. After just a few lessons you begin to understand what people around you in everyday life are saying. Slowly you pick up the Kanji and suddenly texts with previously unreadable signs start to make sense.",
-			"ja": "日本語センターの生徒たちは日本で日本語を学んだことは本当に素晴らしい経験だったと語ってくれます。彼らの言葉の背景の１つには、最初の数時間の授業で、周りの日本人の会話を聞き取ることができるようになり、漢字は少しずつだとしても、今まで読めなかった日本の文字をすぐに理解できるようになっていく実体験があるからといえます。"
+			"ja": "日本語センターの生徒たちは日本で日本語を学んだことは本当に素晴らしい経験だったと語ってくれます。彼らの言葉の背景の１つには、最初の数時間の授業で、周りの日本人の会話を聞き取ることができるようになり、漢字は少しずつだとしても、今まで読めなかった日本の文字をすぐに理解できるようになっていく実体験があるからといえます。",
+			"fr": "Nos étudiants affirment qu'étudier le japonais au Japon est une expérience fantastique. Après seulement quelques leçons vous commencez à comprendre ce que les gens autour de vous disent. Lentement vous apprenez les Kanji et peu à peu les textes, jusque là indéchiffrables, commencent à avoir du sens."
 		}
 	},
 	"practical": {
 		"title": {
 			"en": "Practical experience",
-			"ja": "実践的授業"
+			"ja": "実践的授業",
+			"fr": "Expérience pratique"
 		},
 		"text": {
 			"en": "You can immediately test your newly acquired knowledge by talking to friends or teachers, therefore gaining confidence in speaking Japanese. This constant practical experience will turn you into a fluent Japanese speaker very soon. Additionally, students acquire a part-time job after coming to Japan in order to finance their living expenses and to improve their Japanese in a professional work environment.",
-			"ja": "日本語センターの生徒は覚えたばかりの日本語の知識をすぐに授業の中で友達や先生と話すことで定着させることができ、生徒達にとっては日本語を話すうえで大きな自信になります。こういった継続的な実践経験で効率的に日本語話者として高いレベルへ進むことができるのです。また、授業だけでなく、アルバイトを通して日本のビジネスシーンでの日本語能力を磨くこともできます。"
+			"ja": "日本語センターの生徒は覚えたばかりの日本語の知識をすぐに授業の中で友達や先生と話すことで定着させることができ、生徒達にとっては日本語を話すうえで大きな自信になります。こういった継続的な実践経験で効率的に日本語話者として高いレベルへ進むことができるのです。また、授業だけでなく、アルバイトを通して日本のビジネスシーンでの日本語能力を磨くこともできます。",
+			"fr": "Vous pouvez immédiatement mettre en pratique ce que vous avez appris en parlant avec vos amis ou professeurs et gagner ainsi en confiance à l'oral. Cette pratique continuelle vous permettra de vous sentir à l'aise en japonais en peu de temps. De plus, les étudiants trouvent assez vite un travail après être arriver au Japon, ce qui les aide à couvrir leurs dépenses et à améliorer leur japonais dans une environnement professionel."
 		}
 	},
 	"work": {
 		"title": {
 			"en": "Work",
-			"ja": "アルバイト"
+			"ja": "アルバイト",
+			"fr": "Travail"
 		},
 		"text": {
 			"en": "Students who need additional money for their daily life usually find a part-time job within their first months in Japan. Using a student visa you are allowed to work 28 hours per week. It is therefore absolutely possible to become independent in a very short time.",
-			"ja": "日本語センターに通う学生の中にはアルバイトをすることで生活費を調達している人もいます。留学ビザでは1週間あたり28時間以内であればアルバイトをすることが可能です。"
+			"ja": "日本語センターに通う学生の中にはアルバイトをすることで生活費を調達している人もいます。留学ビザでは1週間あたり28時間以内であればアルバイトをすることが可能です。",
+			"fr": "Les étudiants qui ont besoins de ressources supplémentaires pour leurs dépenses trouvent généralement un travail à mi-temps durant leurs premiers mois au Japon. Posséder un visa étudiant vous permet de travailler à hauteur de 28 heures par semaine. Il est donc possible de devenir indépendant en un court laps de temps. "
 		}
 	},
 	"everyone": {
 		"title": {
 			"en": "For everyone",
-			"ja": "留学を考えている皆さんへ"
+			"ja": "留学を考えている皆さんへ",
+			"fr": "A ceux qui envisagent les études à l'étranger"
 		},
 		"text": {
 			"en": "It doesn’t matter if you’re a beginner starting with zero knowledge or if you are advanced and have already studied the language. As an international language school we have Japanese courses for everyone. Join us now to study Japanese in Japan!",
-			"ja": "日本語センターでは初心者の方から、日本語上級者の方まで日本語能力を向上できる環境が整っています。世界中の様々な国から生徒が集まる日本語学校として、全ての人に向けて勉強できる機会を提供しています。ぜひ日本語センターで一緒に勉強しましょう！"
+			"ja": "日本語センターでは初心者の方から、日本語上級者の方まで日本語能力を向上できる環境が整っています。世界中の様々な国から生徒が集まる日本語学校として、全ての人に向けて勉強できる機会を提供しています。ぜひ日本語センターで一緒に勉強しましょう！",
+			"fr": "Cela n'a aucune importance que vous soyez un complet débutant ou que vous ayez déjà étudié la langue. En tant qu'école de langue internationnale, nous avons des cours de japonais pour tout le monde. Rejoignez-nous pour étudier le japonais au Japon !"
 		}
 	},
 	"visa": {
 		"title": {
 			"en": "Visa",
-			"ja": "ビザ"
+			"ja": "ビザ",
+			"fr": "Visa"
 		},
 		"text": {
 			"en": "We will handle all the necessities that are required for you to be able to live and study in Japan during your course period. Once you apply at our school you will receive the Certificate of Eligibility which allows you to obtain a student visa. A visa is required to stay in Japan.",
-			"ja": "私たち日本語センターのスタッフは、生徒の皆さんが日本に来る前から入学に必要な全ての手続きをお手伝い致します。留学ビザについては、入学申込の後、入国管理局での審査を通過すれば、在留資格認定証が発行され、留学ビザを取得することができます。ビザは日本滞在に必須となります。"
+			"ja": "私たち日本語センターのスタッフは、生徒の皆さんが日本に来る前から入学に必要な全ての手続きをお手伝い致します。留学ビザについては、入学申込の後、入国管理局での審査を通過すれば、在留資格認定証が発行され、留学ビザを取得することができます。ビザは日本滞在に必須となります。",
+			"fr": "Nous vous procurons tout le soutien nécessaire pour que vous puissiez vivre au Japon durant votre période d'étude. Une fois que vous êtes inscrit chez nous, vous recevrez votre Certificat d'Eligibilité qui vous permettra de reçevoir un visa étudiant. "
 		}
 	}
 }

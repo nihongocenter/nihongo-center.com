@@ -4,11 +4,14 @@
 		"international-school": {
 			"title": {
 				"en": "International School",
-				"ja": "国際色豊かな教育環境"
+				"ja": "国際色豊かな教育環境",
+				"fr": "Ecole internationale"
 			},
 			"text": {
 				"en": "Our students come <strong>from all over the world</strong>, with about 60% from western and 40% from Asian countries. With over 30 different countries represented at our school, we are proud of our great cultural diversity.",
-				"ja": "日本語センターの学生はとにかくカラフル。西洋系6割、東洋系7割という割合でみれば一 目瞭然です。なんと30ヶ国以上の学生が学習しているので「国際色豊か」という言葉がぴったりです。"
+				"ja": "日本語センターの学生はとにかくカラフル。西洋系6割、東洋系7割という割合でみれば一 目瞭然です。なんと30ヶ国以上の学生が学習しているので「国際色豊か」という言葉がぴったりです。",
+				"fr": "Nos étudiants viennent <strong> des 4 coins du monde </strong>, avec environ 60% d'occidentaux et 40% provenants des pays asiatiques. Avec plus de 30 nationalités réprésentées dans notre école, nous sommes fiers de notre diversité culturelle."
+
 			},
 			"link": "/about/international-school"
 		},
@@ -16,11 +19,13 @@
 		"practical-japanese": {
 			"title": {
 				"en": "Practical Japanese",
-				"ja": "本当に使える日本語"
+				"ja": "本当に使える日本語",
+				"fr": "Du japonais pratique"
 			},
 			"text": {
 				"en": "Our professional instructors use a uniquely developed teaching method to guide students through the learning process. <strong>Even complete beginners</strong> find they are able to start communicating from the very first week, and ...",
-				"ja": "プロのインストラクターが独自に開発された習得ノウハウの世界に学生を導きます。最初の1週間で「もうしゃべっている自分」を発見できるのは、日本語センターだけ。"
+				"ja": "プロのインストラクターが独自に開発された習得ノウハウの世界に学生を導きます。最初の1週間で「もうしゃべっている自分」を発見できるのは、日本語センターだけ。",
+				"fr": "Notre corps professoral utilise une méthode unique d'enseignement afin de guider les étudiants durant le processus d'apprentissage. <strong> Même les débutants</strong> ont le sentiment de pouvoir communiquer après leur première semaine."
 			},
 			"link": "/about/practical-japanese"
 		},
@@ -28,11 +33,13 @@
 		"cultural-experience": {
 			"title": {
 				"en": "Cultural Experience",
-				"ja": "日本語学習＋文化体験"
+				"ja": "日本語学習＋文化体験",
+				"fr": "Expérience Culturelle"
 			},
 			"text": {
 				"en": "<em>\"I want to do more than just study...\"</em> If you're looking for something more than hitting the textbooks every day, then our school is for you. With our <strong>Discover Kyoto Program</strong>, you have the chance to explore the rich history and traditional culture still present in Kyoto today, ...",
-				"ja": "日本語学習だけでは物足りない・・・というあなたには日本語センターがぴったりです。ディスカバー京都プログラム、文化体験授業といった課外活動がたくさん盛り込まれています。"
+				"ja": "日本語学習だけでは物足りない・・・というあなたには日本語センターがぴったりです。ディスカバー京都プログラム、文化体験授業といった課外活動がたくさん盛り込まれています。",
+				"fr": "<em>\"Je veux faire plus que juste bachoter...\"</em> Si vous cherchez à faire plus que juste suivre les manuels toute la journée, alors notre école est faite pour vous. Avec notre <strong> Programme de Découverte de Kyoto </strong>, vous aurez la chance d'explorer une culture traditionnelle et chargée d'histoire présente encore à Kyoto."
 			},
 			"link": "/life"
 		}

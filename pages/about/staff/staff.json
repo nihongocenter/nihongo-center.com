@@ -1,11 +1,13 @@
 {
 	"title": {
 		"en": "Staff",
-		"ja": "スタッフ"
+		"ja": "スタッフ",
+		"fr": "Staff"
 	},
 	"membersTitle": {
 		"en": "Staff members",
-		"ja": "メンバー"
+		"ja": "メンバー",
+		"fr": "Membres du personnel"
 	},
 	"staff": [
 		{
@@ -16,42 +18,42 @@
 		{
 			"name": "Kuniko Kinomura",
 			"image": "kinomura.png",
-			"role": "Managing Director"
+			"role": "Directrice générale"
 		},
 		{
 			"name": "Koji Ueda",
 			"image": "ueda.png",
-			"role": "Teacher"
+			"role": "Enseignant"
 		},
 		{
 			"name": "Takayuki Niwa",
 			"image": "niwa.png",
-			"role": "Teacher"
+			"role": "Enseignant"
 		},
 		{
 			"name": "Erika Kadowaki",
 			"image": "kadowaki.png",
-			"role": "Teacher"
+			"role": "Enseignante"
 		},
 		{
 			"name": "Mitsuaki Morita",
 			"image": "morita.png",
-			"role": "Teacher"
+			"role": "Enseignant"
 		},
 		{
 			"name": "Kohei Ashida",
 			"image": "ashida.png",
-			"role": "Admission"
+			"role": "Service des admissions"
 		},
 		{
 			"name": "Guillaume Scharff",
 			"image": "guillaume.png",
-			"role": "Admission"
+			"role": "Service des admissions"
 		},
 		{
 			"name": "Eduard Urbach",
 			"image": "edo.png",
-			"role": "Web Developer",
+			"role": "Developpeur du Site",
 			"link": "https://blitzprog.org"
 		}
 	]

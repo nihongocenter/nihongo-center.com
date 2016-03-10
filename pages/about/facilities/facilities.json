@@ -1,10 +1,13 @@
 {
 	"title": {
 		"en": "Facilities",
-		"ja": "施設紹介"
+		"ja": "施設紹介",
+		"fr": "Nos locaux"
+
 	},
 	"text": {
 		"en": "We put a lot of effort into making your study environment as **clean** and **relaxing** as possible. The following photos show how Nihongo Center looks from the inside:",
-		"ja": "私たちは学生の皆さんが勉強に集中できる清潔で快適な環境づくりに日々努めています。このページでは日本語センターの施設内をご紹介いたします。"
+		"ja": "私たちは学生の皆さんが勉強に集中できる清潔で快適な環境づくりに日々努めています。このページでは日本語センターの施設内をご紹介いたします。",
+		"fr": "Nous travaillons dur pour que l'environnement de travail des étudiants soit le plus **propre** et **relaxant** possible. Les photos suivantes reflètent l'intérieur du Nihongo Center."
 	}
 }

@@ -1,58 +1,72 @@
 {
 	"title": {
 		"en": "Events",
-		"ja": "イベント"
+		"ja": "イベント",
+		"fr": "Sorties extrascolaires"
 	},
 	"lead": {
 		"en": "Through project work students are given a chance to put their acquired knowledge to use, by using practical Japanese outside of the class to research, plan, and prepare a presentation. As an example, we will take a look at a beginner’s group who chose to make a presentation about “Wagashi” (Japanese sweets).",
-		"ja": "日本語センターでは、日々の授業のほかに、その学びを総合的に用いて、学習者が自分達で話し合って計画をたて、実際に教室の外で日本語を使って調べ、一つの作品（発表、ビデオなど）にまとめる学習活動、プロジェクトワークを行っています。「和菓子」をグループテーマにした初級クラスの1つのグループを例に、プロジェクトワークについてご紹介します。"
+		"ja": "日本語センターでは、日々の授業のほかに、その学びを総合的に用いて、学習者が自分達で話し合って計画をたて、実際に教室の外で日本語を使って調べ、一つの作品（発表、ビデオなど）にまとめる学習活動、プロジェクトワークを行っています。「和菓子」をグループテーマにした初級クラスの1つのグループを例に、プロジェクトワークについてご紹介します。",
+		"fr": "Au travers de projets d'études, les étudiants ont l'occasion de mettre à profit leurs acquis, en utilisant le japonais en dehors de la classe pour chercher, planifier et préparer leur présentation. Par exemple, vous pouvez voir une présentation d'un groupe de débutant qui ont pris pour sujet les “Wagashi” (Gâteaux japonais)."
 	},
 	"experience": {
 		"en": "Experience",
 		"ja": "体験する",
+		"fr": "Expérimenter",
 		"text": {
 			"en": "First, students decide someplace they’d like to go to or something they’d like to experience based on their interests. This group decided to go to a Wagashi-making event held at a long-standing Japanese sweets shop in Kyoto.",
-			"ja": "プロジェクトの最初には、まずどこかへ行ってみたり、何かを体験してみたりして、学生の興味を引き出すところから始まります。和菓子グループは、京都の老舗和菓子店で開催されている和菓子手作り体験に行ってみることになりました。"
+			"ja": "プロジェクトの最初には、まずどこかへ行ってみたり、何かを体験してみたりして、学生の興味を引き出すところから始まります。和菓子グループは、京都の老舗和菓子店で開催されている和菓子手作り体験に行ってみることになりました。",
+			"fr": "Tout d'abord les étudiants décident d'un endroit où ils voudraient aller ou qu'ils voudraient expérimenter, basé sur leurs intérêts. Ce groupe a décidé d'aller à un salon de confection de Wagashi tenu par très ancien magasin de Kyoto."
 		}
 	},
 	"topic": {
 		"en": "Choose a topic",
 		"ja": "テーマ決定",
+		"fr": "Choisir un sujet",
 		"text": {
 			"en": "After experiencing it first hand, students decide which specific topic they’d like to research further. This group chose to present themes such as:\n\n* How to make Wagashi\n* History and ingredients\n* Interview with a Wagashi artisan\n* Ingredients and shapes of Wagashi",
-			"ja": "体験してきたことやそこから興味をもったことを出発点に、さらに深めて調べていくテーマを決めます。和菓子グループは、「和菓子の作り方」「歴史と材料」「和菓子職人にインタビュー」「和菓子の材料と形」などのテーマについて発表することにしました。"
+			"ja": "体験してきたことやそこから興味をもったことを出発点に、さらに深めて調べていくテーマを決めます。和菓子グループは、「和菓子の作り方」「歴史と材料」「和菓子職人にインタビュー」「和菓子の材料と形」などのテーマについて発表することにしました。",
+			"fr": "Après avoir expérimenter rapidement, les étudiants décident du sujet qu'ils aimeraient étudier plus en profondeur. Ce groupe a décidé de présenter des thèmes tels que : \n\n* Comment faire des Wagashi\n* Histoire et ingrédients\n* Entretiens avec un artisan\n* Ingrédients et formes des Wagashi"
 		}
 	},
 	"investigate": {
 		"en": "Investigate",
 		"ja": "調査する",
+		"fr": "Enquêter",
 		"text": {
 			"en": "Once the topics have been decided, it’s time for research. Students put their Japanese to use outside of the classroom to conduct interviews, surveys and research through the internet. This group went around to famous Wagashi shops in Kyoto, interviewing employees and Wagashi artisans.",
-			"ja": "テーマが決まったら、次は調査です。教室の外で実際に日本語を使って、インタビューやアンケートを行ったり、インターネットで調べたりします。和菓子グループは、京都で有名な和菓子店をめぐり、店員さんや職人さんにインタビュー調査を行いました。"
+			"ja": "テーマが決まったら、次は調査です。教室の外で実際に日本語を使って、インタビューやアンケートを行ったり、インターネットで調べたりします。和菓子グループは、京都で有名な和菓子店をめぐり、店員さんや職人さんにインタビュー調査を行いました。",
+			"fr": "Une fois le sujet choisi, l'heure est à la recherche. Les étudiants se servent alors de ce qu'ils ont appris en cours pour mener des intretiens, enquêtes, et recherches sur internet. Ce groupe est allé dans un magasin renommé de Kyoto pour interviewer employés et artisans."
 		}
 	},
 	"prepare": {
 		"en": "Prepare",
 		"ja": "準備する",
+		"fr": "Se préparer",
 		"text": {
 			"en": "After all the research has been conducted, students gather their information to create a manuscript and slides for their presentation. Then comes practice; Group members check each others’ pronunciation, mannerisms, and volume of voice, making sure everyone is well-prepared.",
-			"ja": "調査が済んだら、まず調査して集めた内容を、原稿とパワーポイントにまとめ、発表できる形にします。それができれば、次に発表練習。発音、態度、声の大きさなど、グループでチェックしあい、より良い発表を作り上げていきます。"
+			"ja": "調査が済んだら、まず調査して集めた内容を、原稿とパワーポイントにまとめ、発表できる形にします。それができれば、次に発表練習。発音、態度、声の大きさなど、グループでチェックしあい、より良い発表を作り上げていきます。",
+			"fr": "Une fois la recherche menée, les étudiants rassemblent leurs information pour créer un dossier et des diapositives pour leur présentation. Puis viens la pratique; Chaque membre du groupe s'assure que la prononciation, les manières et le volume de la voix du groupe sont correctement préparés."
 		}
 	},
 	"present": {
 		"en": "Present",
 		"ja": "発表する",
+		"fr": "Présenter",
 		"text": {
 			"en": "Other classes gather to [watch the presentation](https://www.youtube.com/watch?v=WTSVOaWCkYo). This way, students are able to fully show the hard work and effort they put into their project. Once the presentation is over, everyone in the group feels a sense of accomplishment that they made it through to the end.",
-			"ja": "発表会はクラス内だけでなく、他のクラスとも合同で行います。学生たちは練習のときには見せなかった底力をここで見せてくれます。そして、終わったあとの学生たちの表情は、グループで協力しあって最後までやりとげたという達成感に満ち溢れています。"
+			"ja": "発表会はクラス内だけでなく、他のクラスとも合同で行います。学生たちは練習のときには見せなかった底力をここで見せてくれます。そして、終わったあとの学生たちの表情は、グループで協力しあって最後までやりとげたという達成感に満ち溢れています。",
+			"fr": "Les autres classes se rassemblent pour [regarder la présentation](https://www.youtube.com/watch?v=WTSVOaWCkYo). De cette manière, les étudiants sont capables de montrer tout le travail et les efforts fournis dans ce projet. Une fois la présentation finie, les membres du groupe ont souvent le sentiment d'avoir mener à bien leur rôle jusqu'à la fin."
 		}
 	},
 	"reflect": {
 		"en": "Reflect",
 		"ja": "ふりかえる",
+		"fr": "Réflexion",
 		"text": {
 			"en": "Finally, the group receives feedback from the class. By watching a video of their presentation they can see themselves objectively and look back on the efforts they made from the beginning to the end.",
-			"ja": "最後に、クラスにかえって、プロジェクトのフィードバックを行います。発表のビデオで自分が日本語を話している様子を客観的に見てみたり、体験から発表までの取り組みをふりかえることで、この一連のプロジェクトを学生たちの学びへとつなげます。"
+			"ja": "最後に、クラスにかえって、プロジェクトのフィードバックを行います。発表のビデオで自分が日本語を話している様子を客観的に見てみたり、体験から発表までの取り組みをふりかえることで、この一連のプロジェクトを学生たちの学びへとつなげます。",
+			"fr": "Enfin, le groupe recoit les différentes critiques de la classe. En regardant une video de leur présentation ils peuvent objectivement se voir et juger de leurs efforts faits du début à la fin."
 		}
 	}
 }

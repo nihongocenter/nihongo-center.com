@@ -1,30 +1,37 @@
 {
 	"title": {
 		"en": "Join us!",
-		"ja": "いますぐ申込み！"
+		"ja": "いますぐ申込み！",
+		"fr": "Postuler !"
 	},
 	"lead": {
 		"en": "It's simple. Just fill in your personal data at our [online registration](${MNC}) platform, upload your documents and you're ready to apply.",
-		"ja": "申込方法はとても簡単です。日本語センターの[オンライン申込サイト](${MNC})でプロフィールを入力して、申込書類をアップロードするだけで完了です。"
+		"ja": "申込方法はとても簡単です。日本語センターの[オンライン申込サイト](${MNC})でプロフィールを入力して、申込書類をアップロードするだけで完了です。",
+		"fr": "C'est simple. Remplissez vos informations personnelles sur notre [système d'inscription en ligne](${MNC), uploadez vos documents et vous êtes prêts à postuler."
 	},
 	"preparation": {
 		"en": "Preparation",
 		"ja": "必要書類",
+		"fr": "Documents nécessaires",
 		"text": {
 			"en": "You'll need the following documents:",
-			"ja": "申込には以下の書類を提出してください。"
+			"ja": "申込には以下の書類を提出してください。",
+			"fr": "Vous aurez besoin des documents suivants:"
 		}
 	},
 	"cv": {
 		"en": "Curriculum Vitae",
-		"ja": "履歴書"
+		"ja": "履歴書",
+		"fr": "Curriculum Vitae"
 	},
 	"letter": {
 		"en": "Letter of Guarantee",
-		"ja": "経費支弁書、身元保証書"
+		"ja": "経費支弁書、身元保証書",
+		"fr": "Lettre de garantie"
 	},
 	"pledge": {
 		"en": "Pledge",
-		"ja": "誓約書"
+		"ja": "誓約書",
+		"fr": "Déclaration sur l'honneur"
 	}
 }
