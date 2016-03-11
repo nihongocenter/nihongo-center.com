@@ -49,4 +49,7 @@ app.use((request, response, next) => {
 	next()
 })
 
+// SEO: Gaijinpot link
+app.redirect('/en/index.html', '/')
+
 app.run()
