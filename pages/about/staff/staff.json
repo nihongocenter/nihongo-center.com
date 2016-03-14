@@ -13,47 +13,83 @@
 		{
 			"name": "Hideo Kurita",
 			"image": "kurita.png",
-			"role": "Principal"
+			"role": {
+				"en": "Principal",
+				"ja": "Principal",
+				"fr": "Principal"
+			}
 		},
 		{
 			"name": "Kuniko Kinomura",
 			"image": "kinomura.png",
-			"role": "Directrice générale"
+			"role": {
+				"en": "Managing Director",
+				"ja": "Managing Director",
+				"fr": "Directrice générale"
+			}
 		},
 		{
 			"name": "Koji Ueda",
 			"image": "ueda.png",
-			"role": "Enseignant"
+			"role": {
+				"en": "Teacher",
+				"ja": "Teacher",
+				"fr": "Enseignant"
+			}
 		},
 		{
 			"name": "Takayuki Niwa",
 			"image": "niwa.png",
-			"role": "Enseignant"
+			"role": {
+				"en": "Teacher",
+				"ja": "Teacher",
+				"fr": "Enseignant"
+			}
 		},
 		{
 			"name": "Erika Kadowaki",
 			"image": "kadowaki.png",
-			"role": "Enseignante"
+			"role": {
+				"en": "Teacher",
+				"ja": "Teacher",
+				"fr": "Enseignant"
+			}
 		},
 		{
 			"name": "Mitsuaki Morita",
 			"image": "morita.png",
-			"role": "Enseignant"
+			"role": {
+				"en": "Teacher",
+				"ja": "Teacher",
+				"fr": "Enseignant"
+			}
 		},
 		{
 			"name": "Kohei Ashida",
 			"image": "ashida.png",
-			"role": "Service des admissions"
+			"role": {
+				"en": "Admission",
+				"ja": "Admission",
+				"fr": "Service des admissions"
+			}
 		},
 		{
 			"name": "Guillaume Scharff",
 			"image": "guillaume.png",
-			"role": "Service des admissions"
+			"role": {
+				"en": "Admission",
+				"ja": "Admission",
+				"fr": "Service des admissions"
+			}
 		},
 		{
 			"name": "Eduard Urbach",
 			"image": "edo.png",
-			"role": "Developpeur du Site",
+			"role": {
+				"en": "Web Developer",
+				"ja": "Web Developer",
+				"fr": "Developpeur du Site"
+			},
 			"link": "https://blitzprog.org"
 		}
 	]
