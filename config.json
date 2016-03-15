@@ -31,6 +31,10 @@
 		"ru",
 		"id"
 	],
+	"redirect": {
+		"en/index.html": "/",
+		"en/jlpt": "/future/jlpt"
+	},
 	"ports": {
 		"http": 4000,
 		"https": 4001,
