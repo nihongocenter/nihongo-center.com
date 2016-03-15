@@ -4,6 +4,7 @@ const app = require('aero')()
 const cookieSession = require('cookie-session')
 const globalJSON = require('./global.json')
 const marked = require('marked')
+const locale = require('locale')
 
 app.use(cookieSession({
 	name: 'session',
@@ -22,8 +23,11 @@ app.use((request, response, next) => {
 	if(!request.session)
 		request.session = {}
 
-	if(!request.session.language)
-		request.session.language = 'en'
+	if(!request.session.language) {
+		const supportedLanguages = new locale.Locales(app.config.languages)
+		const acceptLocales = new locale.Locales(request.headers["accept-language"])
+		request.session.language = acceptLocales.best(supportedLanguages).toString().substring(0, 2)
+	}
 
 	request.globals = globalJSON
 
