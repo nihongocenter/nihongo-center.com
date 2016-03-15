@@ -2,10 +2,13 @@
 	"@context": "http://schema.org",
 	"@type": "EducationalOrganization",
 	"name": "Nihongo Center",
+	"description": "A Japanese language school located in the heart of Kyoto with over 30 years of experience teaching the Japanese language.",
 	"url": "https://nihongo-center.com",
 	"email": "support@nihongo-center.com",
 	"telephone": "+81-(0)75-344-3776",
 	"faxNumber": "+81-(0)75-344-3786",
+	"logo": "https://nihongo-center.com/images/logos/nihongo-center.png",
+	"award": "Association for the Promotion of Japanese Language Education’s Japanese Educational Institution Management Standards (backed by MEXT, the Ministry of Foreign Affairs, and the Ministry of Justice).",
 	"sameAs": [
 		"https://www.facebook.com/NihongoCenterKyoto",
 		"https://twitter.com/NihongoCenterJP",
@@ -16,5 +19,9 @@
 		"addressLocality": "Kyoto, Japan",
 		"postalCode": "600-8023",
 		"streetAddress": "356 Tominaga-cho, South Bukkoh-ji Kawaramachi Street"
-	}
+	},
+	"founder": {
+		"@type": "Person",
+		"name": "Hideo Kurita"
+    }
 }
