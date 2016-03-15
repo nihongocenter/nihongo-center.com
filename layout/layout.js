@@ -1,4 +1,6 @@
+const url = require('url')
+
 exports.render = (request, render) => render({
-	requestURL: request.url,
+	requestURL: url.parse(request.url).pathname,
 	requestLanguage: request.session.language
 })

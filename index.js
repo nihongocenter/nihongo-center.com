@@ -6,12 +6,23 @@ const globalJSON = require('./global.json')
 const marked = require('marked')
 const locale = require('locale')
 
+// app.rewrite(function(request, response) {
+// 	request.language = 'en'
+//
+// 	if(request.url[3] === '/')
+// 		request.language = request.url.substring(1, 3)
+// })
+
 app.use(cookieSession({
 	name: 'session',
 	keys: ['nc-key-1', 'nc-key-2']
 }))
 
 app.use((request, response, next) => {
+	// Just to be safe
+	if(!request.session)
+		request.session = {}
+
 	if(request.query && request.query.language !== undefined)
 		request.session.language = request.query.language
 
@@ -19,10 +30,6 @@ app.use((request, response, next) => {
 })
 
 app.use((request, response, next) => {
-	// Just to be safe
-	if(!request.session)
-		request.session = {}
-
 	if(!request.session.language) {
 		const supportedLanguages = new locale.Locales(app.config.languages)
 		const acceptLocales = new locale.Locales(request.headers["accept-language"])

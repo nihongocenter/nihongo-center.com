@@ -24,7 +24,8 @@ html(lang=requestLanguage, prefix='og: http://ogp.me/ns#')
 		
 		each language in languages
 			if language !== requestLanguage
-				link(rel='alternate', hreflang=language.code, href='https://nihongo-center.com' + requestURL + '?language=' + language.code)
+				- var languageSuffix = language.code === 'en' ? '' : ('?language=' + language.code)
+				link(rel='alternate', hreflang=language.code, href='https://nihongo-center.com' + requestURL + languageSuffix)
 	
 	body
 		#container
