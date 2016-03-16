@@ -33,7 +33,10 @@
 	],
 	"redirect": {
 		"en/index.html": "/",
-		"en/jlpt": "/future/jlpt"
+		"en/jlpt": "/future/jlpt",
+		"en": "/",
+		"fr": "/",
+		"ja": "/"
 	},
 	"ports": {
 		"http": 4000,
