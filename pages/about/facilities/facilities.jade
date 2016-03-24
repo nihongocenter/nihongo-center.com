@@ -2,9 +2,8 @@ include ../header.jade
 
 .box
 	h2= __(title)
-	
 	!= md(__(text))
-	
+
 .box
 	each image in imageList
 		img.facility-image(src='/images/facilities/' + image, alt='Nihongo Center Facilities')
