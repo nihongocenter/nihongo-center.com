@@ -15,8 +15,6 @@ window.sendStudentMessage = function() {
 
 	student.message = $('message').value
 
-	console.log(student)
-
 	$.post('/contact', student).then(() => {
 		alert('Thank you for your message. We\'ll get back to you soon!')
 	})
