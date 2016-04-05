@@ -26,10 +26,7 @@
 	"languages": [
 		"en",
 		"ja",
-		"fr",
-		"zh-hant",
-		"ru",
-		"id"
+		"fr"
 	],
 	"redirect": {
 		"en/index.html": "/",
