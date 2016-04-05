@@ -27,8 +27,18 @@
 				option(value='other') Other
 
 		.field
-			label(for='course-start') Course start:
-			input(id='course-start', type='month', min=(new Date).toISOString().slice(0, 7))
+			label(for='course-start-year') Course start year:
+			select(id='course-start-year')
+				option(value=(new Date).getFullYear())= (new Date).getFullYear()
+				option(value=(new Date).getFullYear() + 1)= (new Date).getFullYear() + 1
+		
+		.field
+			label(for='course-start-month') Course start month:
+			select(id='course-start-month')
+				option(value='January') January
+				option(value='April') April
+				option(value='June') June
+				option(value='October') October
 		
 		.field
 			label(for='course-duration') Course duration:
