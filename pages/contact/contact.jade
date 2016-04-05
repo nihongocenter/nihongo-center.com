@@ -1,0 +1,49 @@
+.box
+	h2 Contact
+	
+	.form
+		.field
+			label(for='name') Name:
+			input(id='name', type='text')
+			
+		.field
+			label(for='email') Email:
+			input(id='email', type='email')
+			
+		.field
+			label(for='nationality') Nationality:
+			input(id='nationality', type='text')
+			
+		.field
+			label(for='age') Age:
+			input(id='age', type='number', min=10, max=120)
+			
+		.field
+			label(for='last-education') Last education:
+			select(id='last-education')
+				option(value='none') None
+				option(value='high school') High school
+				option(value='university / college') University / College
+				option(value='other') Other
+
+		.field
+			label(for='course-start') Course start:
+			input(id='course-start', type='month', min=(new Date).toISOString().slice(0, 7))
+		
+		.field
+			label(for='course-duration') Course duration:
+			select(id='course-duration')
+				option(value='undecided') Undecided
+				option(value='10 weeks') 10 weeks
+				option(value='20 weeks') 20 weeks
+				option(value='6 months') 6 months
+				option(value='1 year') 1 year
+				option(value='1.5 years') 1.5 years
+				option(value='2 years') 2 years
+				
+		.field
+			label(for='message') Message:
+			textarea(id='message', placeholder="Is there something you'd like to ask us?")
+			
+		.field
+			button(onclick='window.sendStudentMessage();') Submit
