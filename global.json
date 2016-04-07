@@ -38,14 +38,14 @@
 					"ja": "施設",
 					"fr": "Nos locaux",
 					"icon": "blackboard",
-					"url": "/about/facilities"
+					"url": "/facilities"
 				},
 				{
 					"en": "Staff",
 					"ja": "スタッフ",
 					"fr": "Staff",
 					"icon": "user",
-					"url": "/about/staff"
+					"url": "/staff"
 				}
 			]
 		},
@@ -101,21 +101,21 @@
 					"ja": "宿舎",
 					"fr": "Logements",
 					"icon": "bed",
-					"url": "/life/accomodation"
+					"url": "/accomodation"
 				},
 				{
 					"en": "Guest House",
 					"ja": "ゲストハウス",
 					"fr": "Guest House",
 					"icon": "home",
-					"url": "/life/guesthouse"
+					"url": "/guesthouse"
 				},
 				{
 					"en": "FAQ",
 					"ja": "FAQ",
 					"fr": "FAQ",
 					"icon": "question-sign",
-					"url": "/life/faq"
+					"url": "/faq"
 				}
 			]
 		},
@@ -164,7 +164,7 @@
 					"ja": "ビザ",
 					"fr": "Visa",
 					"icon": "plane",
-					"url": "/join/visa"
+					"url": "/visa"
 				}
 			]
 		}
