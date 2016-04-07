@@ -116,12 +116,12 @@
 		{
 			"question": {
 				"en": "What does 'My Number' mean?",
-				"ja": "-",
+				"ja": "マイナンバーとは何ですか？",
 				"fr": "-"
 			},
 			"answer": {
 				"en": "Starting in October 2015, social security and tax number, called “My Number,” will be issued to foreign nationals who are registered as residents in Japan (international students staying in Japan for more than three months, special permanent residents, etc.). Municipal offices will send a notification card to your registered address. After you receive it;\n\n- Store the card in a safe place\n- Do not tell the number or show the card to others. However, when required, you must provide your number to your employer or municipal offices.\n\nPlease [read the website](http://www.cas.go.jp/jp/seisaku/bangoseido/otherlanguages.html) thoroughly. Information is available in 27 languages.",
-				"ja": "",
+				"ja": "日本では、2015年10月より「社会保障・税番号制度（マイナンバー制度）」が始まり、日本に住む留学生の皆さんにも個人番号が通知されます。住民登録のある市役所や区役所からマイナンバーが書かれた「通知カード」が送られてきますので、受け取ったら以下の点に注意してください。\n\n* 捨てたり破ったりせず、大切に保管すること。\n* 他人に見せたり、貸したりしないこと。ただし、アルバイト先等で求められた場合は、番号を知らせること。\n\n詳しいことについては、[ウェブサイト](http://www.cas.go.jp/jp/seisaku/bangoseido/)を確認してください。",
 				"fr": ""
 			}
 		}
