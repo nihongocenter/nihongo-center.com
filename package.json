@@ -8,6 +8,7 @@
 		"aero-ajax": "*",
 		"aero-glyphicons": "*",
 		"aero-admin": "*",
+		"body-parser": "*",
 		"i18n": "*",
 		"jstransformer-marked": "*",
 		"marked": "*",

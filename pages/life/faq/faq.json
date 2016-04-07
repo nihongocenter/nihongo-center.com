@@ -112,6 +112,18 @@
 				"ja": "希望者には、関西空港から宿舎（あるいは学校）までのシャトルバス（MKバス）を日本語センターが予約します。1人3,600円で、スーツケース1個と手荷物を運んでくれます。スーツケースなど大きな荷物が二つ以上ある場合は、1個1,000円の追加料金が必要です。MKスタッフが関西空港の税関を出たところで、あなたのネームプレートを持って待っていますので、ご安心ください。（午後8時をすぎてからの到着の場合は、ネームプレートのサービスがありませんので、左側のHゲートのそばのMKカウンターへ直接行ってください。）",
 				"fr": "Pour ceux qui le souhaite, Nihongo center peut faire une réservation de la navette MK pour vous ammener de l'aéroport du Kansai jusqu'à votre logement ou à l'école. Le prix est de 3,600 yens par personne, et vous pouvez avoir une valise + 1 sac. Tout bagage supplémentaire coûte 1000 yens par bagage. Un membre de la compagnie vous attendra avec une pancarte à votre nom.(Il est à noter que la compagnie ne propose pas de pancarte entre 20:00 et 8:00, donc si vous arrivez dans cette tranche d'horaire, veuillez vous rendre directement au comptoir de la compagnie sur la gauche de la porte H.)"
 			}
+		},
+		{
+			"question": {
+				"en": "What does 'My Number' mean?",
+				"ja": "-",
+				"fr": "-"
+			},
+			"answer": {
+				"en": "Starting in October 2015, social security and tax number, called “My Number,” will be issued to foreign nationals who are registered as residents in Japan (international students staying in Japan for more than three months, special permanent residents, etc.). Municipal offices will send a notification card to your registered address. After you receive it;\n\n- Store the card in a safe place\n- Do not tell the number or show the card to others. However, when required, you must provide your number to your employer or municipal offices.\n\nPlease [read the website](http://www.cas.go.jp/jp/seisaku/bangoseido/otherlanguages.html) thoroughly. Information is available in 27 languages.",
+				"ja": "",
+				"fr": ""
+			}
 		}
 	]
 }
