@@ -109,13 +109,6 @@
 					"fr": "Guest House",
 					"icon": "home",
 					"url": "/guesthouse"
-				},
-				{
-					"en": "FAQ",
-					"ja": "FAQ",
-					"fr": "FAQ",
-					"icon": "question-sign",
-					"url": "/faq"
 				}
 			]
 		},
@@ -165,6 +158,13 @@
 					"fr": "Visa",
 					"icon": "plane",
 					"url": "/visa"
+				},
+				{
+					"en": "FAQ",
+					"ja": "FAQ",
+					"fr": "FAQ",
+					"icon": "question-sign",
+					"url": "/faq"
 				}
 			]
 		}
