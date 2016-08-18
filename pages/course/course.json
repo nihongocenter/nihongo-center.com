@@ -2,7 +2,8 @@
 	"title": {
 		"en": "Japanese courses at Nihongo Center",
 		"ja": "日本語のコース",
-		"fr": "Cours de japonais au Nihongo Center"
+		"fr": "Cours de japonais au Nihongo Center",
+		"zh-hant":"課程"
 	},
 	"lead": {
 		"en": "Here at Nihongo Center, we recognize the multitude of reasons for studying Japanese. For those who wish to master daily conversation, continue your education in Japan, or find a job related to Japanese, we have carefully developed courses to meet your various needs and prepare you for any [JLPT](/future/jlpt) level you wish to pass.",
@@ -13,20 +14,24 @@
 		"en": "Introductory",
 		"ja": "入門",
 		"fr": "Introduction",
+		"zh-hant": "入門",
 		"text": {
 			"en": "Students learn the Japanese sentence structure and vocabulary necessary for acquiring basic conversational skills. Students are also taught to read and write about basic, familiar topics. At the completion of this course, students will be at approximately level N5 or N4 of the Japanese Language Proficiency Test.",
 			"ja": "ダイレクトメソッドによる文法導入から、学んだ文型や語彙を使用して基本的な日常会話に必要な会話力を習得します。また、身近なことがらについての基礎的な読み書きができるように指導します。日本語能力試験Ｎ５からＮ４レベルです。",
-			"fr": "Les étudiants apprennent les structures grammaticales et le vocabulaire japonais nécessaires pour acquérir des capacités conversationnelles de base. Ils apprennent également à lire et à écrire sur des thèmes faciles et familliers. A la fin de ce cours, les étudiants se trouvent généralement entre le N4 et le N5 du Test d'Aptitudes en Langue Japonaise (JLPT)."
+			"fr": "Les étudiants apprennent les structures grammaticales et le vocabulaire japonais nécessaires pour acquérir des capacités conversationnelles de base. Ils apprennent également à lire et à écrire sur des thèmes faciles et familliers. A la fin de ce cours, les étudiants se trouvent généralement entre le N4 et le N5 du Test d'Aptitudes en Langue Japonaise (JLPT).",
+			"zh-hant": "學生將學習必要的基本會話技巧以及日文句子結構和詞彙。也教授讀的能力，以一般較為容易且熟悉的話題提升基本書寫的能力。本課程完成後，學生日語能力將在大約落在JLPT的N5或N4。"
 		}
 	},
 	"beginner": {
 		"en": "Beginner",
 		"ja": "初級",
 		"fr": "Débutant",
+		"zh-hant": "初學",
 		"text": {
 			"en": "This course focuses on improving practical daily conversational skills, including honorific expressions. In addition, readings and writings focus on topics related to Japanese culture to help deepen the students’ interest and understanding. Japanese ability should be comparable to level N3 of the JLPT at the completion of this course.",
 			"ja": "敬語表現を含む実用的な日常会話の習得を目指します。また、日本文化に密着したトピックについての読み書きを指導し、興味と理解を深めます。日本語能力試験Ｎ３レベルです。",
-			"fr": "Ce cours se focalise sur l'amélioration pratique des capacités de conversation, incluant les expressions de politesse. De plus, l'écriture et la lecture se focalisent sur des sujets liés à la culture japonaise pour favoriser l'interêt et la compréhension des étudiants. Les aptitudes en langue japonaise sont comparables à celles du JLPT N3 à la fin de ce cours."
+			"fr": "Ce cours se focalise sur l'amélioration pratique des capacités de conversation, incluant les expressions de politesse. De plus, l'écriture et la lecture se focalisent sur des sujets liés à la culture japonaise pour favoriser l'interêt et la compréhension des étudiants. Les aptitudes en langue japonaise sont comparables à celles du JLPT N3 à la fin de ce cours.",
+			"zh-hant": "本課程專注於提升實用的日常對話能力，也包含敬語的使用，此外，閱讀和寫作重點放在日本文化，幫助加深學生的學習興趣和對日文的了解。學習此課程之後，日語能力應落在JLPT的N3程度。"
 
 		}
 	},
@@ -34,20 +39,24 @@
 		"en": "Intermediate",
 		"ja": "中級",
 		"fr": "Intermédiaire",
+		"zh-hant": "中級",
 		"text": {
 			"en": "In this course students learn to distinguish various levels of formality, honorifics, and gender-specific speech, while continuing to build their conversational ability in a number of situations. Students read novels, newspapers, and magazines, and learn to express their opinions through high-level writing. Japanese level will be comparable to level N2 of the JLPT at the end of this course.",
 			"ja": "待遇表現、敬語、性別による違いを含む、さまざまな場面に応じた会話力を習得します。また小説、新聞、雑誌などを読み、自分の意見を高度な文章で書き表す力を身に付けます。日本語能力試験Ｎ２レベルです。",
-			"fr": "A ce niveau les étudiants apprennent à distinguer différents niveaux de politesse, honorifiques et languages spécifiques, tout en renforçant leurs capacités orales. Ils peuvent lire des nouvelles, journaux, magazines, et sont capables d'exprimer leur opinions dans des dissertations. A la fin du semestre le niveau en japonais est comparable au N2 du JLPT."
+			"fr": "A ce niveau les étudiants apprennent à distinguer différents niveaux de politesse, honorifiques et languages spécifiques, tout en renforçant leurs capacités orales. Ils peuvent lire des nouvelles, journaux, magazines, et sont capables d'exprimer leur opinions dans des dissertations. A la fin du semestre le niveau en japonais est comparable au N2 du JLPT.",
+			"zh-hant": "在這個課程中，學生學會分辨各種詞類型態、敬語，並針對不同性別所使用的不同日文等等，同時繼續加強在許多不同情況下學生們的對話能力。學生開始讀小說、報刊和雜誌，學會以高層級的日語寫作表達意見。此課程結束後的日文能力是JLPT的N2程度。"
 		}
 	},
 	"advanced": {
 		"en": "Advanced",
 		"ja": "上級",
 		"fr": "Avancé",
+		"zh-hant": "高級",
 		"text": {
 			"en": "This course helps student attain fluency in communication and the skills needed to exchange thoughts, opinions, and information freely. Students read and write about novels, current events, and other technical topics, as well as build their ability to discuss and debate. Japanese level should comparable to level N1 of the JLPT at the completion of this course.",
 			"ja": "情報や意見の交換など、「流暢さ」を追求した自由会話を指導します。小説や時事問題、専門的なトピックについての読み書きと討論をする能力を身に付けます。日本語能力試験Ｎ１レベルです。",
-			"fr": "Ce cours permet aux étudiants d'atteindre un niveau aisé de communication et les capacités pour échanger librement leurs opinions ou des informations. Ils sont capable de lire et d'écrire des nouvelles, articles ou autre sujets techniques, et renforcent leurs capacités de discussion et de débat. A la fin du semestre le niveau en japonais est comparable au N1 du JLPT."
+			"fr": "Ce cours permet aux étudiants d'atteindre un niveau aisé de communication et les capacités pour échanger librement leurs opinions ou des informations. Ils sont capable de lire et d'écrire des nouvelles, articles ou autre sujets techniques, et renforcent leurs capacités de discussion et de débat. A la fin du semestre le niveau en japonais est comparable au N1 du JLPT.",
+			"zh-hant": "本課程幫助學生促進溝通的流暢性，以及個人思考和觀點交流等方面所需的技能。學生課中練習讀寫小說、時事和其它較有技術性主題，以及建立自己的討論和辯論的能力。本課程結束後，已具備JLPT N1的能力。"
 		}
 	}
 }

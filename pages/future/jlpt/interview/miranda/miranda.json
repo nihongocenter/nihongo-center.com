@@ -2,139 +2,163 @@
 	"title": {
 		"en": "Interview: Gabriella Miranda",
 		"ja": "インタビュー: Gabriella Miranda",
-		"fr": "Interview: Gabriella Miranda"
+		"fr": "Interview: Gabriella Miranda",
+		"zh-hant": "訪問: Gabriella Miranda"
 	},
 	"interview": [
 		{
 			"question": {
 				"en": "How long have you been living in Japan?",
 				"ja": "日本にどのぐらい住んでいますか。",
-				"fr": "Combien de temps es-tu resté au Japon ?"
+				"fr": "Combien de temps es-tu resté au Japon ?",
+				"zh-hant": "你住日本多久了？"
 			},
 			"answer": {
 				"en": "I lived in Japan for a year and 9 months. (From October 2011-June 2013)",
 				"ja": "１年9カ月住んでいました。（2011年10月～2013年6月）",
-				"fr": "J'ai vécu au Japon pendant 1 an et 9 mois. (D'octobre 2011 à juin 2013)"
+				"fr": "J'ai vécu au Japon pendant 1 an et 9 mois. (D'octobre 2011 à juin 2013)",
+				"zh-hant": "一年幼九個月。(從2011年10月-2013年6月)"
 			}
 		},
 		{
 			"question": {
 				"en": "Why did you decide to come to Japan?",
 				"ja": "日本へ来た目的は何ですか。",
-				"fr": "Pourquoi as-tu décidé de venir au Japon ?"
+				"fr": "Pourquoi as-tu décidé de venir au Japon ?",
+				"zh-hant": "為何決定來日本？"
 			},
 			"answer": {
 				"en": "To improve my speaking, and to pass the JLPT.",
 				"ja": "日本語を上手話せるように、能力試験を合格できるように。",
-				"fr": "Pour améliorer mon oral et pour passer le JLPT."
+				"fr": "Pour améliorer mon oral et pour passer le JLPT.",
+				"zh-hant": "增進我對話的能力，以及考取JLPT"
 			}
 		},
 		{
 			"question": {
 				"en": "How long did you study Japanese before coming to Japan?",
 				"ja": "日本へ来る前、どのぐらい日本語を勉強しましたか。",
-				"fr": "Combien de temps avais-tu étudier avant de venir au Japon ?"
+				"fr": "Combien de temps avais-tu étudier avant de venir au Japon ?",
+				"zh-hant": "來日本之前學了多久的日文？"
 			},
 			"answer": {
 				"en": "On my own I studied hiragana and katakana, as well as basic greetings.",
 				"ja": "自分でカタカナとひらがなとあいさつのよう言葉を勉強しました。",
-				"fr": "J'ai étudié par moi-même les hiragana et katana, ainsi qu'une présentation basique."
+				"fr": "J'ai étudié par moi-même les hiragana et katana, ainsi qu'une présentation basique.",
+				"zh-hant": "自學平假名和片假名以及簡單的打招呼。"
+
 			}
 		},
 		{
 			"question": {
 				"en": "What was your Japanese level before coming to Japan?",
 				"ja": "日本へ来る前、日本語能力はどのぐらいありましたか。",
-				"fr": "Quel était ton niveau de japonais avant de venir ?"
+				"fr": "Quel était ton niveau de japonais avant de venir ?",
+				"zh-hant": "你來日本前，日語程度如何？"
 			},
 			"answer": {
 				"en": "Pretty much nothing.",
 				"ja": "ほとんどゼロです。",
-				"fr": "Pratiquement nul."
+				"fr": "Pratiquement nul.",
+				"zh-hant": "幾乎不會什麼。"
 			}
 		},
 		{
 			"question": {
 				"en": "What were your thoughts when taking the JLPT?",
 				"ja": "ＪＬＰＴを受けた時、どう思いましたか。",
-				"fr": "A quoi pensais-tu en passant le JLPT ?"
+				"fr": "A quoi pensais-tu en passant le JLPT ?",
+				"zh-hant": "你對於報考JLPT想法如何？"
 			},
 			"answer": {
 				"en": "I was glad there were many questions like we had practiced in class.",
 				"ja": "授業でたくさん同じような質問を練習してよかった、と思った。",
-				"fr": "J'étais contente de voir plein de questions comme celles vu en classe."
+				"fr": "J'étais contente de voir plein de questions comme celles vu en classe.",
+				"zh-hant": "我很高興因為有很多類似的題目有在課堂上練習過了。"
 			}
 		},
 		{
 			"question": {
 				"en": "How did you feel after passing the JLPT?",
 				"ja": "ＪＬＰＴを合格した時、どう思いましたか。",
-				"fr": "Comment te sentais-tu après avec réussi le JLPT ?"
+				"fr": "Comment te sentais-tu après avec réussi le JLPT ?",
+				"zh-hant": "JLPT合格後的感覺如何？"
 			},
 			"answer": {
 				"en": "I thought, “No way!” I was so surprised. （＾▽＾）",
 				"ja": "嘘！と思った、本当にびっくりしました（＾▽＾）",
-				"fr": "Je me suis dit “C'est pas possible !” J'étais vraiment suprise. (＾▽＾)"
+				"fr": "Je me suis dit “C'est pas possible !” J'étais vraiment suprise. (＾▽＾)",
+				"zh-hant": "我當時覺得“合格了？不會吧！” 我覺得考過很驚喜。 （＾▽＾）"
 			}
 		},
 		{
 			"question": {
 				"en": "What efforts did you make in order to pass the JLPT?",
 				"ja": "ＪＬＰＴに合格するために、がんばったことは何ですか。",
-				"fr": "QUelle méthode as-tu utilisé pour réussir le JLPT ?"
+				"fr": "QUelle méthode as-tu utilisé pour réussir le JLPT ?",
+				"zh-hant": "為了要通過JLPT，你做了什麼樣的努力呢？"
 			},
 			"answer": {
 				"en": "I tried my hardest in class, speaking and listening. Studying every day is very important.",
 				"ja": "授業で頑張りました。話すこと、聞くことなど。大事なのは学校の毎日の勉強能力です。",
-				"fr": "J'ai vraiment fait de mon mieux en classe, surtout pour l'oral et l'écoute. Etudier tous les jours est important."
+				"fr": "J'ai vraiment fait de mon mieux en classe, surtout pour l'oral et l'écoute. Etudier tous les jours est important.",
+				"zh-hant": "我上課非常用心，特別是說和聽力方面，每天用功讀書是很重要的。"
 			}
 		},
 		{
 			"question": {
 				"en": "What aspect of classes at Nihongo Center were useful for passing the JLPT?",
 				"ja": "日本語センターの授業で、ＪＬＰＴに合格するために役に立ったこと何ですか。",
-				"fr": "Quels aspects des cours du Nihongo Center t'ont été utiles pour réussir le JLPT ?"
+				"fr": "Quels aspects des cours du Nihongo Center t'ont été utiles pour réussir le JLPT ?",
+				"zh-hant": "日本語中心的那些課程對於JLPT是有幫助的？"
 			},
 			"answer": {
 				"en": "Listening practice was really helpful! It made the JLPT much easier. And the JLPT practice in class was helpful too.",
 				"ja": "聞く練習は本当によかった！ＪＬＰＴが簡単に なった。そして、ＪＬＰＴのための授業はもちろん役に立ちました。",
-				"fr": "Les cours d'écoute m'ont vraiment aidé ! Cela a rendu le JLPT vraiment plus facile. Les entraînement au JLPT ont également été bénéfiques."
+				"fr": "Les cours d'écoute m'ont vraiment aidé ! Cela a rendu le JLPT vraiment plus facile. Les entraînement au JLPT ont également été bénéfiques.",
+				"zh-hant": "聽力練習非常有幫助！這讓我覺得JLPT沒那麼困難了，然後與JLPT考試相關題型練習也是很有幫助的。"
 			}
 		},
 		{
 			"question": {
 				"en": "Do you have a message for the teachers at Nihongo Center?",
 				"ja": "日本語センターの先生たちにメッセージをお願いします。",
-				"fr": "As-tu un message pour les enseignants du Nihongo Center ?"
+				"fr": "As-tu un message pour les enseignants du Nihongo Center ?",
+				"zh-hant": "你有沒有要對日本語中心的老師說的話？"
 			},
 			"answer": {
 				"en": "I want to say thank you so much to all of my teachers! It was because of you that I could pass. I really enjoyed my time here! I will definitely come back to Japan so let's meet again! (*^▽^*)",
 				"ja": "先生たち、本当にありがとうございます！先生たちのおかげで合格できました。この間は楽しくて、すばらしかった！必ずまた日本に行きますからまた会いましょうね！(*^▽^*)",
-				"fr": "J'ai envie de dire merci beaucoup à tous mes professeurs ! C'est grâce à vous que j'ai pu réussir. J'ai vraiment apprécié le temps passé ici. Je reviendrai certainemenet au Japon pour venir vous voir ! (*^▽^*)"
+				"fr": "J'ai envie de dire merci beaucoup à tous mes professeurs ! C'est grâce à vous que j'ai pu réussir. J'ai vraiment apprécié le temps passé ici. Je reviendrai certainemenet au Japon pour venir vous voir ! (*^▽^*)",
+				"zh-hant": "我想對我的老師們說聲謝謝！都是因為有你們我才能考過，我在學校過得很開心，我以後絕對還會回來日本跟你們見面的！ (*^▽^*)"
 			}
 		},
 		{
 			"question": {
 				"en": "Do you have a message for those who are thinking about studying Japanese?",
 				"ja": "これから日本で勉強したいと考えている人に、メッセージをお願いします。",
-				"fr": "As-tu un message pour les personnes qui envisagent d'étudier le japonais ?"
+				"fr": "As-tu un message pour les personnes qui envisagent d'étudier le japonais ?",
+				"zh-hant": "你有沒有話想對想要學日文的人說呢？"
 			},
 			"answer": {
 				"en": "Please come to Japan. You can learn much more quickly and enjoy learning.",
 				"ja": "ぜひ日本に来てください。もっと速く、そして簡単に楽しく学べるよ。",
-				"fr": "Venez au Japon. Vous pourrez apprendre plus rapidement et en vous amusant."
+				"fr": "Venez au Japon. Vous pourrez apprendre plus rapidement et en vous amusant.",
+				"zh-hant": "請來日本吧，你可以學得更快並能愉快地學習。"
 			}
 		},
 		{
 			"question": {
 				"en": "What are your future plans? (Japanese study, JLPT, work, etc.)",
 				"ja": "これからの予定を教えてください。（日本語の勉強、JLPT、仕事など）",
-				"fr": "Quels sont tes futurs projets ? (Etude de japonais, JLPT, travail, etc.)"
+				"fr": "Quels sont tes futurs projets ? (Etude de japonais, JLPT, travail, etc.)",
+				"zh-hant": "你未來的計劃是什麼？ (日語相關、JLPT、工作...等等)"
 			},
 			"answer": {
 				"en": "I plan to study at university but I'm still deciding my major. For my Japanese, I want to make friends with Japanese people and other Japanese speaker's at a language cafe in Göteborg, Sweden.",
 				"ja": "大学で勉強するつもりですが、何を専攻しようかまだ迷っています。日本語のために、スウエーデンのヨーテボルグの言語喫茶で日本人と日本語が話せる人と友達になりたい。",
-				"fr": "J'ai l'intention d'entrer à l'université mais je n'ai pas encore choisi ma spécialité. Pour mon japonais, je compte me faire plein d'amis Japonais dans un café d'échange linguistique à Göteborg en Suède."
+				"fr": "J'ai l'intention d'entrer à l'université mais je n'ai pas encore choisi ma spécialité. Pour mon japonais, je compte me faire plein d'amis Japonais dans un café d'échange linguistique à Göteborg en Suède.",
+				"zh-hant": "我計畫念大學但是我尚未決定我的主修。關於日文的話，我回到瑞典後想在哥德堡的'語言咖啡'廳裡多認識一些日本朋友。"
 			}
 		}
 	]

@@ -4,7 +4,7 @@ a.box.apply-now(href='https://my.nihongo-center.com/', target='_blank')
 
 .box
 	p.center
-		span April 2017 intensive course registration ends on the 
+		span April 2017 intensive course registration ends on the
 		strong 2nd of December
 		span .
 
@@ -23,7 +23,7 @@ a.box.apply-now(href='https://my.nihongo-center.com/', target='_blank')
 
 .box.flags
 	each language in languages
-		if language.code === 'en' || language.code === 'ja' || language.code === 'fr'
+		if language.code === 'en' || language.code === 'ja' || language.code === 'fr' || language.code === 'zh-hant'
 			a(href=`javascript:window.changeLanguage('${language.code}');`, title=language.name).flag
 				img.flag-image(src=`/images/flags/${language.flag ? language.flag : language.code}.png`, alt=language.name)
 		else
@@ -52,10 +52,10 @@ if requestLanguage === 'ja'
 .box.sidebar-logos
 	a.sidebar-logo(href='http://www.nisshinkyo.org/', rel='nofollow', title='Association for the Promotion of Japanese Language Education', target='_blank')
 		img(src='/images/logos/nisshinkyo.png', alt='Nisshinkyo')
-		
+
 	a.sidebar-logo(href='http://www.jasso.go.jp/', rel='nofollow', title='Japan Student Services Organization', target='_blank')
 		img(src='/images/logos/jasso.png', alt='Jasso')
-		
+
 	a.sidebar-logo(href='http://www.csn.se/', rel='nofollow', title='Centrala studiestödsnämnden (Scholarship for Swedish people)', target='_blank')
 		img(src='/images/logos/csn.png', alt='CSN')
 

@@ -2,11 +2,13 @@
 	"title": {
 		"en": "International School",
 		"ja": "国際色豊かな教育環境",
-		"fr": "Ecole internationale"
+		"fr": "Ecole internationale",
+		"zh-hant": "國際化學校"
 	},
 	"text": {
 		"en": "Our students at Nihongo Center come from all over the world, with about 60% from western countries, and 40% from Asian countries. With over 30 different countries represented at our international school, we are proud of our great cultural diversity. What nationality will your classmates be? Join us and find out!",
 		"ja": "日本語センターの学生はとにかくカラフル。西洋系6割、東洋系4割という割合でみれば一目瞭然です。なんと30ヶ国以上の学生が学習しているので「国際色豊か」という言葉がぴったりです。さてあなたはどの国の学生とクラスメートになれるか・・・楽しみにしてください。",
-		"fr": "Au Nihongo Center, nos étudiants viennent de tous les horizons, avec environ 60% d'étudiants occidentaux et 40% venant des pays asiatiques. Avec plus de 30 nationalités différentes représentées dans notre école, nous sommes fières de notre grande diversité culturelle. De quelles nationalités sera composée votre classe ? Venez pour le découvrir!"
+		"fr": "Au Nihongo Center, nos étudiants viennent de tous les horizons, avec environ 60% d'étudiants occidentaux et 40% venant des pays asiatiques. Avec plus de 30 nationalités différentes représentées dans notre école, nous sommes fières de notre grande diversité culturelle. De quelles nationalités sera composée votre classe ? Venez pour le découvrir!",
+		"zh-hant": "我們的學生來自世界各國，有60%來自西方國家，40%來自亞洲國家，如此國際化的學校學生國籍遍布超過30個國家，我們對於本校的文化多樣性感到驕傲，你是來自哪個國家呢？歡迎你加入我們！"
 	}
 }

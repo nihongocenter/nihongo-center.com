@@ -26,14 +26,16 @@
 	"languages": [
 		"en",
 		"ja",
-		"fr"
+		"fr",
+		"zh-hant"
 	],
 	"redirect": {
 		"en/index.html": "/",
 		"en/jlpt": "/future/jlpt",
 		"en": "/",
 		"fr": "/",
-		"ja": "/"
+		"ja": "/",
+		"zh-hant": "/"
 	},
 	"ports": {
 		"http": 4000,

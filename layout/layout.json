@@ -43,7 +43,8 @@
 	"apply": {
 		"en": "Apply now!",
 		"fr": "Postuler!",
-		"ja": "今すぐ申し込む"
+		"ja": "今すぐ申し込む",
+		"zh-hant": "加入我們"
 	},
 	"languages": [
 		{
