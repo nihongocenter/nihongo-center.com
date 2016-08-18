@@ -29,6 +29,15 @@
 		"fr",
 		"zh-hant"
 	],
+	"admin": {
+		"emails": [
+			"support@nihongo-center.com",
+			"admission@nihongo-center.com",
+			"info@nihongo-center.com",
+			"office@nihongo-center.com",
+			"e.urbach@gmail.com"
+		]
+	},
 	"redirect": {
 		"en/index.html": "/",
 		"en/jlpt": "/future/jlpt",
