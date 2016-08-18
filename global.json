@@ -117,14 +117,6 @@
 					"zh-hant": "住宿",
 					"icon": "bed",
 					"url": "/accomodation"
-				},
-				{
-					"en": "Guest House",
-					"ja": "ゲストハウス",
-					"fr": "Guest House",
-					"zh-hant": "宿舍",
-					"icon": "home",
-					"url": "/guesthouse"
 				}
 			]
 		},
