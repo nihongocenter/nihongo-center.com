@@ -63,4 +63,6 @@ app.use((request, response, next) => {
 	next()
 })
 
+app.apiKeys = require('./security/api-keys.json')
+
 app.run()
