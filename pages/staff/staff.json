@@ -38,15 +38,6 @@
 			}
 		},
 		{
-			"name": "Takayuki Niwa",
-			"image": "niwa.png",
-			"role": {
-				"en": "Teacher",
-				"ja": "Teacher",
-				"fr": "Enseignant"
-			}
-		},
-		{
 			"name": "Erika Kadowaki",
 			"image": "kadowaki.png",
 			"role": {
