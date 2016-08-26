@@ -44,6 +44,10 @@ communicatives afin de donner à chaque étudiant une grande autonomie en japona
 Grâce au contenu de nos formations, nous nous assurons de la capacité de nos étudiants à
 savoir s’exprimer dans les situations les plus diverses. La qualité de notre enseignement
 et le succès de notre école est aussi visible par le grand nombre de nos élèves qui
-poursuivent leurs études à l’université ou dans des écoles postuniversitaires.`
+poursuivent leurs études à l’université ou dans des écoles postuniversitaires.`,
+		'zh-hant': `
+擁有三十年教學經驗的日本語中心座落京都最熱鬧的核心地帶，經驗豐富的講師們以最獨到的教學方式授課。
+本校學生國籍十分多元化，許多學生來自西方國家，我們精心設計的豐富課程確保了極高的JLPT日本語能力試驗合格率，每年各個級別皆有眾多同學成功通過測驗。另外，透過團體合作活動以及課堂討論等練習機會，同學們能夠增進自我表達能力以及溝通技巧，使每位同學的日文能力皆得以大幅成長。
+藉由本校豐富且多元的課程內容，以升學為目標的同學們培養出足夠的能力跨越語言障礙，進而通過日本的大學等學校的入學測驗，順利完成在日本升學的夢想。`
 	}
 })
