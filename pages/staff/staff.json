@@ -7,7 +7,8 @@
 	"membersTitle": {
 		"en": "Staff members",
 		"ja": "メンバー",
-		"fr": "Membres du personnel"
+		"fr": "Membres du personnel",
+		"zh-hant": "團隊成員"
 	},
 	"staff": [
 		{
