@@ -29,6 +29,10 @@
 		"fr",
 		"zh-hant"
 	],
+	"icons": [
+		"images/logos/nihongo-center.png",
+		"images/logos/nihongo-center-small.png"
+	],
 	"admin": {
 		"emails": [
 			"support@nihongo-center.com",
