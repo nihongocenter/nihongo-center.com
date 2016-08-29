@@ -5,7 +5,6 @@
 			"fr": "Ecole de japonais à Kyoto",
 			"ja": "京都の日本語学校",
 			"zh-hant": "日本語學校",
-			"ru": "Японского школа",
 			"id": "-"
 		},
 		"bottom": {
@@ -65,10 +64,6 @@
 			"name": "繁體中文",
 			"code": "zh-hant",
 			"flag": "tw"
-		},
-		{
-			"name": "Русский",
-			"code": "ru"
 		},
 		{
 			"name": "Indonesia",
