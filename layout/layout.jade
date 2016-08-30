@@ -2,20 +2,29 @@ doctype html
 html(lang=requestLanguage, prefix='og: http://ogp.me/ns#')
 	head
 		meta(charset='utf-8')
-		title= page.json.title ? __(page.json.title) : (__(title.top) + ' - ' + __(title.bottom))
+		
+		//- Open Graph
+		if page.json.title
+			title= __(title.bottom) + ' - ' + __(page.json.title)
+			meta(property='og:title', content=__(title.bottom) + ' - ' + __(page.json.title))
+		else
+			title= __(title.top) + ' - ' + __(title.bottom)
+			meta(property='og:title', content=__(title.bottom))
+		
+		- var metaDescription = page.json.lead || page.json.text || description
+		if metaDescription
+			meta(name='description', content=__(metaDescription))
+			meta(property='og:description', content=__(metaDescription))
+		
+		meta(property='og:type', content='website')
+		meta(property='og:image', content='https://nihongo-center.com/images/logos/nihongo-center.png')
+		meta(property='og:url', content='https://nihongo-center.com' + requestURL)
 		
 		//- Meta data
 		- var keywordList = __(keywords)
 		meta(name='copyright', content='Copyright (C)  Japanese Language School - Nihongo Center. All Rights Reserved.')
 		meta(name='keywords', content=Array.isArray(keywordList) ? keywordList.join(',') : '')
-		meta(name='description', content=__(description))
 		meta(name='author' content='Eduard Urbach')
-		
-		//- Open Graph
-		meta(property='og:title', content=__(title.bottom))
-		meta(property='og:type', content='website')
-		meta(property='og:image', content='https://nihongo-center.com/images/logos/nihongo-center.png')
-		meta(property='og:url', content='https://nihongo-center.com')
 		
 		//- Link data
 		link(rel='canonical', href='https://nihongo-center.com/' + page.url)
