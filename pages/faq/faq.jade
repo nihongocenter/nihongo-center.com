@@ -4,6 +4,7 @@ include ../join/header.jade
 	h2= __(title)
 
 each pair in faq
-	.box
-		.question= __(pair.question)
-			.answer!= md(__(pair.answer))
+	if __(pair.question) !== "-"
+		.box
+			.question= __(pair.question)
+				.answer!= md(__(pair.answer))

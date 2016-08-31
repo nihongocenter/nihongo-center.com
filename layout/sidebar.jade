@@ -8,6 +8,15 @@ a.box.apply-now(href='https://my.nihongo-center.com/', target='_blank')
 		strong 2nd of December
 		span .
 
+.box.flags
+	each language in languages
+		if language.code === 'en' || language.code === 'ja' || language.code === 'fr' || language.code === 'zh-hant'
+			a(href=`javascript:window.changeLanguage('${language.code}');`, title=language.name).flag
+				img.flag-image(src=`/images/flags/${language.flag ? language.flag : language.code}.png`, alt=language.name)
+		else
+			a(href='/' + (language.code ? language.code + '/' : ''), title=language.name).flag
+				img.flag-image(src=`/images/flags/${language.flag ? language.flag : language.code}.png`, alt=language.name)
+
 .box.sidebar-social-media
 	a(href='https://www.facebook.com/NihongoCenterKyoto', target='_blank', title='Facebook', class='sidebar-social-media-link facebook')
 		img(class='sidebar-social-media-icon', src='/images/social-media/facebook.png', alt='Facebook', width='32', height='32')
@@ -20,15 +29,6 @@ a.box.apply-now(href='https://my.nihongo-center.com/', target='_blank')
 
 	//-a(href='/contact', class='sidebar-social-media-link mail-button')
 		img(class='sidebar-social-media-icon', src='/images/social-media/email.png', alt='E-Mail', width='32', height='32')
-
-.box.flags
-	each language in languages
-		if language.code === 'en' || language.code === 'ja' || language.code === 'fr' || language.code === 'zh-hant'
-			a(href=`javascript:window.changeLanguage('${language.code}');`, title=language.name).flag
-				img.flag-image(src=`/images/flags/${language.flag ? language.flag : language.code}.png`, alt=language.name)
-		else
-			a(href='/' + (language.code ? language.code + '/' : ''), title=language.name).flag
-				img.flag-image(src=`/images/flags/${language.flag ? language.flag : language.code}.png`, alt=language.name)
 
 if requestLanguage === 'ja'
 	.box
@@ -51,11 +51,6 @@ if requestLanguage === 'zh-hant'
 	a.ajax(href='/access', title='Access')
 		img.access-image(src='/images/access.png', alt='Nihongo Center Access')
 
-.box
-	p.center
-		a(href='http://blog.nihongo-center.com/')
-			img(src='/images/student-blog.jpg', alt='Nihongo Center - Student Blog')
-
 .box.sidebar-logos
 	a.sidebar-logo(href='http://www.nisshinkyo.org/', rel='nofollow', title='Association for the Promotion of Japanese Language Education', target='_blank')
 		img(src='/images/logos/nisshinkyo.png', alt='Nisshinkyo')
@@ -65,8 +60,8 @@ if requestLanguage === 'zh-hant'
 
 	a.sidebar-logo(href='http://www.csn.se/', rel='nofollow', title='Centrala studiestödsnämnden (Scholarship for Swedish people)', target='_blank')
 		img(src='/images/logos/csn.png', alt='CSN')
-
+		
 .box
 	p.center
-		a(href='https://www.studykyoto.jp/', target='_blank')
-			img(src='/images/studykyoto.png', alt='Study in Kyoto')
+		a(href='http://blog.nihongo-center.com/')
+			img(src='/images/student-blog.jpg', alt='Nihongo Center - Student Blog')

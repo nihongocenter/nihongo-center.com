@@ -131,6 +131,14 @@
 				"fr": "Pour ceux qui le souhaite, Nihongo center peut faire une réservation de la navette MK pour vous ammener de l'aéroport du Kansai jusqu'à votre logement ou à l'école. Le prix est de 3,600 yens par personne, et vous pouvez avoir une valise + 1 sac. Tout bagage supplémentaire coûte 1000 yens par bagage. Un membre de la compagnie vous attendra avec une pancarte à votre nom.(Il est à noter que la compagnie ne propose pas de pancarte entre 20:00 et 8:00, donc si vous arrivez dans cette tranche d'horaire, veuillez vous rendre directement au comptoir de la compagnie sur la gauche de la porte H.)",
 				"zh-hant": "若你願意，日本語中心可以安排MK接駁帶你從關西機場到您的房屋或學校。價格是每人3600日圓，一個手提箱和1個手提包是免加費用的。之後每增加一件行李是1000日圓。 MK一名工作人員將關外等你，就可以了舉著牌子您的姓名，所以沒有必要擔心。 （請注意，MK不會從晚上8點提供銘牌服務至8日凌晨，所以如果你在這段時間內抵達，請直接到MK服務櫃檯H門的左邊。）"
 			}
+		},
+		{
+			"question": {
+				"en": "Where can I read more about studying in Kyoto?"
+			},
+			"answer": {
+				"en": "Please take a look at [studykyoto.jp](https://www.studykyoto.jp/)."
+			}
 		}
 	]
 }
