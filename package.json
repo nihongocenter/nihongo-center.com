@@ -9,6 +9,7 @@
 		"aero-git": "*",
 		"aero-sitemap": "*",
 		"aero-glyphicons": "*",
+		"aero-aerospike": "*",
 		"aero-admin": "*",
 		"body-parser": "*",
 		"i18n": "*",

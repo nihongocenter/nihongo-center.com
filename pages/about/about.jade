@@ -9,7 +9,7 @@ include header.jade
 .box
 	h2#frontpage-header= __(app.layout.json.title.top)
 	!= md(__(intro))
-		
+
 .features
 	each feature, id in features
 		a.box.feature(class=id, href=feature.link)
