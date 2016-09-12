@@ -1,0 +1,8 @@
+include ../about/header.jade
+
+.box
+	h2 News
+	
+	ul
+		each article in news
+			li= article.title

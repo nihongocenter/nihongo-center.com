@@ -1,6 +1,4 @@
-'use strict'
-
-const app = require('aero')()
+global.app = require('aero')()
 const cookieSession = require('cookie-session')
 const globalJSON = require('./global.json')
 const marked = require('marked')
@@ -62,7 +60,5 @@ app.use((request, response, next) => {
 
 	next()
 })
-
-app.apiKeys = require('./security/api-keys.json')
 
 app.run()

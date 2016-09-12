@@ -1,3 +1,4 @@
+
 {
 	"domain": "nihongo-center.com",
 	"title": "Japanese School - Nihongo Center",
@@ -33,6 +34,9 @@
 		"images/logos/nihongo-center.png",
 		"images/logos/nihongo-center-small.png"
 	],
+	"database": {
+		"namespace": "nc"
+	},
 	"admin": {
 		"emails": [
 			"support@nihongo-center.com",
