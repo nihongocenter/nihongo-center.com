@@ -6,6 +6,8 @@
 		"aero": "*",
 		"aero-reset": "*",
 		"aero-ajax": "*",
+		"aero-git": "*",
+		"aero-sitemap": "*",
 		"aero-glyphicons": "*",
 		"aero-admin": "*",
 		"body-parser": "*",
