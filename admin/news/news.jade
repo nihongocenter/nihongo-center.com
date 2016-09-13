@@ -1,0 +1,7 @@
+h2 News
+
+ul
+	each article in news
+		li= article.title
+
+button.ajax(href='/news/new') New article
