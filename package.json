@@ -4,6 +4,7 @@
 	"version": "1.0.0",
 	"dependencies": {
 		"aero": "*",
+		"aero-transpile-scripts": "*",
 		"aero-reset": "*",
 		"aero-ajax": "*",
 		"aero-git": "*",
