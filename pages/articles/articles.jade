@@ -1,0 +1,9 @@
+include ../about/header.jade
+
+.box
+	if !article
+		p Article not found.
+	else
+		h2= article.title
+		
+		!= app.markdown(article.text)

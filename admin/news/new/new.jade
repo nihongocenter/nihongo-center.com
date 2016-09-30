@@ -1,11 +1,14 @@
 .new-article
 	#editing
-		h2 New article
+		p
+			input(id='article-title', type='text', placeholder='Title')
 
 		p
-			input(type='text', placeholder='Title')
-
+			textarea(id='article-text', placeholder='Content')
+		
 		p
-			textarea(placeholder='Content')
+			button#publish
+				span.fa.fa-check
+				| Publish
 
 	#preview

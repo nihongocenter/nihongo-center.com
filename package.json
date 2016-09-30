@@ -21,7 +21,8 @@
 		"humanize-plus": "*",
 		"cookie-session": "*",
 		"locale": "*",
-		"request": "*"
+		"request": "*",
+		"shortid": "*"
 	},
 	"author": {
 		"name": "Eduard Urbach",

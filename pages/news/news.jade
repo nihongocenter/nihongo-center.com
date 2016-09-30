@@ -5,4 +5,5 @@ include ../about/header.jade
 	
 	ul
 		each article in news
-			li= article.title
+			li
+				a.ajax(href=`/articles/${article.id}`)= article.title

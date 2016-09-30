@@ -1,4 +1,4 @@
-admin.on('layout loaded', () => {
+let install = () => {
 	let menu = admin.layout.json.nav
 
 	menu.push({
@@ -9,4 +9,10 @@ admin.on('layout loaded', () => {
 
 	admin.loadPage('news', app.path('admin'))
 	admin.loadPage('news/new', app.path('admin'))
-})
+	admin.loadPage('api/news/new', app.path('admin'))
+}
+
+if(admin.layout && admin.layout.json)
+	install()
+else
+	admin.on('layout loaded', install)

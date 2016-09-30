@@ -1,8 +1,41 @@
 let init = () => {
-	let md = window.markdownit()
-	let result = md.render('# markdown-it rulezz!')
+	const md = window.markdownit()
 
-	$('preview').innerHTML = result
+	const preview = $('preview')
+	const articleTitle = $('article-title')
+	const articleText = $('article-text')
+	const publishButton = $('publish')
+
+	publishButton.onclick = function() {
+		$.post('/api/news/new', {
+			title: articleTitle.value,
+			text: articleText.value
+		}).then(() => {
+			articleTitle.disabled = true
+			articleText.disabled = true
+			publishButton.disabled = true
+			console.log('Published.')
+		})
+	}
+
+	if(localStorage['article-title'])
+		articleTitle.value = localStorage['article-title']
+
+	if(localStorage['article-text'])
+		articleText.value = localStorage['article-text']
+
+	let render = function() {
+		if(this && this.id)
+			localStorage[this.id] = this.value
+
+		preview.innerHTML = md.render(`## ${articleTitle.value}\n\n${articleText.value}`)
+	}
+
+	articleTitle.onkeyup = render
+	articleText.onkeyup = render
+
+	// Render text from localStorage
+	render()
 }
 
 if(!window.markdownLoaded) {
