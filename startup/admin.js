@@ -1,4 +1,4 @@
-let install = () => {
+/*let install = () => {
 	let menu = admin.layout.json.nav
 
 	menu.push({
@@ -16,3 +16,4 @@ if(admin.layout && admin.layout.json)
 	install()
 else
 	admin.on('layout loaded', install)
+*/

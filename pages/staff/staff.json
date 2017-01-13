@@ -2,13 +2,16 @@
 	"title": {
 		"en": "Staff",
 		"ja": "スタッフ",
-		"fr": "Staff"
+		"fr": "Staff",
+		"zh-hant": "教學團隊",
+		"id": "Staf"
 	},
 	"membersTitle": {
 		"en": "Staff members",
 		"ja": "メンバー",
 		"fr": "Membres du personnel",
-		"zh-hant": "團隊成員"
+		"zh-hant": "團隊成員",
+		"id": "Anggota karyawan"
 	},
 	"staff": [
 		{

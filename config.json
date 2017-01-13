@@ -1,4 +1,3 @@
-
 {
 	"domain": "nihongo-center.com",
 	"title": "Japanese School - Nihongo Center",
@@ -28,7 +27,8 @@
 		"en",
 		"ja",
 		"fr",
-		"zh-hant"
+		"zh-hant",
+		"id"
 	],
 	"icons": [
 		"images/logos/nihongo-center.png",
@@ -46,6 +46,9 @@
 			"e.urbach@gmail.com"
 		]
 	},
+	"headers": {
+		"Content-Security-Policy": ""
+	},
 	"redirect": {
 		"en/index.html": "/",
 		"en/jlpt": "/future/jlpt",
@@ -56,7 +59,6 @@
 	},
 	"ports": {
 		"http": 4000,
-		"https": 4001,
-		"liveReload": 9000
+		"https": 4001
 	}
 }

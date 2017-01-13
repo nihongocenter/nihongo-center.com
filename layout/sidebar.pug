@@ -10,7 +10,7 @@ a.box.apply-now(href='https://my.nihongo-center.com/', target='_blank')
 
 .box.flags
 	each language in languages
-		if language.code === 'en' || language.code === 'ja' || language.code === 'fr' || language.code === 'zh-hant'
+		if true
 			a(href=`javascript:window.changeLanguage('${language.code}');`, title=language.name).flag
 				img.flag-image(src=`/images/flags/${language.flag ? language.flag : language.code}.png`, alt=language.name)
 		else

@@ -1,4 +1,4 @@
-include header.jade
+include header.pug
 
 .box
 	h2= __(title)
@@ -8,25 +8,25 @@ include header.jade
 	img(src='/images/course.jpg', alt='Course overview')
 
 .box.course
-	.badge N5 - N4
+	.badge N5
 	.course-icon.glyphicon.glyphicon-education
 	h3.course-title= __(introductory)
-	p.course-description= __(introductory.text)
+	p.course-description!= md(__(introductory.text))
 	
 .box.course
-	.badge N3
+	.badge N4
 	.course-icon.glyphicon.glyphicon-education
 	h3.course-title= __(beginner)
-	p.course-description= __(beginner.text)
+	p.course-description!= md(__(beginner.text))
 	
 .box.course
-	.badge N2
+	.badge N3 - N2
 	.course-icon.glyphicon.glyphicon-education
 	h3.course-title= __(intermediate)
-	p.course-description= __(intermediate.text)
+	p.course-description!= md(__(intermediate.text))
 	
 .box.course
 	.badge N1
 	.course-icon.glyphicon.glyphicon-education
 	h3.course-title= __(advanced)
-	p.course-description= __(advanced.text)
+	p.course-description!= md(__(advanced.text))
