@@ -56,9 +56,12 @@
 		"id": "Panduan Pendaftaran"
 	},
 		"application" : {
-			"en": "1/<strong> Application on my.nihongo-center.com.</strong>",
+			"en": "1/ Application on my.nihongo-center.com",
 			"text": {
-				"en": "<strong> What is my.nihongo-center.com?</strong>\n\n Our site allows you to apply to our school on the internet. The advantage is that all your files are saved in the same place and you can upload or delete file anytime you want. We also get notifications every time any modification is made to your profile. This way we can contact you more effectively.\n\n To create an account on my.nihongo-center.com, you must already have (or create) a Gmail or Facebook account to login. The moment you register in my.nihongo-center.com, we receive a notification with the address used to log in <strong>so be sure to register with the one you use most of the time so we can contact you</strong>.\n\n If you have any problem uploading data on the site, you can make your application by submitting documents   to our address: support@nihongo-center.com"
+				"en": "<strong><u> What is my.nihongo-center.com?</u></strong>\n\n Our site allows you to apply to our school on the internet. The advantage is that all your files are saved in the same place and you can upload or delete file anytime you want. We also get notifications every time any modification is made to your profile. This way we can contact you more effectively.\n\n To create an account on my.nihongo-center.com, you must already have (or create) a Gmail or Facebook account to login. The moment you register in my.nihongo-center.com, we receive a notification with the address used to log in <strong>so be sure to register with the one you use most of the time so we can contact you</strong>.\n\n If you have any problem uploading data on the site, you can make your application by submitting documents   to our address: support@nihongo-center.com"
+			},
+			"complete": {
+				"en" : "• <strong> How to complete your application?</strong>\n\n Your profile will be completed when it reaches 100% but until then, there is a priority. In order to best support you in the application process, we need to know your Name, Family Name, Nationality, and contact address so please fill in this first so we have a way to contact you. Depending on the course you want to apply for, and if a student visa is needed or not, we will tell you which document you need to upload on your profile."
 			}
 	}
 }
