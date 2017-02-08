@@ -19,5 +19,8 @@ include header.pug
 			a(href='/downloads/pledge.doc')= __(pledge)
 .box
 	h3= __(enrollment)
-	p In progress
+	ul
+	
+	h4= __(application)
+	!= md(__(application.text))
 	
