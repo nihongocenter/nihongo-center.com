@@ -53,6 +53,11 @@
 		"ja": "申し込みガイド",
 		"fr": "Guide d'Inscritpion",
 		"zh-hant": "申請入學指南",
-		"id": "Panduan Pendaftaran"
+		"id": "Panduan Pendaftaran",
+		"application" : {
+			"en" : "1/ Application on my.nihongo-center.com",
+			"fr" : "1/ S’insrire sur my.nihongo-center.com",
+			"zh-hant" : "1/ 利用my.nihongo-center.com申請",
+			"id" : "1/ Pendaftaran melewati my.nihongo-center.com"
 	}
 }
