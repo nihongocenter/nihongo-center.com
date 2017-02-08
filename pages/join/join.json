@@ -49,6 +49,8 @@
 		"id": "Janji"
 	},
 	"enrollment guide":{
-		"en": "Our site allows you to apply to our school on the internet. The advantage is that all your files are saved in the same place and you can upload or delete file anytime you want. We also get notifications every time any modification is made to your profile. This way we can contact you more effectively."
+		"en": "Enrollment Guide",
+		"ja": "申し込みガイド",
+		"fr": "Guide d'Inscritpion"
 	}
 }
