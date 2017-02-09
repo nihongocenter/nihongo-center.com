@@ -28,7 +28,7 @@ include header.pug
 	
 	img(src='/images/Guide2.jpg', alt='Guide2')
 	ul
-	!=md(__(application.complete))
+	!= md(__(application.complete))
 	
 	img(src='/images/Guide3.jpg', alt='Guide3')
 	ul
@@ -64,11 +64,11 @@ include header.pug
 		ul
 	!= md(__(Accommodation.Partners.GCC.text))
 	ul
-		!=md(__(Accommodation.Partners.House))
+		!= md(__(Accommodation.Partners.House))
 		ul
 	!= md(__(Accommodation.Partners.House.text))
 	ul
-		!= md(__(Accommodation.Partners.Kyoto)
+		!= md(__(Accommodation.Partners.Kyoto))
 		ul
 	!= md(__(Accommodation.Partner.Kyoto.text))
 	ul
