@@ -81,8 +81,5 @@
 	},
 		"Payment": {
 			"en" :"2/ Payment Schedule",
-			"applicant" : {
-				"en" : "<strong><u>For student visa applicants</strong></u> (6months/1-year intensive programs)",
-			}
 		}
 	}
