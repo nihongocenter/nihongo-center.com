@@ -25,13 +25,16 @@ include header.pug
 	!= md(__(application.text))
 	
 	img(src='/images/Guide1.jpg', alt='Guide1')
-	
+.box
 	img(src='/images/Guide2.jpg', alt='Guide2')
 	
+.box	
 	!= md(__(application.complete))
 	
 	img(src='/images/Guide3.jpg', alt='Guide3')
 	ul
+	
+.box
 	!= md(__(application.documents))
 	ul
 	!= md(__(application.months))
@@ -42,6 +45,7 @@ include header.pug
 	ul
 	!= md(__(application.difference))
 	
+.box
 	h4= __(Payment)
 	p Work in Progress
 
