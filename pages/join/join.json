@@ -123,5 +123,8 @@
 				}
 			}
 		}
+	},
+	"Arrival":{
+		"en" : "Preparing your arrival"
 	}
 }
