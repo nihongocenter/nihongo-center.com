@@ -27,8 +27,8 @@ include header.pug
 	img(src='/images/Guide1.jpg', alt='Guide1')
 	
 	img(src='/images/Guide2.jpg', alt='Guide2')
-	ul
-	!=md(__(application.complete))
+	
+	!= md(__(application.complete))
 	
 	img(src='/images/Guide3.jpg', alt='Guide3')
 	ul
@@ -42,7 +42,5 @@ include header.pug
 	ul
 	!= md(__(application.difference))
 	
-.box
 	h4= __(Payment)
 	p Work in Progress
-	
