@@ -78,4 +78,8 @@ include header.pug
 	ul
 .box
 	h4= __(Arrival)
-	p Work in Progress
+	!= md(__(Arrival.certificate))
+	ul
+	!= md(__(Arrival.flight))
+	ul
+	!= md(__(Arrival.insurance))
