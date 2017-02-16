@@ -168,6 +168,11 @@
 					"id": "JLPT",
 					"icon": "certificate",
 					"url": "/future/jlpt"
+				},
+				{
+					"en" : "TEST",
+					"icon": "education",
+					"url": "/future/test"
 				}
 			]
 		},
