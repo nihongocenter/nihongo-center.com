@@ -72,6 +72,11 @@
 		{
 			"name": "Indonesia",
 			"code": "id"
+		},
+		{
+			"name": "Swedish",
+			"code": "sv",
+			"flag": "se"
 		}
 	]
 }
