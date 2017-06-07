@@ -14,7 +14,7 @@ let updateImages = () => {
 }
 
 updateImages()
-watch('../../../images/facilities/', updateImages)
+watch('images/facilities/', updateImages)
 
 exports.get = (request, response) => {
 	response.render({

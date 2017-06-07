@@ -3,7 +3,7 @@ include ../about/header.pug
 .box
 	h2 News
 	
-	ul
-		each article in news
-			li
-				a.ajax(href=`/articles/${article.id}`)= article.title
+each article in articles
+	.box
+		h3= article.title
+		!= md(article.text)

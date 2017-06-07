@@ -10,7 +10,6 @@
 		"aero-git": "*",
 		"aero-sitemap": "*",
 		"aero-glyphicons": "*",
-		"aero-aerospike": "*",
 		"body-parser": "*",
 		"i18n": "*",
 		"jstransformer-marked": "*",

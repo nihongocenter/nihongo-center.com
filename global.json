@@ -17,6 +17,15 @@
 					"url": "/"
 				},
 				{
+					"en": "News",
+					"ja": "ニュース",
+					"fr": "News",
+					"zh-hant": "最新消息",
+					"id": "News",
+					"icon": "bullhorn",
+					"url": "/news"
+				},
+				{
 					"en": "International",
 					"ja": "多国籍",
 					"fr": "International",
