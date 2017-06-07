@@ -6,7 +6,7 @@
         },
         {
             "title": "Student Blog",
-            "text": "We now have a [student blog](https://medium.com/all-about-kyoto) in 3 languages featuring all kinds of information about Kyoto."
+            "text": "We now have a [student blog](https://medium.com/all-about-kyoto) in 3 languages featuring all kinds of information about Kyoto.\n\n* [English](https://medium.com/all-about-kyoto/tagged/nihongo-center-eng)\n* [French](https://medium.com/all-about-kyoto/tagged/nihongo-center-fr)\n* [Taiwanese](https://medium.com/all-about-kyoto/tagged/nihongo-center-twn)"
         }
     ]
 }
