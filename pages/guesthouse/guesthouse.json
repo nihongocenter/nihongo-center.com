@@ -3,12 +3,15 @@
 		"en": "Guest House",
 		"ja": "ゲストハウス",
 		"fr": "Guest House",
-		"zh-hant": "宿舍"
+		"zh-hant": "宿舍",
+		"id": "Guest House",
+		"se": "Guest House"
 	},
 	"text": {
 		"en": "We can offer you to live at the **Nihongo Center Guest House** which is located inside the school building for ~32,000 ¥ per month.",
 		"ja": "日本語センターのゲストハウスも利用可能です。ゲストハウスは、日本語センターと同じビル内にあり、家賃は、部屋のタイプによって変わりますが、3万2千円からとなります。",
 		"fr": "Nous pouvons vous offrir de résider, pour environ 32,000 yen par mois, à la **Guest House de Nihongo Center** qui se situe dans le bâtiment de l'école.",
-		"zh-hant": "我們提供 **日本語中心的宿舍** 其地點就在學校同棟大樓的樓上，房租是每個月32,000 日圓。"
+		"zh-hant": "我們提供 **日本語中心的宿舍** 其地點就在學校同棟大樓的樓上，房租是每個月32,000 日圓。",
+		"se": "Vi kan erbjuda dig att bo på **Nihongo Center Guest House** som finns inuti skolbyggnaden för en hyra på omkring 32,000 ¥ per månad."
 	}
 }
