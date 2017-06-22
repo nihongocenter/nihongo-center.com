@@ -72,6 +72,10 @@
 		{
 			"name": "Indonesia",
 			"code": "id"
+		},
+		{
+			"name": "Sweden",
+			"code": "sv"
 		}
 	]
 }
