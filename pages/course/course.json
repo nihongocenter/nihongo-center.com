@@ -4,16 +4,16 @@
 		"ja": "日本語のコース",
 		"fr": "Cours de japonais au Nihongo Center",
 		"zh-hant":"課程",
-		"id": "Kursus Bahasa Jepang di Nihongo Center"
+		"id": "Kursus Bahasa Jepang di Nihongo Center",
+		"se": "Japanska Kurser på Nihongo Center"
 	},
 	"lead": {
 		"en": "Here at Nihongo Center, we recognize the multitude of reasons for studying Japanese. For those who wish to master daily conversation, continue your education in Japan, or find a job related to Japanese, we have carefully developed courses to meet your various needs and prepare you for any [JLPT](/future/jlpt) level you wish to pass.",
 		"ja": "ヨーロッパ、北南米、アジア等、世界30カ国以上からの留学生が学習している日本語センターでは、「日本語が話せるようになりたい」「日本で進学したい」「日本語を使って仕事をしたい」といった様々なニーズに対応できるコースを用意しています。",
 		"fr": "Ici, au Nihongo Center, nous estimons toutes les différentes raisons d'étudier le japonais. Pour ceux qui voudraient maîtriser les conversations courantes, continuer leurs études au Japon, ou trouver un travail en rapport avec le japonais, nous avons développé des programmes en fonction de vos besoins et qui vous préparent au [JLPT](/future/JLPT).",
 		"zh-hant": "在日本語中心就讀的同學們皆有著自己期望達成的目標。無論您的目的是增進日常生活日文口語對話能力﹑在日本升學﹑還是在日本就職，我們為您準備了多種精心策畫的課程內容，以滿足您的學習需求，並且協助您通過JLPT日本語能力測驗的各個級別。",
-		"id": "Di Nihongo Center, kami menyadari banyak alasan untuk belajar bahasa Jepang. Bagi mereka yang ingin menguasai percakapan sehari-hari, melanjutkan pendidikan di Jepang, atau mencari pekerjaan yang berhubungan dengan Jepang, kami telah mengembangkan program untuk memenuhi berbagai kebutuhan dan mempersiapkan Anda untuk setiap tingkat [JLPT] (/future/JLPT) yang Anda ingin lulus."
-	
-	
+		"id": "Di Nihongo Center, kami menyadari banyak alasan untuk belajar bahasa Jepang. Bagi mereka yang ingin menguasai percakapan sehari-hari, melanjutkan pendidikan di Jepang, atau mencari pekerjaan yang berhubungan dengan Jepang, kami telah mengembangkan program untuk memenuhi berbagai kebutuhan dan mempersiapkan Anda untuk setiap tingkat [JLPT] (/future/JLPT) yang Anda ingin lulus.",
+		"se": "På Nihongo Center ser vi den mängd anledningar som finns för att lära sig Japanska. Vare sig man vill bemästra vardagliga konversationer, fortsätta med vidare utbildning i Japan eller hitta ett jobb där du använder japanska, så har vi tagit fram kurser för att tillmötes gå dina behov och förebereda dig inför den  [JLPT](/future/jlpt) nivå du vill klara av."
 	},
 	"introductory": {
 		"en": "Introductory",
@@ -21,12 +21,14 @@
 		"fr": "Introduction",
 		"zh-hant": "入門",
 		"id": "Pengantar",
+		"se": "Introduktionskurs",
 		"text": {
 			"en": "Students learn the Japanese sentence structure and vocabulary necessary for acquiring basic conversational skills. Students are also taught to read and write about basic, familiar topics. At the completion of this course, students will be at approximately level N5 of the [Japanese Language Proficiency Test](/future/jlpt).",
 			"ja": "ダイレクトメソッドによる文法導入から、学んだ文型や語彙を使用して基本的な日常会話に必要な会話力を習得します。また、身近なことがらについての基礎的な読み書きができるように指導します。[日本語能力試験](/future/jlpt)Ｎ５レベルです。",
 			"fr": "Les étudiants apprennent les structures grammaticales et le vocabulaire japonais nécessaires pour acquérir des capacités conversationnelles de base. Ils apprennent également à lire et à écrire sur des thèmes faciles et familliers. A la fin de ce cours, les étudiants se trouvent généralement entre le N5 du Test d'Aptitudes en Langue Japonaise ([JLPT](/future/jlpt)).",
 			"zh-hant": "學生將學習必要的基本會話技巧以及日文句子結構和詞彙。也教授讀的能力，以一般較為容易且熟悉的話題提升基本書寫的能力。本課程完成後，學生日語能力將在大約落在[JLPT](/future/jlpt)的N5。",
-			"id": "Siswa belajar struktur kalimat bahasa Jepang dan kosa kata yang diperlukan untuk memperoleh keterampilan percakapan dasar. Siswa juga diajarkan untuk membaca dan menulis tentang topik yang dasar dan akrab. Di akhir kursus ini, siswa akan mencapai tingkat N5 dari Ujian Kemampuan Bahasa Jepang ([JLPT](/future/jlpt))."
+			"id": "Siswa belajar struktur kalimat bahasa Jepang dan kosa kata yang diperlukan untuk memperoleh keterampilan percakapan dasar. Siswa juga diajarkan untuk membaca dan menulis tentang topik yang dasar dan akrab. Di akhir kursus ini, siswa akan mencapai tingkat N5 dari Ujian Kemampuan Bahasa Jepang ([JLPT](/future/jlpt)).",
+			"se": "Studenter lär sig Japansk meningsuppbyggnad och vokabulär som är nödvändiga för grundläggande konversationer. Studenter lär sig även att läsa och skriva om grundläggande och vardagliga ämnen. Efter denna kurs bör studenter vara på N5 eller N4 nivå av JLPT."
 		}
 	},
 	"beginner": {
@@ -35,13 +37,14 @@
 		"fr": "Débutant",
 		"zh-hant": "初學",
 		"id": "Tingkat Pemula",
+		"se": "Nybörjare"
 		"text": {
 			"en": "This course focuses on improving practical daily conversational skills, including honorific expressions. In addition, readings and writings focus on topics related to Japanese culture to help deepen the students’ interest and understanding. Japanese ability should be comparable to level N4 of the [JLPT](/future/jlpt) at the completion of this course.",
 			"ja": "敬語表現を含む実用的な日常会話の習得を目指します。また、日本文化に密着したトピックについての読み書きを指導し、興味と理解を深めます。[日本語能力試験](/future/jlpt)Ｎ4レベルです。",
 			"fr": "Ce cours se focalise sur l'amélioration pratique des capacités de conversation, incluant les expressions de politesse. De plus, l'écriture et la lecture se focalisent sur des sujets liés à la culture japonaise pour favoriser l'interêt et la compréhension des étudiants. Les aptitudes en langue japonaise sont comparables à celles du [JLPT](/future/jlpt) N4 à la fin de ce cours.",
 			"zh-hant": "本課程專注於提升實用的日常對話能力，也包含敬語的使用，此外，閱讀和寫作重點放在日本文化，幫助加深學生的學習興趣和對日文的了解。學習此課程之後，日語能力應落在[JLPT](/future/jlpt)的N4程度。",
-			"id": "Kursus ini berfokus pada peningkatan keterampilan berbicara yang digunakan sehari-hari, termasuk ekspresi kehormatan. Selain itu, pembacaan dan tulisan-tulisan fokus pada topik yang terkait dengan budaya Jepang untuk membantu memperdalam minat dan pemahaman siswa. Kemampuan Bahasa Jepang siswa akan mencapai tingkat N4 dari [JLPT](/future/jlpt) di akhir kursus ini."
-
+			"id": "Kursus ini berfokus pada peningkatan keterampilan berbicara yang digunakan sehari-hari, termasuk ekspresi kehormatan. Selain itu, pembacaan dan tulisan-tulisan fokus pada topik yang terkait dengan budaya Jepang untuk membantu memperdalam minat dan pemahaman siswa. Kemampuan Bahasa Jepang siswa akan mencapai tingkat N4 dari [JLPT](/future/jlpt) di akhir kursus ini.",
+			"se": "Denna kurs fokuserar på att förbättra språket i vardagen inklusive artiga uttryck och fraser. I denna kurs läser och skriver studenter uppsatser som handlar japansk kultur för att fördjupa intresse och förståelse. Efter denna kurs bör studenter vara på N3 nivå av JLPT."
 		}
 	},
 	"intermediate": {
@@ -50,12 +53,14 @@
 		"fr": "Intermédiaire",
 		"zh-hant": "中級",
 		"id": "Tingkat Menengah",
+		"se": "Intermediär",
 		"text": {
 			"en": "In this course students learn to distinguish various levels of formality, honorifics, and gender-specific speech, while continuing to build their conversational ability in a number of situations. Students read novels, newspapers, and magazines, and learn to express their opinions through high-level writing. Japanese level will be comparable to level N3 or N2 of the [JLPT](/future/jlpt) at the end of this course.",
 			"ja": "待遇表現、敬語、性別による違いを含む、さまざまな場面に応じた会話力を習得します。また小説、新聞、雑誌などを読み、自分の意見を高度な文章で書き表す力を身に付けます。日本語能力試験N3から[N2](/future/jlpt)レベルです。",
 			"fr": "A ce niveau les étudiants apprennent à distinguer différents niveaux de politesse, honorifiques et languages spécifiques, tout en renforçant leurs capacités orales. Ils peuvent lire des nouvelles, journaux, magazines, et sont capables d'exprimer leur opinions dans des dissertations. A la fin du semestre le niveau en japonais est comparable au N2 et au N3 du [JLPT](/future/jlpt).",
 			"zh-hant": "在這個課程中，學生學會分辨各種詞類型態、敬語，並針對不同性別所使用的不同日文等等，同時繼續加強在許多不同情況下學生們的對話能力。學生開始讀小說、報刊和雜誌，學會以高層級的日語寫作表達意見。此課程結束後的日文能力是[JLPT](/future/jlpt)的N3或N2程度。",
-			"id": "Dalam program ini siswa belajar untuk membedakan berbagai tingkat formalitas, honorifik, dan pidato, sambil terus membangun kemampuan percakapan mereka dalam sejumlah situasi. Siswa membaca novel, koran, dan majalah, dan belajar untuk mengekspresikan pendapat mereka melalui tingkat menulis yang tinggi. Tingkat Bahasa Jepang akan sebanding dengan tingkat N3 atau N2 dari [JLPT](/future/jlpt) pada akhir kursus ini."
+			"id": "Dalam program ini siswa belajar untuk membedakan berbagai tingkat formalitas, honorifik, dan pidato, sambil terus membangun kemampuan percakapan mereka dalam sejumlah situasi. Siswa membaca novel, koran, dan majalah, dan belajar untuk mengekspresikan pendapat mereka melalui tingkat menulis yang tinggi. Tingkat Bahasa Jepang akan sebanding dengan tingkat N3 atau N2 dari [JLPT](/future/jlpt) pada akhir kursus ini.",
+			"I denna kurs lär sig studenter olika nivåer av formalitet, artighet och även kön-specifika ord i japanskan. Det fokuseras även på att förbättra konservationsförmåga i olika situationer. Studenter läser böcker, tidningar, magasin och lär sig att uttrycka sina åsikter genom uppsatser. Efter denna kurs bör studenter vara på N2 nivå av JLPT."
 		}
 	},
 	"advanced": {
@@ -64,12 +69,14 @@
 		"fr": "Avancé",
 		"zh-hant": "高級",
 		"id": "Tingkat Tinggi",
+		"se": "Avancerad",
 		"text": {
 			"en": "This course helps student attain fluency in communication and the skills needed to exchange thoughts, opinions, and information freely. Students read and write about novels, current events, and other technical topics, as well as build their ability to discuss and debate. Japanese level should comparable to level N1 of the [JLPT](/future/jlpt) at the completion of this course.",
 			"ja": "情報や意見の交換など、「流暢さ」を追求した自由会話を指導します。小説や時事問題、専門的なトピックについての読み書きと討論をする能力を身に付けます。[日本語能力試験](/future/jlpt)Ｎ１レベルです。",
 			"fr": "Ce cours permet aux étudiants d'atteindre un niveau aisé de communication et les capacités pour échanger librement leurs opinions ou des informations. Ils sont capable de lire et d'écrire des nouvelles, articles ou autre sujets techniques, et renforcent leurs capacités de discussion et de débat. A la fin du semestre le niveau en japonais est comparable au N1 du [JLPT](/future/jlpt).",
 			"zh-hant": "本課程幫助學生促進溝通的流暢性，以及個人思考和觀點交流等方面所需的技能。學生課中練習讀寫小說、時事和其它較有技術性主題，以及建立自己的討論和辯論的能力。本課程結束後，已具備[JLPT](/future/jlpt) N1的能力。",
-			"id": "Kursus ini membantu siswa mencapai kefasihan dalam komunikasi dan keterampilan yang dibutuhkan untuk bertukar pikiran, pendapat, dan informasi secara bebas. Siswa membaca dan menulis tentang novel, kejadian terkini, dan topik teknis lainnya, serta membangun kemampuan mereka untuk pendiskusian dan perdebatan. Tingkat Bahasa Jepang akan sebanding dengan tingkat N1 dari [JLPT](/future/jlpt) pada menyelesaikan kursus ini. "
+			"id": "Kursus ini membantu siswa mencapai kefasihan dalam komunikasi dan keterampilan yang dibutuhkan untuk bertukar pikiran, pendapat, dan informasi secara bebas. Siswa membaca dan menulis tentang novel, kejadian terkini, dan topik teknis lainnya, serta membangun kemampuan mereka untuk pendiskusian dan perdebatan. Tingkat Bahasa Jepang akan sebanding dengan tingkat N1 dari [JLPT](/future/jlpt) pada menyelesaikan kursus ini.",
+			"se": "Denna kurs hjälper studenter att uppnå ett flyt i sin kommunikation samt lär sig det som behövs för att kunna utbyta åsikter tankar och information. Studenter skriver om böcker, aktuella händelser och andra svårare teman. Mer fokus läggs på diskussion och debatt. Denna kurs är jämförbar med JLPT Nivå N1."
 		}
 	}
 }
