@@ -122,15 +122,16 @@
 				"ja": "アルバイトはできますか？",
 				"fr": "Puis-je trouver un travail à mi-temps ?",
 				"zh-hant": "我可以打工嗎？",
-				"id": "Dapatkah saya bekerja pekerjaan paruh waktu?"
+				"id": "Dapatkah saya bekerja pekerjaan paruh waktu?",
+				"se": "Kan jag arbeta deltid?"
 			},
 			"answer": {
 				"en": "A student visa allows you to work part time in Japan. One of the quickest ways to find a job is by getting information from other students who have already found jobs. Please also check with the office, as we sometimes receive information on job openings. Please be aware that Japanese ability is sometimes required for certain jobs. If you are interested in teaching private lessons, you can post an advertisement on the notice board at Kyoto’s International Exchange Center (Kokusai Koryukaikan)",
 				"ja": "アルバイトを見つけるには、学校の先輩から情報をもらうのが一番早いと思います。日本語センターの事務所に時々募集がきますので、問い合わせてください。やはり、日本語能力が一番のポイントです。語学のプライベート教師をしたい場合は国際交流会館の掲示板にお知らせを載せることをお勧めします。",
 				"fr": "Un visa étudiant vous permer de travailler au Japon. Le moyen le plus rapide pour trouver un travail est de demander des informations aux étudiants en ayant déjà un. Vous pouvez également demander à l'accueil car nous reçevons régulièrement des annonces. Pensez quand même que les capacités en japonais demandées ne sont pas les mêmes pour tous les jobs. Si vous êtes intéressé pour donner des cours privés vous pouvez poster une annonce sur le tableau du Centre d'Echange International de Kyoto.",
 				"zh-hant": "學生簽證允許是在日本打工的，其中一個找工作最快的方法是通過其他已經在打工的學生獲取打工信息。另外，也可以詢問辦公室，因為我們有時會收到關於職位空缺的信息。請注意，有一定的日語能力會增加就業機會。如果你有興趣找家教等工作，你可以在京都國際交流會館在佈告欄上張貼廣告。",
-				"id": "Visa pelajar memungkinkan Anda untuk bekerja paruh waktu di Jepang. Salah satu cara tercepat untuk menemukan pekerjaan adalah dengan mendapatkan informasi dari siswa lain yang telah menemukan pekerjaan. Silakan juga periksa dengan kantor, terkadang kami menerima informasi tentang lowongan pekerjaan. Perlu diketahui bahwa kemampuan Bahasa Jepang kadang diperlukan untuk pekerjaan tertentu. Jika Anda tertarik untuk mengajar les privat, Anda dapat memposting iklan di papan pengumuman di Exchange Center International Kyoto (Kokusai Koryukaikan)."
-			}
+				"id": "Visa pelajar memungkinkan Anda untuk bekerja paruh waktu di Jepang. Salah satu cara tercepat untuk menemukan pekerjaan adalah dengan mendapatkan informasi dari siswa lain yang telah menemukan pekerjaan. Silakan juga periksa dengan kantor, terkadang kami menerima informasi tentang lowongan pekerjaan. Perlu diketahui bahwa kemampuan Bahasa Jepang kadang diperlukan untuk pekerjaan tertentu. Jika Anda tertarik untuk mengajar les privat, Anda dapat memposting iklan di papan pengumuman di Exchange Center International Kyoto (Kokusai Koryukaikan).",
+				"se": "Ett studentvisum tillåter dig att jobba deltid i Japan. Snabbaste sättet att hitta jobb är att rådfråga andra studenter som redan arbetar. Kolla även med skolans personal efter det händer att skolan kontaktas av företag. Var uppmärksam på att olika jobb kräver olika nivåer av Japanska. Om du är intresserad av att lära ut t.ex. engelska genom privat lektioner kan du sätta upp en annons vid Kyotos internationella utbytes center (Kokusai Koryukaikan)."}
 		},
 		{
 			"question": {
@@ -138,14 +139,16 @@
 				"ja": "日本人の友達は出来ますか？",
 				"fr": "Comment puis-je me faire des amis Japonais ?",
 				"zh-hant": "要如何交到日本人的朋友？",
-				"id": "Bagaimana cara saya membuat teman orang Jepang?"
+				"id": "Bagaimana cara saya membuat teman orang Jepang?",
+				"se": "Var kan lättast skaffa japanska vänner?"
 			},
 			"answer": {
 				"en": "We recommend joining a gym, martial arts group, or other cultural activity. Since Japanese tend to be shy, you might want to try approaching them first. However, many people are quite interested in foreigners, so if you are proactive you can easily make good friends. One of our students was studying Japanese at Starbucks, when he asked someone sitting nearby a question about the material. They began talking, and in the end planned to meet again for a date. Smart idea!",
 				"ja": "文化サークルや武道のクラブ、ジムなどに入ることをおすすめします。日本人は少しシャイですので、自分から話しかけてみてください。日本人はみんな外国人にとても興味を持っています。積極的によい友達を作ってください。ある学生は、スターバックスで日本語を勉強していました。わからない日本語をどなりに座っていた日本人に聞いたことがきっかけで、話をし、次のデートの約束を取り付けたそうです。Good idea!",
 				"fr": "Nous vous recommandons de rejoindre un club de gym, d'art martiaux, ou de toute autre activité culturelle. Les Japonais étant bien souvent timides, vous aurez à faire le premier pas. Cependant beaucoup de personnes sont intéressés par les étrangers donc si vous êtes avenant vous n'aurez pas de problèmes à vous faire des amis. Un de nos étudiants qui révisait ses cours au Starbucks demanda de l'aide à la personne à coté de lui. Ils commencèrent à parler pour finalement conclure d'un rendez-vous. Bonne idée !",
 				"zh-hant": "我們建議加入健身房、武術團、或其他文化活動。由於日本的人往往比較害羞，一開始你可以先嘗試主動跟他們打招呼。然而，很多人都對外國人很感興趣，所以如果你以積極的個性與他們交談，可以很容易作好朋友的。我們的一個學生是在星巴克讀日語時，然後他問了旁邊的人一些日語相關的問題，於是開始交談，並再約下次見面。很聰明吧！",
-				"id": "Sebaiknya bergabung dengan gym, kelompok bela diri, atau kegiatan budaya lainnya. Karena orang Jepang cenderung pemalu, Anda mungkin harus menjadi yang pertama untuk mencoba mendekati mereka. Namun, banyak orang yang cukup tertarik dengan orang asing, jadi jika Anda proaktif Anda dapat dengan mudah membuat teman-teman yang baik. Salah satu siswa kami belajar bahasa Jepang di Starbucks dan ia meminta seseorang yang duduk di dekatnya untuk menjawab sebuah pertanyaan tentang materi pelajaran. Mereka mulai berbicara, dan pada akhirnya merencanakan untuk bertemu lagi untuk kencan. Ide yang cerdas!"
+				"id": "Sebaiknya bergabung dengan gym, kelompok bela diri, atau kegiatan budaya lainnya. Karena orang Jepang cenderung pemalu, Anda mungkin harus menjadi yang pertama untuk mencoba mendekati mereka. Namun, banyak orang yang cukup tertarik dengan orang asing, jadi jika Anda proaktif Anda dapat dengan mudah membuat teman-teman yang baik. Salah satu siswa kami belajar bahasa Jepang di Starbucks dan ia meminta seseorang yang duduk di dekatnya untuk menjawab sebuah pertanyaan tentang materi pelajaran. Mereka mulai berbicara, dan pada akhirnya merencanakan untuk bertemu lagi untuk kencan. Ide yang cerdas!",
+				"se": "Vi rekomenderar att gå med gym, kampsportsklubb eller annan typ av kulturell aktivitet. Japaner anses vara blyga men många är intresserade av utländska kulturer så om du är utåtriktad och tar kontakt med dem så kan du lätt få bra vänner. Till exempel en av våra studender satt på Starbucks och studerade, han ställde en fråga till en närsittande japan vilket ledde till att de började prata och de bestämde sig för att träffas igen på en dejt. Bra tänkt!"
 			}
 		},
 		{
@@ -154,14 +157,16 @@
 				"ja": "空港から宿舎まではどのようにして行けばいいですか？",
 				"fr": "Quel est le meilleur moyen pour réjoindre mon logement de l'aéroport ?",
 				"zh-hant": "從機場到我住宿的地方最快捷的方式是什麼？",
-				"id": "Apa cara terbaik untuk pergi dari bandara ke akomodasi saya?"
+				"id": "Apa cara terbaik untuk pergi dari bandara ke akomodasi saya?",
+				"se": "Vad är lättaste sättet att ta sig från flygplatsen till mitt boende?"
 			},
 			"answer": {
 				"en": "For those who wish, Nihongo Center can arrange for the MK shuttle bus to take you from Kansai Airport to your housing or the school. The price is 3,600 yen per person, and you can take up to 1 suitcase and 1 hand luggage for free. The price is 1,000 yen for each additional luggage after that. A member of MK staff will be waiting for you outside of customs, holding a sign with your name on it, so there is no need to worry. (Please note that MK does not offer the name-plate service from 8 pm to 8 am, so if you arrive during this time please go directly to the MK service counter to the left of the H Gate.)",
 				"ja": "希望者には、関西空港から宿舎（あるいは学校）までのシャトルバス（MKバス）を日本語センターが予約します。1人3,600円で、スーツケース1個と手荷物を運んでくれます。スーツケースなど大きな荷物が二つ以上ある場合は、1個1,000円の追加料金が必要です。MKスタッフが関西空港の税関を出たところで、あなたのネームプレートを持って待っていますので、ご安心ください。（午後8時をすぎてからの到着の場合は、ネームプレートのサービスがありませんので、左側のHゲートのそばのMKカウンターへ直接行ってください。）",
 				"fr": "Pour ceux qui le souhaite, Nihongo center peut faire une réservation de la navette MK pour vous ammener de l'aéroport du Kansai jusqu'à votre logement ou à l'école. Le prix est de 3,600 yens par personne, et vous pouvez avoir une valise + 1 sac. Tout bagage supplémentaire coûte 1000 yens par bagage. Un membre de la compagnie vous attendra avec une pancarte à votre nom.(Il est à noter que la compagnie ne propose pas de pancarte entre 20:00 et 8:00, donc si vous arrivez dans cette tranche d'horaire, veuillez vous rendre directement au comptoir de la compagnie sur la gauche de la porte H.)",
 				"zh-hant": "若你願意，日本語中心可以安排MK接駁帶你從關西機場到您的房屋或學校。價格是每人3600日圓，一個手提箱和1個手提包是免加費用的。之後每增加一件行李是1000日圓。 MK一名工作人員將關外等你，就可以了舉著牌子您的姓名，所以沒有必要擔心。 （請注意，MK不會從晚上8點提供銘牌服務至8日凌晨，所以如果你在這段時間內抵達，請直接到MK服務櫃檯H門的左邊。）",
-				"id": "Bagi mereka yang memerlukan, Nihongo Center dapat mengatur shuttle bus MK untuk membawa Anda dari Kansai Airport ke perumahan atau sekolah. Dengan harga 3.600 yen per orang, Anda dapat membawa 1 koper dan 1 tas tangan secara gratis. Tambahan bagasi setelah itu akan ditambah 1.000 yen per koper. Seorang anggota staf MK akan menunggu Anda di luar area bea cukai sambil memegang tanda dengan nama Anda di atasnya, sehingga Anda tidak perlu khawatir. (Harap dicatat bahwa MK tidak menawarkan layanan papan nama pada 08:00-08:00, jadi jika Anda tiba selama waktu ini silahkan langsung ke MK layanan counter di sebelah kiri Pintu Gerbang H.) "
+				"id": "Bagi mereka yang memerlukan, Nihongo Center dapat mengatur shuttle bus MK untuk membawa Anda dari Kansai Airport ke perumahan atau sekolah. Dengan harga 3.600 yen per orang, Anda dapat membawa 1 koper dan 1 tas tangan secara gratis. Tambahan bagasi setelah itu akan ditambah 1.000 yen per koper. Seorang anggota staf MK akan menunggu Anda di luar area bea cukai sambil memegang tanda dengan nama Anda di atasnya, sehingga Anda tidak perlu khawatir. (Harap dicatat bahwa MK tidak menawarkan layanan papan nama pada 08:00-08:00, jadi jika Anda tiba selama waktu ini silahkan langsung ke MK layanan counter di sebelah kiri Pintu Gerbang H.)",
+				"se": "För de som önskar kan Nihongo Center boka en MK shuttle bus från flygplatsen till ditt boende eller skolan. Priset är 3600yen per person och då kan du ha med dig e resväska och ett hand baggage gratis. Utöver det kostar varje väska 1000yen. Personal från MK kommer vänta på dig utanför tullen och ha en skylt med ditt namn så det blir lätt att hitta. (OBS! Mellan kl20 och kl8 har MK ingen skyltservice utan du måste ta dig till MKs service monter som ligger till vänster om H Gaten.)"
 			}
 		},
 		{
