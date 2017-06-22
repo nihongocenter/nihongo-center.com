@@ -4,7 +4,8 @@
 		"ja": "日本語のコース",
   		"fr": "Cours de japonais au Nihongo Center",
   		"zh-hant":"課程",
- 		"id": "Kursus Bahasa Jepang di Nihongo Center"
+ 		"id": "Kursus Bahasa Jepang di Nihongo Center",
+		"se": "Japanska Kurser på Nihongo Center"
 		
 	},
   	"lead": {
@@ -12,8 +13,9 @@
   		"ja": "ヨーロッパ、北南米、アジア等、世界30カ国以上からの留学生が学習している日本語センターでは、「日本語が話せるようになりたい」「日本で進学したい」「日本語を使って仕事をしたい」といった様々なニーズに対応できるコースを用意しています。",
   		"fr": "Ici, au Nihongo Center, nous estimons toutes les différentes raisons d'étudier le japonais. Pour ceux qui voudraient maîtriser les conversations courantes, continuer leurs études au Japon, ou trouver un travail en rapport avec le japonais, nous avons développé des programmes en fonction de vos besoins et qui vous préparent au [JLPT](/future/JLPT).",
   		"zh-hant": "在日本語中心就讀的同學們皆有著自己期望達成的目標。無論您的目的是增進日常生活日文口語對話能力﹑在日本升學﹑還是在日本就職，我們為您準備了多種精心策畫的課程內容，以滿足您的學習需求，並且協助您通過JLPT日本語能力測驗的各個級別。",
- 		"id": "Di Nihongo Center, kami menyadari banyak alasan untuk belajar bahasa Jepang. Bagi mereka yang ingin menguasai percakapan sehari-hari, melanjutkan pendidikan di Jepang, atau mencari pekerjaan yang berhubungan dengan Jepang, kami telah mengembangkan program untuk memenuhi berbagai kebutuhan dan mempersiapkan Anda untuk setiap tingkat [JLPT] (/future/JLPT) yang Anda ingin lulus."
- 	
+ 		"id": "Di Nihongo Center, kami menyadari banyak alasan untuk belajar bahasa Jepang. Bagi mereka yang ingin menguasai percakapan sehari-hari, melanjutkan pendidikan di Jepang, atau mencari pekerjaan yang berhubungan dengan Jepang, kami telah mengembangkan program untuk memenuhi berbagai kebutuhan dan mempersiapkan Anda untuk setiap tingkat [JLPT] (/future/JLPT) yang Anda ingin lulus.",
+		"se": "På Nihongo Center ser vi den mängd anledningar som finns för att lära sig Japanska. Vare sig man vill bemästra vardagliga konversationer, fortsätta med vidare utbildning i Japan eller hitta ett jobb där du använder japanska, så har vi tagit fram kurser för att tillmötes gå dina behov och förebereda dig inför den  [JLPT](/future/jlpt) nivå du vill klara av."
+   	
 	},
 	"introductory": {
 		"en": "Introductory",
@@ -21,13 +23,15 @@
 		"fr": "Introduction",
 		"zh-hant": "入門",
 		"id": "Pengantar",
-		
+		"se": "Introduktionskurs",
 		"text": {
 			"en": "Students learn the Japanese sentence structure and vocabulary necessary for acquiring basic conversational skills. Students are also taught to read and write about basic, familiar topics. At the completion of this course, students will be at approximately level N5 of the [Japanese Language Proficiency Test](/future/jlpt).",
 			"ja": "ダイレクトメソッドによる文法導入から、学んだ文型や語彙を使用して基本的な日常会話に必要な会話力を習得します。また、身近なことがらについての基礎的な読み書きができるように指導します。[日本語能力試験](/future/jlpt)Ｎ５レベルです。",
 			"fr": "Les étudiants apprennent les structures grammaticales et le vocabulaire japonais nécessaires pour acquérir des capacités conversationnelles de base. Ils apprennent également à lire et à écrire sur des thèmes faciles et familliers. A la fin de ce cours, les étudiants se trouvent généralement entre le N5 du Test d'Aptitudes en Langue Japonaise ([JLPT](/future/jlpt)).",
 			"zh-hant": "學生將學習必要的基本會話技巧以及日文句子結構和詞彙。也教授讀的能力，以一般較為容易且熟悉的話題提升基本書寫的能力。本課程完成後，學生日語能力將在大約落在[JLPT](/future/jlpt)的N5。",
-			"id": "Siswa belajar struktur kalimat bahasa Jepang dan kosa kata yang diperlukan untuk memperoleh keterampilan percakapan dasar. Siswa juga diajarkan untuk membaca dan menulis tentang topik yang dasar dan akrab. Di akhir kursus ini, siswa akan mencapai tingkat N5 dari Ujian Kemampuan Bahasa Jepang ([JLPT](/future/jlpt))."
+			"id": "Siswa belajar struktur kalimat bahasa Jepang dan kosa kata yang diperlukan untuk memperoleh keterampilan percakapan dasar. Siswa juga diajarkan untuk membaca dan menulis tentang topik yang dasar dan akrab. Di akhir kursus ini, siswa akan mencapai tingkat N5 dari Ujian Kemampuan Bahasa Jepang ([JLPT](/future/jlpt)).",
+			"se": "Studenter lär sig Japansk meningsuppbyggnad och vokabulär som är nödvändiga för grundläggande konversationer. Studenter lär sig även att läsa och skriva om grundläggande och vardagliga ämnen. Efter denna kurs bör studenter vara på N5 eller N4 nivå av JLPT."
+  	
 		}
 	},
 	"beginner": {
