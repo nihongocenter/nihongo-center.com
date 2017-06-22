@@ -79,7 +79,8 @@
 		},
 		{
 			"name": "Sweden",
-			"code": "se"
+			"code": "sv",
+			"flag": "se"
 		}
 	]
 }
