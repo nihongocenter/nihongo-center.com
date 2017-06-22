@@ -4,14 +4,16 @@
 		"ja": "スタッフ",
 		"fr": "Staff",
 		"zh-hant": "教學團隊",
-		"id": "Staf"
+		"id": "Staf",
+		"se": "Personal"
 	},
 	"membersTitle": {
 		"en": "Staff members",
 		"ja": "メンバー",
 		"fr": "Membres du personnel",
 		"zh-hant": "團隊成員",
-		"id": "Anggota karyawan"
+		"id": "Anggota karyawan",
+		"se": "Personal"
 	},
 	"staff": [
 		{
@@ -20,7 +22,8 @@
 			"role": {
 				"en": "Principal",
 				"ja": "Principal",
-				"fr": "Principal"
+				"fr": "Principal",
+				"se": "Rektor"
 			}
 		},
 		{
@@ -29,7 +32,8 @@
 			"role": {
 				"en": "Managing Director",
 				"ja": "Managing Director",
-				"fr": "Directrice générale"
+				"fr": "Directrice générale",
+				"se": "Vd"
 			}
 		},
 		{
@@ -38,7 +42,8 @@
 			"role": {
 				"en": "Teacher",
 				"ja": "Teacher",
-				"fr": "Enseignant"
+				"fr": "Enseignant",
+				"se": "Lärare"
 			}
 		},
 		{
@@ -47,7 +52,8 @@
 			"role": {
 				"en": "Teacher",
 				"ja": "Teacher",
-				"fr": "Enseignant"
+				"fr": "Enseignant",
+				"se" "Lärare"
 			}
 		},
 		{
@@ -56,7 +62,8 @@
 			"role": {
 				"en": "Teacher",
 				"ja": "Teacher",
-				"fr": "Enseignant"
+				"fr": "Enseignant",
+				"se" "Lärare"
 			}
 		},
 		{
@@ -65,7 +72,8 @@
 			"role": {
 				"en": "Admission",
 				"ja": "Admission",
-				"fr": "Service des admissions"
+				"fr": "Service des admissions",
+				"se": "Administration"
 			}
 		},
 		{
@@ -74,7 +82,8 @@
 			"role": {
 				"en": "Admission",
 				"ja": "Admission",
-				"fr": "Service des admissions"
+				"fr": "Service des admissions",
+				"se": "Administration"
 			}
 		},
 		{
