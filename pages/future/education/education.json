@@ -4,14 +4,16 @@
 		"ja": "進学",
 		"fr": "Etudes supérieures",
 		"zh-hant": "教育",
-		"id": "Pendidikan"
+		"id": "Pendidikan",
+		"se": "Utbildning"
 	},
 	"lead": {
 		"en": "There are many students who decide to continue their education after graduating from Nihongo Center.",
 		"ja": "日本語センターでは卒業後に日本の大学、専門学校などに進学を希望する生徒が多くいます。（私たちスタッフは様々なかたちで彼らの進学サポートをしております。）",
 		"fr": "De nombreux étudiants décident de poursuivrent leurs études après êtres diplômés du Nihongo Center.",
 		"zh-hant": "有許多學生決定從日本語中心畢業之後要繼續留日升學受教。",
-		"id": "Ada banyak siswa yang memutuskan untuk melanjutkan pendidikan setelah lulus dari Nihongo Center."
+		"id": "Ada banyak siswa yang memutuskan untuk melanjutkan pendidikan setelah lulus dari Nihongo Center.",
+		"se": "Det är många studenter som bestämmer sig för att fortsätta sin utbildning efter Nihongo Center"
 	},
 	"university": {
 		"en": "University",
@@ -19,12 +21,14 @@
 		"fr": "Universités",
 		"zh-hant": "大學",
 		"id": "Universitas",
+		"se": "Universitet",
 		"text": {
 			"en": "Studying at a Japanese Language School will give you the opportunity to enter a university in Japan. Since this is a very common case you can find the requirements for entering a university below.",
 			"ja": "日本語学校で勉強することで、日本の大学への進学を目指すことができます。日本の大学への進学する留学生は多く、一般的に入学の条件は以下の通りとなっております。\n\n※詳細は各大学の募集要項をご確認ください。",
 			"fr": "Etudier dans une école de langue vous donnera l'opportunité d'entrer dans une université japonaise. Vous pouvez trouver les conditions requises pour entrer à l'université ci-dessous.",
 			"zh-hant": "在日語學校上課是進入日本的大學的機會之一。這是一個非常普遍的情況，你可以參考以下進入大學的條件。",
-			"id": "Belajar di sekolah bahasa Jepang akan memberikan Anda kesempatan untuk masuk ke sebuah universitas di Jepang. Karena ini adalah kasus yang sangat umum, Anda dapat menemukan persyaratan untuk memasuki sebuah universitas di bawah."
+			"id": "Belajar di sekolah bahasa Jepang akan memberikan Anda kesempatan untuk masuk ke sebuah universitas di Jepang. Karena ini adalah kasus yang sangat umum, Anda dapat menemukan persyaratan untuk memasuki sebuah universitas di bawah.",
+			"se": "Att studera på en Japansk språkskola kommer ge dig möjlighet att läsa vidare på ett universitet i Japan. Eftersom detta är väldigt vanligt förekommande kan du hitta vilka krav som finns för att studera på universitet i Japan här nedan."
 		},
 		"bachelor": {
 			"en": "Bachelor degree",
@@ -32,12 +36,14 @@
 			"fr": "Niveau Licence",
 			"zh-hant": "學士學位",
 			"id": "Gelar sarjana",
+			"se": "Kandidatexamen",
 			"text": {
 				"en": "The requirements for obtaining a bachelor degree differ depending on whether you go to a public or private university.",
 				"ja": "学士号の取得については、国公立大学か私立大学かによって条件が異なります。",
 				"fr": "Les conditions pour s'inscrire en première année de Licence dépendent du type d'université que vous souhaitez intégrer.",
 				"zh-hant": "取得公立大學與私立大學的學士學位條件有所不同。",
-				"id": "Persyaratan untuk memperoleh gelar sarjana berbeda tergantung pada apakah Anda pergi ke sebuah universitas publik atau swasta."
+				"id": "Persyaratan untuk memperoleh gelar sarjana berbeda tergantung pada apakah Anda pergi ke sebuah universitas publik atau swasta.",
+				"se": "Kraven för att erhålla en kandidatexamen varierar beroende på om det är en allmän skola eller privatskola."
 			},
 			"public": {
 				"en": "Public universities",
@@ -45,12 +51,14 @@
 				"fr": "Universités Publiques",
 				"zh-hant": "公立大學",
 				"id": "Perguruan Tinggi Negeri",
+				"se": "Allmänna universitet",
 				"text": {
 					"en": "- EJU exam, TOEIC exam\n- Application (January for entrance in April, July for entrance in October)\n- Entrance exam (interview, university specific exam)\n\n**Important:** An EJU score of at least **250 / 400** is required as well as **basic academic skills** (English, mathematics, science…).",
 					"ja": "- EJU試験、TOEIC試験\n- 入学申込　（4月入学の場合1月申込、10月入学の場合7月申込）\n- 入学試験　（面接、及び各大学独自の試験）\n\n**備考：**EJU試験の得点は最低での250点(400点満点)必要であり、尚且つ基礎科目(英語、数学、理科など)の知識も必要となります。",
 					"fr": "- Examen EJU, TOEIC\n- Inscription (en janvier pour la rentrée d'avril, et juillet pour la rentrée d'octobre)\n- Examen d'entrée (entretiens, examen spécifique à l'université)\n\n**Important:** Un résultat à l'EJU d'au moins **250 / 400** ainsi qu'un **niveau académique basique** (Anglais, math, siences...) sont requis.",
 					"zh-hant": "- EJU考試、TOEIC考試\n- 申請 (一月報考四月入學、七月報考十月入學)\n- 入學考 (面試、大學個別測驗)\n\n**重要:** EJU成績至少要求 **250 / 400**為**基本學能** (英文、數學、科學…).",
-					"id": "- Ujian EJU, ujian TOEIC \n- Aplikasi (Januari untuk penerimaan bulan April, Juli untuk penerimaan bulan Oktober) \n- ujian masuk (wawancara, ujian universitas tertentu) \n\n**Penting:** Nilai EJU minimal **250/400**diperlukan serta **keterampilan akademik dasar** (bahasa Inggris, matematika, ilmu pengetahuan ...). "
+					"id": "- Ujian EJU, ujian TOEIC \n- Aplikasi (Januari untuk penerimaan bulan April, Juli untuk penerimaan bulan Oktober) \n- ujian masuk (wawancara, ujian universitas tertentu) \n\n**Penting:** Nilai EJU minimal **250/400**diperlukan serta **keterampilan akademik dasar** (bahasa Inggris, matematika, ilmu pengetahuan ...). ",
+					"se": "- EJU examen, TOEIC examen\n- Ansökan (januari för att börja i april, juli för att börja i october)\n- Inträdesprov (intervju, universitetets specifika prov)\n\n**Viktigt:** En EJU poäng på åtminstone **250 / 400** är ett krav**grundläggande akademiska färdigheter** (engelska,mattematik, naturvetenskap…)."
 				}
 			},
 			"private": {
@@ -59,12 +67,14 @@
 				"fr": "Universités Privées",
 				"zh-hant": "私立大學",
 				"id": "Universitas swasta",
+				"se": "Privata universitet",
 				"text": {
 					"en": "Here it usually depends on the university type and your chosen major.\n\n###### Universities where EJU is required\n\nAn interview is required.\n\n###### Universities where EJU is not required\n\nA Japanese exam and an interview are required.\n\n###### Global 30 universities\n\nAn entrance exam (in English) is required.\n\n###### Application\n\nApply until January for entrance in April or apply until July for entrance in October.\n\n**Important:** Essential Japanese language abilities as well as English language abilities.",
 					"ja": "私立大学では、大学や学部ごとに条件が異なります。\n\n###### EJU試験の得点が必要な大学\n\n実施科目：面接\n\n###### EJU試験の得点を必要としない大学\n\n実施科目：日本語、面接\n\n###### グローバル30\n\n実施科目：一般入学試験(言語は英語)\n\n###### 入学申込\n\n入学申込みは4月入学の場合は1月までに、10月入学の場合は7月までに行います。\n\n**備考：**英語と日本語の両方の能力が必要となります。",
 					"fr": "Cela dépend souvent de l'université ainsi que de la spécialité choisie.\n\n###### Universités où l'EJU est requis\n\n Entretiens requis.\n\n###### Universitées où l'EJU n'est pas requis\n\n Examens en japonais et entretiens requis.\n\n###### Universitées du Global 30\n\n Examens d'entrée requis (en anglais).\n\n###### Inscription\n\n Inscription possible jusqu'à janvier pour la rentrée d'avril et jusqu'à juillet pour la rentrée d'octobre.\n\n**Important:** Des compétences en japonais et en anglais sont requises. ",
 					"zh-hant": "通常取決於學校的類型和您所選擇的主修。\n\n###### 要求具有EJU成績的大學\n\nAn 面試是必須的\n\n###### 沒有要求EJU成績的大學\n\nA 日語測驗和面試是必須的。\n\n###### 全球有30所大學\n\nAn 有入學考試 (英文)\n\n###### 申請\n\n 一月報考四月入學、七月報考十月入學。\n\n**重要:** 基本的日語能力以及英語能力。",
-					"id": "Di sini biasanya tergantung pada jenis universitas dan mata kuliah yang Anda pilih.\n\n###### Universitas utama di mana EJU diperlukan\n\nAn sebuah wawancara diperlukan.\n\n###### Universitas di mana EJU tidak diperlukan\n\nA ujian bahasa Jepang dan wawancara yang diperlukan.\n\n###### 30 universitas global\n\nAn Ujian masuk (dalam bahasa Inggris) diperlukan.\n\n######  Aplikasi \n\n sampai Januari untuk masuk pada bulan April atau Juli untuk masuk pada bulan Oktober.\n\n**Penting:** kemampuan bahasa Jepang penting serta kemampuan bahasa Inggris."
+					"id": "Di sini biasanya tergantung pada jenis universitas dan mata kuliah yang Anda pilih.\n\n###### Universitas utama di mana EJU diperlukan\n\nAn sebuah wawancara diperlukan.\n\n###### Universitas di mana EJU tidak diperlukan\n\nA ujian bahasa Jepang dan wawancara yang diperlukan.\n\n###### 30 universitas global\n\nAn Ujian masuk (dalam bahasa Inggris) diperlukan.\n\n######  Aplikasi \n\n sampai Januari untuk masuk pada bulan April atau Juli untuk masuk pada bulan Oktober.\n\n**Penting:** kemampuan bahasa Jepang penting serta kemampuan bahasa Inggris.",
+					"se": "Här brukar kraven bero på typen av universitet och ditt valda huvudämne.\n\n###### Universitet där EJU är ett krav\n\nAn intervju är nödvändig.\n\n###### Universitet där EJU inte är ett krav\n\nA Japanska prov och intervju är nödvändig.\n\n###### Global 30 universitet\n\nAn inträdesprov (på engelska) är nödvändigt.\n\n###### Ansökan\n\nAnsök senast januari för inträde i April eller ansök i juli för att börja i oktober.\n\n**Viktigt:** Väsentliga färdigheter i japanska och även engelska är nödvändigt."
 				}
 			}
 		},
@@ -74,12 +84,14 @@
 			"fr": "Niveau Master",
 			"zh-hant": "研究所",
 			"id": "Gelar Master",
+			"se": "Magistersexamen",
 			"text": {
 				"en": "In case you choose the same major you had during your Bachelor studies you can directly take the entrance exam.\n\nIn case you choose a different major you need to:\n\n- Enter as a research student (you will need an interview with a professor before deciding your entrance period).\n- Take the entrance exam the next year.\n\n**Important:** JLPT N1, English abilities and knowledge about the chosen major.",
 				"ja": "希望している修士課程と同様の専攻科目で学士号を既に取得している場合、直接その修士課程の入学試験を受けることができます。\n\n希望している修士課程と異なる学士号を取得している場合、\n\n- まず研修生として希望する修士課程の研究室へ所属します。(研修生になるには、教授との面接を行い、研究室に入る時期を決定する必要があります。)\n- 研究室に所属した翌年に修士課程の入学試験を受験。\n\n**備考：**JLPT N1合格、及び英語能力と希望する修士課程の専門分野に関する知識が必要となります。",
 				"fr": "Dans le cas où vous choisiriez la même spécialité qu'en Licence vous pouvez directement passer l'examen d'entrée.\n\n Dans le cas où vous choisiriez une autre spécialité:\n\n- S'inscrire en tant qu'étudiant chercheur (vous devrez passer un entretien avec un professeur pour décider de votre période d'inscription).\n- Passer l'examen d'entrée l'année suivante.\n\n**Important:** Le JLPT N1, des capacités en anglais ainsi que des connaissances sur la spécialité choisie sont requises. ",
 				"zh-hant": "如果你選擇與大學時相同的主修科系，你可以直接參加入學考試。\n\nIn 如果你選了不同於大學時的主修，那必須:\n\n- 以暫時研究生入學 (你必須在決定申請入學時期就先接受教授的面試)。\n- 隔年參加入學考\n\n**重要:** JLPT N1、英語能力和具備主修相關知識。",
-				"id": "Jika Anda memilih mata kuliah yang sama dengan studi Sarjana Anda, Anda dapat langsung mengambil ujian masuk.\n\nIn Jika Anda memilih jurusan yang berbeda Anda perlu:\n\n- Masuk sebagai mahasiswa penelitian (Anda akan perlu wawancara dengan seorang profesor sebelum memutuskan masa masuk Anda).\n-  Ambil ujian masuk tahun depan.\n\n**Penting:** JLPT N1, kemampuan bahasa Inggris dan pengetahuan tentang mata kuliah tersebut."
+				"id": "Jika Anda memilih mata kuliah yang sama dengan studi Sarjana Anda, Anda dapat langsung mengambil ujian masuk.\n\nIn Jika Anda memilih jurusan yang berbeda Anda perlu:\n\n- Masuk sebagai mahasiswa penelitian (Anda akan perlu wawancara dengan seorang profesor sebelum memutuskan masa masuk Anda).\n-  Ambil ujian masuk tahun depan.\n\n**Penting:** JLPT N1, kemampuan bahasa Inggris dan pengetahuan tentang mata kuliah tersebut.",
+				"se": "Om du väljer samma huvudämne som dina kandidatstudier så kan du direkt ta inträdesprov. \n\nIn Ifall du väljer ett annat huvudämne måste du:\n\n- Börja som forskningsstudent (Du behöver en intervju med en professor innan din inträdesperiod kan bestämmas).\n- Ta inträdesprovet nästa år. \n\n**Viktigt: ** JLPT N1, engelska färdigheter och kunskap inom det valda ämnet."
 			}
 		}
 	},
@@ -89,12 +101,14 @@
 		"fr": "Ecoles spécialisées",
 		"zh-hant": "專門學校",
 		"id": "Sekolah Menengah Kejuruan",
+		"se": "Yrkesskola",
 		"text": {
 			"en": "You can also choose to enter a vocational school in Japan. The requirements are as follows:\n\n1. JLPT (at least N2)\n1. School application\n1. Exam",
 			"ja": "日本語センターを卒業後、日本の専門学校へ進学することも可能です。入学に係る条件/手続きは一般的に以下の通りです。\n\n1. JLPT N2以上\n1. 入学申込\n1. 入学試験",
 			"fr": "Vous pouvez aussi choisir d'entrer dans une école spécialisée au Japon. Les conditions requises sont les suivantes:\n\n1. JLPT (au moins le N2)\n1. Dossier d'inscription\n1. Examen d'entrée.",
 			"zh-hant": "你也可以選擇在日本進入技職學校就讀。需求條件如下:\n\n1. JLPT (至少N2)\n1. 入學申請\n1.測驗",
-			"id": "Anda juga dapat memilih untuk masuk sekolah kejuruan di Jepang. Persyaratan adalah sebagai berikut:\n\n1. JLPT (setidaknya N2)\n1.  Aplikasi sekolah\n1.  Ujian"
+			"id": "Anda juga dapat memilih untuk masuk sekolah kejuruan di Jepang. Persyaratan adalah sebagai berikut:\n\n1. JLPT (setidaknya N2)\n1.  Aplikasi sekolah\n1.  Ujian",
+			"se": "Du kan studera på en yrkesskola i Japan. Kraven är följande:\n\n1. JLPT (åtminstone N2)\n1. Ansökan till skolan\n1. Inträdesprov"
 		}
 	}
 }
