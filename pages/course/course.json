@@ -2,18 +2,18 @@
 	"title": {
 		"en": "Japanese courses at Nihongo Center",
 		"ja": "日本語のコース",
-		"fr": "Cours de japonais au Nihongo Center",
-		"zh-hant":"課程",
-		"id": "Kursus Bahasa Jepang di Nihongo Center"
+  		"fr": "Cours de japonais au Nihongo Center",
+  		"zh-hant":"課程",
+ 		"id": "Kursus Bahasa Jepang di Nihongo Center"
 		
 	},
-	"lead": {
-		"en": "Here at Nihongo Center, we recognize the multitude of reasons for studying Japanese. For those who wish to master daily conversation, continue your education in Japan, or find a job related to Japanese, we have carefully developed courses to meet your various needs and prepare you for any [JLPT](/future/jlpt) level you wish to pass.",
-		"ja": "ヨーロッパ、北南米、アジア等、世界30カ国以上からの留学生が学習している日本語センターでは、「日本語が話せるようになりたい」「日本で進学したい」「日本語を使って仕事をしたい」といった様々なニーズに対応できるコースを用意しています。",
-		"fr": "Ici, au Nihongo Center, nous estimons toutes les différentes raisons d'étudier le japonais. Pour ceux qui voudraient maîtriser les conversations courantes, continuer leurs études au Japon, ou trouver un travail en rapport avec le japonais, nous avons développé des programmes en fonction de vos besoins et qui vous préparent au [JLPT](/future/JLPT).",
-		"zh-hant": "在日本語中心就讀的同學們皆有著自己期望達成的目標。無論您的目的是增進日常生活日文口語對話能力﹑在日本升學﹑還是在日本就職，我們為您準備了多種精心策畫的課程內容，以滿足您的學習需求，並且協助您通過JLPT日本語能力測驗的各個級別。",
-		"id": "Di Nihongo Center, kami menyadari banyak alasan untuk belajar bahasa Jepang. Bagi mereka yang ingin menguasai percakapan sehari-hari, melanjutkan pendidikan di Jepang, atau mencari pekerjaan yang berhubungan dengan Jepang, kami telah mengembangkan program untuk memenuhi berbagai kebutuhan dan mempersiapkan Anda untuk setiap tingkat [JLPT] (/future/JLPT) yang Anda ingin lulus."
-		}
+  	"lead": {
+  		"en": "Here at Nihongo Center, we recognize the multitude of reasons for studying Japanese. For those who wish to master daily conversation, continue your education in Japan, or find a job related to Japanese, we have carefully developed courses to meet your various needs and prepare you for any [JLPT](/future/jlpt) level you wish to pass.",
+  		"ja": "ヨーロッパ、北南米、アジア等、世界30カ国以上からの留学生が学習している日本語センターでは、「日本語が話せるようになりたい」「日本で進学したい」「日本語を使って仕事をしたい」といった様々なニーズに対応できるコースを用意しています。",
+  		"fr": "Ici, au Nihongo Center, nous estimons toutes les différentes raisons d'étudier le japonais. Pour ceux qui voudraient maîtriser les conversations courantes, continuer leurs études au Japon, ou trouver un travail en rapport avec le japonais, nous avons développé des programmes en fonction de vos besoins et qui vous préparent au [JLPT](/future/JLPT).",
+  		"zh-hant": "在日本語中心就讀的同學們皆有著自己期望達成的目標。無論您的目的是增進日常生活日文口語對話能力﹑在日本升學﹑還是在日本就職，我們為您準備了多種精心策畫的課程內容，以滿足您的學習需求，並且協助您通過JLPT日本語能力測驗的各個級別。",
+ 		"id": "Di Nihongo Center, kami menyadari banyak alasan untuk belajar bahasa Jepang. Bagi mereka yang ingin menguasai percakapan sehari-hari, melanjutkan pendidikan di Jepang, atau mencari pekerjaan yang berhubungan dengan Jepang, kami telah mengembangkan program untuk memenuhi berbagai kebutuhan dan mempersiapkan Anda untuk setiap tingkat [JLPT] (/future/JLPT) yang Anda ingin lulus."
+ 	
 	},
 	"introductory": {
 		"en": "Introductory",
