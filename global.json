@@ -6,6 +6,7 @@
 			"ja": "学院",
 			"zh-hant":"學校",
 			"id": "Sekolah",
+			"se": "Skola"
 			"pages": [
 				{
 					"en": "About",
@@ -13,6 +14,7 @@
 					"fr": "A propos",
 					"zh-hant": "關於",
 					"id": "Tentang",
+					"se": "Om",
 					"icon": "home",
 					"url": "/"
 				},
@@ -22,6 +24,7 @@
 					"fr": "News",
 					"zh-hant": "最新消息",
 					"id": "News",
+					"se": "News",
 					"icon": "bullhorn",
 					"url": "/news"
 				},
@@ -31,6 +34,7 @@
 					"fr": "International",
 					"zh-hant": "國際的",
 					"id": "Internasional",
+					"se": "Internationell",
 					"icon": "globe",
 					"url": "/about/international-school"
 				},
@@ -40,6 +44,7 @@
 					"fr": "Pratique",
 					"zh-hant": "實用",
 					"id": "Praktis",
+					"se": "Praktisk",
 					"icon": "comment",
 					"url": "/about/practical-japanese"
 				},
@@ -49,6 +54,7 @@
 					"fr": "Sorties extrascolaires",
 					"zh-hant": "事紀",
 					"id": "Acara",
+					"se": "Evenemang",
 					"icon": "calendar",
 					"url": "/about/events"
 				},
@@ -58,6 +64,7 @@
 					"fr": "Nos locaux",
 					"zh-hant": "設備",
 					"id" : "Fasilitas",
+					"se": "Lokal",
 					"icon": "blackboard",
 					"url": "/facilities"
 				},
@@ -67,6 +74,7 @@
 					"fr": "Staff",
 					"zh-hant": "工作人員",
 					"id": "Staf",
+					"se": "Personal",
 					"icon": "user",
 					"url": "/staff"
 				}
@@ -77,6 +85,7 @@
 			"fr": "Cours",
 			"ja": "コース",
 			"zh-hant": "課程",
+			"se": "Kurser",
 			"id": "Kurus",
 			"pages": [
 				{
@@ -85,6 +94,7 @@
 					"fr": "Niveaux",
 					"zh-hant": "困難",
 					"id": "Kesulitan",
+					"se": "Nivåer",
 					"icon": "education",
 					"url": "/course"
 				},
@@ -94,6 +104,7 @@
 					"fr": "Programmes",
 					"zh-hant": "期間",
 					"id": "Durasi",
+					"se": "Längd",
 					"icon": "time",
 					"url": "/course/duration"
 				},
@@ -103,6 +114,7 @@
 					"fr": "Tarifs",
 					"zh-hant": "費用",
 					"id": "Harga",
+					"se":  "Prisuppgifter",
 					"icon": "usd",
 					"url": "/course/pricing"
 				}
@@ -114,6 +126,7 @@
 			"ja": "生活",
 			"zh-hant": "生活",
 			"id": "Kehidupan",
+			"se": "Fritid"
 			"pages": [
 				{
 					"en": "Life",
@@ -121,6 +134,7 @@
 					"fr":"Quotidien",
 					"zh-hant": "生活",
 					"id": "Kehidupan",
+					"se": "Fritid",
 					"icon": "eye-open",
 					"url": "/life"
 				},
@@ -130,6 +144,7 @@
 					"fr": "Etudes",
 					"zh-hant": "學習",
 					"id": "Belajar",
+					"se": "Studera",
 					"icon": "education",
 					"url": "/life/study-in-japan"
 				},
@@ -139,6 +154,7 @@
 					"fr": "Logements",
 					"zh-hant": "住宿",
 					"id": "Akomodasi",
+					"se": "Boende",
 					"icon": "bed",
 					"url": "/accomodation"
 				}
@@ -150,6 +166,7 @@
 			"ja": "進路",
 			"zh-hant": "未來",
 			"id": "Masa depan",
+			"se": "Framtid",
 			"pages": [
 				{
 					"en": "Future",
@@ -157,6 +174,7 @@
 					"fr": "Future",
 					"zh-hant": "未來",
 					"id": "Masa depan",
+					"se": "Framtid",
 					"icon": "flag",
 					"url": "/future"
 				},
@@ -166,6 +184,7 @@
 					"fr": "Etudes supérieures",
 					"zh-hant": "教育",
 					"id": "Pendidikan",
+					"se": "Utbildning",
 					"icon": "education",
 					"url": "/future/education"
 				},
@@ -175,6 +194,7 @@
 					"fr": "JLPT",
 					"zh-hant": "JLPT",
 					"id": "JLPT",
+					"se": "JLPT",
 					"icon": "certificate",
 					"url": "/future/jlpt"
 				}
@@ -186,6 +206,7 @@
 			"ja": "申込",
 			"zh-hant": "加入我們",
 			"id": "Join us",
+			"se": "Ansök",
 			"pages": [
 				{
 					"en": "Join us",
@@ -193,6 +214,7 @@
 					"fr": "Admission",
 					"zh-hant": "加入我們",
 					"id": "Join us",
+					"se": "Ansök",
 					"icon": "share-alt",
 					"url": "/join"
 				},
@@ -202,6 +224,7 @@
 					"fr": "Visa",
 					"zh-hant": "簽證",
 					"id": "Visa",
+					"se": "Visum",
 					"icon": "plane",
 					"url": "/visa"
 				},
@@ -211,6 +234,7 @@
 					"fr": "FAQ",
 					"zh-hant": "問與答",
 					"id": "FAQ",
+					"se": "Vanliga Frågor",
 					"icon": "question-sign",
 					"url": "/faq"
 				}
