@@ -4,14 +4,16 @@
 		"ja": "受講期間",
 		"fr": "Durées",
 		"zh-hant": "課程期數",
-		"id": "Durasi"
+		"id": "Durasi",
+		"se" "Varaktighet"
 	},
 	"lead": {
 		"en": "We're very **flexible**. You can choose how long you want to study at Nihongo Center and we will handle all the visa paperwork with the Japanese government in order for you to come to Japan.",
 		"ja": "日本語センターで勉強する期間は、10週間、半年、1年、1年半、2年の中からお好きなものをお選びいただけます。また、日本留学のための学生ビザ取得に関わる手続きは、すべてお手伝い致します。",
 		"fr": "Nous sommes très **flexibles**. Vous pourrez choisir combien de temps vous souhaitez étudier au Nihong Center, et nous vous garantissons un suivi de dossier exemplaire afin que tous les papiers soient en règle pour que vous puissiez venir au Japon.",
 		"zh-hant": "我們的課程是非常 **彈性**的。你可以選擇你想要在日本語中心學習多長的期間，我們可以協助你處理官方所需簽證事宜。",
-		"id": "Kami sangat **fleksibel**. Anda dapat memilih seberapa lama Anda ingin belajar di Nihongo Center dan kami akan menangani semua dokumen visa dengan pemerintah Jepang agar Anda dapat sampai di Jepang."
+		"id": "Kami sangat **fleksibel**. Anda dapat memilih seberapa lama Anda ingin belajar di Nihongo Center dan kami akan menangani semua dokumen visa dengan pemerintah Jepang agar Anda dapat sampai di Jepang.",
+		"se": "Vi är väldigt **flexibla**. Du kan välja själv hur länge du vill studera vid Nihongo Center vi hanterar pappersarbetet med visum och tar kontakt med japanska myndigheter för att du ska kunna komma till Japan."
 	},
 	"shortCourse": {
 		"en": "10 - 20 weeks",
@@ -19,12 +21,15 @@
 		"fr": "10 - 20 semaines",
 		"zh-hant": "10 - 20 週",
 		"id": "10 - 20 minggu",
+		"se" "10 - 20 veckor",
 		"text": {
 			"en": "The **Short-Term Course** is designed for those who wish to improve their conversation skills for daily life in Japan, for their job, or whatever other reason they may have. We offer classes to fit the students’ wants and needs, with [4 levels from beginner to advanced](/course). The number of lesson hours per week allows for optimal learning without being overwhelming. Those wishing to come to Japan on a short-term 90 day visa should consider this Japanese course.",
 			"ja": "日本で生活する、または仕事をするために必要な日常会話を短期間で修得するコースです。レベルは初級から上級まで４段階に対応し、生徒の希望にあったかたちで授業を進めます。１週間あたりのレッスン数も、無理なく学習できるように配慮されています。 ９０日の短期ビザ（日本語学習）で来日したい学生はこのコースをとってください。",
 			"fr": "Les **Cours Réguliers** sont prévus pour ceux qui souhaitent améliorer leurs capacités de conversation pour vivre au Japon, pour leur travail ou toutes autres raisons. Nous offrons des cours aux besoins des étudiants, avec [4 niveaux de débutant à avancé](/course). Le nombre d'heure par semaine est optimal pour apprendre sans que cela devienne fatiguant. Ceux qui envisagent de venir au Japon avec un visa de 90 jours peuvent considérer cette éventualité.",
 			"zh-hant": "**短期課程** 是為了工作或其任何因素想要增強日常所需對話能力的學生而設計的，我們提供的課程，[從初級到高級四個級別](/course)是為了適應學生的需要和需求而規劃。每週課時數允許最佳的學習沒有壓力。希望使用短期90天簽證來日的人應考慮本課程。",
-			"id": "**Kursus Jangka Pendek**dirancang bagi mereka yang ingin meningkatkan keterampilan percakapan mereka untuk kehidupan sehari-hari di Jepang, untuk pekerjaan, atau apapun alasan lainnya. Kami menawarkan kelas untuk memenuhi keinginan dan kebutuhan siswa, dengan [4 tingkat dari pemula hingga mahir] (/course). Jumlah jam pelajaran per minggu pas untuk belajar dengan optimal dan tidak berlebihan. Mereka yang ingin datang ke Jepang dengan visa 90 hari jangka pendek dapat mempertimbangkan kursus bahasa Jepang ini."
+			"id": "**Kursus Jangka Pendek**dirancang bagi mereka yang ingin meningkatkan keterampilan percakapan mereka untuk kehidupan sehari-hari di Jepang, untuk pekerjaan, atau apapun alasan lainnya. Kami menawarkan kelas untuk memenuhi keinginan dan kebutuhan siswa, dengan [4 tingkat dari pemula hingga mahir] (/course). Jumlah jam pelajaran per minggu pas untuk belajar dengan optimal dan tidak berlebihan. Mereka yang ingin datang ke Jepang dengan visa 90 hari jangka pendek dapat mempertimbangkan kursus bahasa Jepang ini.",
+			"se" "Denna **terminskurs** är framtagen för de som vill förbättra sin japanska konversations förmåga i vardagen, jobbet, etc. Vi erbjuder kurser som passar just dina önskemål och behov, med [4 nivåer från nybörjare till avancerad] (/course). Antal lektionstimmar per vecka är framtaget för maximal inlärningsförmåga utan att kännas överväldigande. De som önskar att komma till Japan på ett 90-dagars visum kan överväga denna kurs."
+			
 		}
 	},
 	"intensiveCourse": {
@@ -33,12 +38,14 @@
 		"fr": "1 ou 2 ans",
 		"zh-hant": "1 - 2 年",
 		"id": "1 - 2 tahun",
+		"se" "1 - 2 årskurs",
 		"text": {
 			"en": "The **Intensive Course** is for those who wish to thoroughly study Japanese for a year or longer, and is particularly suited for those wishing to improve their language skills, continue their education in Japan, or find a job that makes use of their Japanese language skills. [Classes are divided into 4 levels](/course), with curriculum designed to each student’s ability. In particular, the course focuses on developing the student’s verbal communication skills, while helping to develop reading, writing, and listening as well. Guidance is also provided for those wishing to take the Japanese Language Proficiency Test, enter university or find work in Japan.",
 			"ja": "1年以上じっくり日本語を学習したい人のためのコースです。日本語表現能力の向上、日本での進学、日本語能力を生かしての就職を目的としている人に最適です。レベルは五段階に分かれており、それぞれの学習者の能力に応じてクラス編成されています。特に、話す能力に重点を置きつつ、読む、書く、聴くを加えた4技能を相対的に発展させることを目的としています。キャリアアップのための日本語能力試験対策、進学・就職のための指導も行います。",
 			"fr": "Les **Cours Intensifs** sont prévus pour ceux qui décident d'apprendre le japonais de manière soutenue pendant 1 année ou plus, et sont particulièrement intéressants pour les personnes qui souhaitent améliorer leurs capacités, continuer leurs études au Japon ou encore trouver un travail qui utiliserai leurs compétences en langue japonaise. [Les classes sont divisés en 4 niveaux](/course). Les cours sont focalisés sur le développement des capacités de communication verbale de l'étudiant tout en améliorant également la compréhension orale et écrite et la production écrite. Une aide est également apportée aux étudiants désireux de passer le JLPT, d'entrer à l'université ou de trouver du travail au Japon.",
 			"zh-hant": "**長期課程**是提供給想要花一年或更長的時間深入學習日文的學生，特別適合於那些希望提高他們的語言技能、或想繼續在日本入學、或者利用自己的日語能力找一份工作的人。[課程分為四個等級](/course)，課程依學生的能力而設計，特別是著重於發展學生的口頭表達能力，同時有助於提高閱讀、寫作和聽力。還會指導學生關於日語能力測驗或是進入日本大學就讀、找工作等等。",
-			"id": "**Kursus Intensif** adalah bagi mereka yang ingin benar-benar belajar bahasa Jepang selama satu tahun atau lebih, dan sangat cocok untuk mereka yang ingin meningkatkan keterampilan bahasa mereka, melanjutkan pendidikan di Jepang, atau mencari pekerjaan yang menggunakan kemampuan bahasa Jepang mereka. [Kelas dibagi menjadi 4 tingkat] (/kursus), dengan kurikulum yang dirancang dengan kemampuan masing-masing siswa. Khususnya, berfokus pada pengembangan keterampilan komunikasi verbal siswa, sambil membantu untuk mengembangkan pembacaan, penulisan, dan pendengaran. Bimbingan juga disediakan bagi mereka yang ingin mengambil Ujian Kemampuan Bahasa Jepang, masuk universitas atau mencari pekerjaan di Jepang."
+			"id": "**Kursus Intensif** adalah bagi mereka yang ingin benar-benar belajar bahasa Jepang selama satu tahun atau lebih, dan sangat cocok untuk mereka yang ingin meningkatkan keterampilan bahasa mereka, melanjutkan pendidikan di Jepang, atau mencari pekerjaan yang menggunakan kemampuan bahasa Jepang mereka. [Kelas dibagi menjadi 4 tingkat] (/kursus), dengan kurikulum yang dirancang dengan kemampuan masing-masing siswa. Khususnya, berfokus pada pengembangan keterampilan komunikasi verbal siswa, sambil membantu untuk mengembangkan pembacaan, penulisan, dan pendengaran. Bimbingan juga disediakan bagi mereka yang ingin mengambil Ujian Kemampuan Bahasa Jepang, masuk universitas atau mencari pekerjaan di Jepang.",
+			"se" "Den **Intensiva Kursen** är för de som vill studera japanska i ett år eller längre. Den är passande för de som vill förbättra sina språkkunskaper, studera vidare i Japan, eller hitta ett jobb där japanska används. [Kurserna är indelade i 4 nivåer](/course), med läroplan anpassad för till varje students förmåga. Kursen är särskilt anpassad för konservation men även utvecklar studentens skrivande, läsande och lyssningsförmåga. Vi vägleder även studenter som vill ta JLPT testet, börja på universitet eller hitta jobb i Japan."
 		}
 	}
 }
