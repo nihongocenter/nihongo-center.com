@@ -6,7 +6,7 @@
 			"ja": "学院",
 			"zh-hant":"學校",
 			"id": "Sekolah",
-			"se": "Skola",
+			"sv": "Skola",
 			"pages": [
 				{
 					"en": "About",
@@ -14,7 +14,7 @@
 					"fr": "A propos",
 					"zh-hant": "關於",
 					"id": "Tentang",
-					"se": "Om",
+					"sv": "Om",
 					"icon": "home",
 					"url": "/"
 				},
@@ -24,7 +24,7 @@
 					"fr": "News",
 					"zh-hant": "最新消息",
 					"id": "News",
-					"se": "News",
+					"sv": "News",
 					"icon": "bullhorn",
 					"url": "/news"
 				},
