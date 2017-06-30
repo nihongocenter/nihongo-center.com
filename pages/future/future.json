@@ -5,7 +5,8 @@
 		"fr": "Etudes supérieures",
 		"zh-hant": "未來",
 		"id": "Masa depan",
-		"se": "Framtid"
+		"se": "Framtid",
+		"vi": "Tương lai"
 	},
 	"subTitle": {
 		"en": "We got your back",
@@ -13,7 +14,8 @@
 		"fr": "Nous vous soutenons!",
 		"zh-hant": "我們來做你的後盾",
 		"id": "Kami ada disini untuk membantu Anda",
-		"se": "Vi hjälper dig!"
+		"se": "Vi hjälper dig!",
+		"vi": "Chúng tôi luôn trợ giúp bạn"
 	},
 	"text": {
 		"en": "Whatever you wish to do in the future, Nihongo Center can guide you to your goal:",
@@ -21,7 +23,8 @@
 		"fr": "Qu'importe ce que vous souhaitez faire de votre avenir, Nihongo Center peut vous aider à atteindre votre but",
 		"zh-hant": "無論將來你想做什麼，日本語中心會引導你向目標前進：",
 		"id": "Apa pun yang Anda ingin lakukan di masa depan, Nihongo Center dapat memandu Anda ke tujuan Anda:",
-		"se": "Vad än du vill göra i framtiden kan Nihongo Center hjälpa dig att nå ditt mål:"
+		"se": "Vad än du vill göra i framtiden kan Nihongo Center hjälpa dig att nå ditt mål:",
+		"vi": "Bất cứ quyết định nào bạn chọn cho tương lai, Nihongo Center cũng có thể hướng dẫn giúp bạn đạt được mục tiêu."
 	},
 	"links": {
 		"education": {
@@ -30,7 +33,8 @@
 			"fr": "Etudes supérieures",
 			"zh-hant": "教育",
 			"id": "Pendidikan",
-			"se": "Utbildning"
+			"se": "Utbildning",
+			"vi": "Giáo dục"
 		},
 		"career": {
 			"en": "Career",
@@ -38,7 +42,8 @@
 			"fr": "Carrière",
 			"zh-hant": "工作",
 			"id": "Karier",
-			"se": "Karriär"
+			"se": "Karriär",
+			"vi": "Công việc"
 		},
 		"jlpt": {
 			"en": "JLPT",
@@ -46,7 +51,8 @@
 			"fr": "JLPT",
 			"zh-hant": "JLPT",
 			"id": "JLPT",
-			"se": "JLPT"
+			"se": "JLPT",
+			"vi": "JLPT"
 		}
 	}
 }
