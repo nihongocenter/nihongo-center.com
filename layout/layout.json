@@ -83,9 +83,9 @@
 			"flag": "se"
 		},
 		{
-			"name": "Vietnam"
-			"code": "vi",
-			"flag": "vi"
+			"name" : "Vietnam",
+			"code" : "vi",
+			"flag" : "vi"
 		}
 	]
 }
