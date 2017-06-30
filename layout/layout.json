@@ -6,7 +6,8 @@
 			"ja": "京都の日本語学校",
 			"zh-hant": "日本語學校",
 			"id": "Sekolah Bahasa Jepang di Kyoto",
-			"se": "Japansk språkskola i Kyoto"
+			"se": "Japansk språkskola i Kyoto",
+			"vi": "Trường dạy tiếng Nhật"
 		},
 		"bottom": {
 			"en": "Nihongo Center",
@@ -14,7 +15,8 @@
 			"zh-hant": "日本語中心",
 			"fr": "Nihongo Center",
 			"id": "Nihongo Center",
-			"se": "Nihongo Center"
+			"se": "Nihongo Center",
+			"vi": "Nihongo Center"
 		}
 	},
 	"description": {
@@ -23,7 +25,8 @@
 		"zh-hant": "日本語中心位於京都的中心四條河原町，對於上學非常便利。三十年來的日語教學經驗，由兼具能力及經驗的年輕教師教授公認為獨特的教學方式。",
 		"fr": "Nihongo Center est une école de japonais située au coeur de Kyoto riche d'une expérience de plus de 30 ans dans l'enseignement de la langue japonaise.",
 		"id": "Sebuah sekolah bahasa Jepang yang terletak di tengah Kyoto dengan lebih dari 30 tahun pengalaman mengajar bahasa Jepang.",
-		"se": "En skola belägen i Kyotos innerstad med över 30års erfarenhet av att lära ut Japanska."
+		"se": "En skola belägen i Kyotos innerstad med över 30års erfarenhet av att lära ut Japanska.",
+		"vi": "Một trường Nhật ngữ nằm ngay tại trung tâm thành phố Kyoto với trên 30 năm kinh nghiệm trong việc giảng dạy."
 	},
 	"keywords": {
 		"en": [
@@ -51,7 +54,8 @@
 		"ja": "今すぐ申し込む",
 		"zh-hant": "加入我們",
 		"id": "Apply now!",
-		"se": "Ansök nu!"
+		"se": "Ansök nu!",
+		"vi": "Đăng ký ngay!"
 	},
 	"languages": [
 		{
