@@ -5,7 +5,8 @@
 		"fr": "JLPT",
 		"zh-hant": "JLPT",
 		"id": "JLPT",
-		"se": "JLPT"
+		"se": "JLPT",
+		"vi": "JLPT"
 	},
 	"lead": {
 		"en": "The [Japanese Language Proficiency Test](http://www.jlpt.jp/), or JLPT, is a certification examination that verifies the Japanese ability of people whose native language is not Japanese. The JLPT was started in 1984 by the Japan Foundation and the Association of International Education, Japan (currently the Japan Educational Exchanges and Services). A total of approximately 7,000 people from throughout the world took the first-ever JLPT. However, the number of worldwide examines increased to about 770,000 for the 2009 examination, making the JLPT the largest Japanese language examination in the world.",
@@ -23,6 +24,7 @@
 		"zh-hant": "等級",
 		"id": "Tingkat",
 		"se": "Nivåer",
+		"vi": "Trình độ",
 		"text": {
 			"en": "The JLPT has **5 levels** ranging from N5 (easiest) to N1 (hardest). Most universities and work places require you to own at least JLPT N2 certification.",
 			"ja": "JLPTは5段階のレベルに分かれており、N5(初級)からN1(上級)まであります。ほとんどの日本の大学はJLPTのN2を日本語能力の条件としています。",
