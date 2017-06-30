@@ -85,11 +85,7 @@
 			"name": "Sweden",
 			"code": "se",
 			"flag": "se"
-		},
-		{
-			"name" : "Vietnam",
-			"code" : "vi",
-			"flag" : "vn"
+		
 		}
 	]
 }
