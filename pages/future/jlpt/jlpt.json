@@ -58,7 +58,8 @@
 			"fr": "(Etudiant ayant réussi le N1)",
 			"zh-hant": "(取得N1證書的學生)",
 			"id": "(Siswa dengan Sertifikasi N1)",
-			"se": "(Student med N1 Certifikat)"
+			"se": "(Student med N1 Certifikat)",
+			"vi": "(Học viên với Giấy chứng nhận N1)"
 		},
 		"N2": {
 			"en": "(Student with N2 Certification)",
@@ -66,7 +67,8 @@
 			"fr": "(Etudiant ayant réussi le N2)",
 			"zh-hant": "(取得N2證書的學生)",
 			"id": "(Siswa dengan Sertifikasi N2)",
-			"se": "(Student med N2 Certifikat)"
+			"se": "(Student med N2 Certifikat)",
+			"vi": "(Học viên với Giấy chứng nhận N2)"
 		}
 	},
 	"interviews": {
@@ -75,6 +77,7 @@
 		"fr": "Interviews",
 		"zh-hant": "訪問",
 		"id": "Wawancara",
-		"se": "Intervjuer"
+		"se": "Intervjuer",
+		"vi": "Phỏng vấn"
 	}
 }
