@@ -5,7 +5,8 @@
 		"fr": "Interview: Peter Johansson",
 		"zh-hant": "訪問: Peter Johansson",
 		"id": "Wawancara: Peter Johansson",
-		"se": "Intervju: Peter Johansson"
+		"se": "Intervju: Peter Johansson",
+		"vi": "Phỏng vấn: Peter Johansson"
 	},
 	"interview": [
 		{
@@ -15,7 +16,8 @@
 				"fr": "Combien de temps es-tu resté au Japon ?",
 				"zh-hant": "你住日本多久了？",
 				"id": "Berapa lama Anda tinggal di Jepang?",
-				"se": "Hur länge har du bott i Japan?"
+				"se": "Hur länge har du bott i Japan?",
+				"vi": "Bạn đã sống ở Nhật bao lâu rồi?"
 			},
 			"answer": {
 				"en": "I have lived in Japan for exactly 2 years.",
@@ -23,7 +25,8 @@
 				"fr": "J'ai habité au Japon pendant 2 ans.",
 				"zh-hant": "我住日本兩年了。",
 				"id": "Saya telah tinggal di Jepang selama tepat 2 tahun.",
-				"se": "Jag har bott i Japan under 2år."
+				"se": "Jag har bott i Japan under 2år.",
+				"vi": "Tôi sống ở Nhật đã được 2 năm."
 			}
 		},
 		{
@@ -33,7 +36,8 @@
 				"fr": "Pourquoi as-tu décidé de venir au Japon ?",
 				"zh-hant": "為何決定來日本？",
 				"id": "Mengapa Anda memutuskan untuk datang ke Jepang?",
-				"se": "Varför valde du att besöka Japan?"
+				"se": "Varför valde du att besöka Japan?",
+				"vi": "Vì sao bạn quyết định đến Nhật?"
 			},
 			"answer": {
 				"en": "Because I have always had a strong interest in video games and manga, I decided to come here to study Japanese.",
@@ -41,7 +45,8 @@
 				"fr": "Parce que j'ai toujours eu un grand intérêt pour les jeux video et les manga, j'ai décidé de venir étudier le japonais.",
 				"zh-hant": "因為我對電玩與漫畫一直抱有很大的興趣，因此決定前來日本學日文。",
 				"id": "Karena saya selalu memiliki minat yang kuat dalam video game dan manga, saya memutuskan untuk datang ke sini untuk belajar bahasa Jepang.",
-				"se": "Jag har alltid haft ett stort intresse i tv-spel och manga och därför bestämde jag mig för att studera japanska."
+				"se": "Jag har alltid haft ett stort intresse i tv-spel och manga och därför bestämde jag mig för att studera japanska.",
+				"vi": "Vì tôi rất thích video game và manga nên tôi quyết định đến đây để học tiếng Nhật."
 			}
 		},
 		{
@@ -51,7 +56,8 @@
 				"fr": "Combien de temps avais-tu étudié le japonais avant de venir ?",
 				"zh-hant": "來日本之前學了多久的日文？",
 				"id": "Berapa lama Anda belajar bahasa Jepang sebelum datang ke Jepang?",
-				"se": "Hur mycket japanska studerade du innan du kom till Japan?"
+				"se": "Hur mycket japanska studerade du innan du kom till Japan?",
+				"vi": "Bạn đã học tiếng Nhật bao lâu trước khi đến đây?"
 			},
 			"answer": {
 				"en": "I could read hiragana, katakana, and about 50 kanji, and could do a basic self-introduction. Even so, my reading was quite slow, and my grammar was a mess.",
@@ -59,7 +65,8 @@
 				"fr": "Je pouvais lire les hiragana, katakana, et environ 50 Kanji. Je pouvais également me présenter de manière basique. Malgré tout, ma compréhension écrite était faible et ma grammaire était horrible.",
 				"zh-hant": "我認得平假名、大約會50個漢字、以及會基本自我介紹。即使會一點，但我閱讀方面很慢而且我文法很糟。",
 				"id": "Saya bisa membaca hiragana, katakana, dan sekitar 50 kanji, dan bisa melakukan pengenalan diri yang dasar. Meski begitu, saya membaca cukup lambat, dan tata bahasa saya kacau.",
-				"se": "Jag kunde läsa hiragana, katakana, knappt 50 kanji och kunde göra en lätt självintroduktion. Men min läsning var långsam och grammatiken var en röra."
+				"se": "Jag kunde läsa hiragana, katakana, knappt 50 kanji och kunde göra en lätt självintroduktion. Men min läsning var långsam och grammatiken var en röra.",
+				"vi": "Tôi có thể đọc hiragana, katakana, và khoảng 50 kanji, và có thể tự giới thiệu sơ về bản thân. Mặc dù vậy, tôi đọc không rành và không nắm vững ngữ pháp."
 			}
 		},
 		{
@@ -69,7 +76,8 @@
 				"fr": "Quel était ton niveau en japonais avant de venir ?",
 				"zh-hant": "你來日本前，日語程度如何？",
 				"id": "Apa tingkat Jepang Anda sebelum datang ke Jepang?",
-				"se": "Vad var din Japanska nivå på innan du kom till Japan?"
+				"se": "Vad var din Japanska nivå på innan du kom till Japan?",
+				"vi": "Trình độ tiếng Nhật của bạn trước khi đến Nhật?"
 			},
 			"answer": {
 				"en": "Please see the previous answer. ☺",
@@ -77,7 +85,8 @@
 				"fr": "Regardez la réponse précédente. ☺",
 				"zh-hant": "回覆如上 ☺",
 				"id": "Silakan lihat jawaban sebelumnya. ☺",
-				"se": "Se mitt tidigare svar. ☺"
+				"se": "Se mitt tidigare svar. ☺",
+				"vi": "Xin hãy xem lại câu trả lời trước của tôi. ☺"
 			}
 		},
 		{
@@ -87,7 +96,8 @@
 				"fr": "A quoi pensais-tu pendant l'examen du JLPT ?",
 				"zh-hant": "報考JLPT的感覺如何？",
 				"id": "Apa pikiran Anda ketika mengambil JLPT?",
-				"se": "Hur kände du inför JLPT proven?"
+				"se": "Hur kände du inför JLPT proven?",
+				"vi": "Bạn có suy nghĩ gì khi bạn dự thi JLPT?"
 			},
 			"answer": {
 				"en": "While I was very nervous during each level I took (N3, N2, and N1), I thought it was a great chance to measure my ability. I was quite nervous and excited while taking the test. (Though probably mostly nervous!)",
@@ -95,7 +105,8 @@
 				"fr": "Bien que j'étais nerveux à chaque examen (N3, N2 et N1), je pensais que c'était un très bon moyen de mesurer mon niveau. J'étais à la fois nerveux et excité. (Bien que probablement plus nerveux !)",
 				"zh-hant": "即使我每次考試都很緊張 (我報考過N3, N2, and N1)，我的認知是這是衡量我日文能力很好的機會，對於JPLT我是既緊張又興奮。(緊張的感覺還是佔據大部分的！)",
 				"id": "Meskipun saya sangat gugup selama setiap tingkat yang saya ambil (N3, N2, dan N1), saya pikir itu adalah kesempatan besar untuk mengukur kemampuan saya. Saya cukup gugup dan bersemangat saat mengambil ujian. (Meskipun mungkin sebagian besarnya kegugupan!) ",
-				"se": "Jag var mycket nervös under varje nivå som jag tog (N3, N2 och N1), jag tycket att det var en bra möjlighet att mäta mina kunskaper. Det var nervöst och spännande under provet. (Fast förmodligen mest nervös!)"
+				"se": "Jag var mycket nervös under varje nivå som jag tog (N3, N2 och N1), jag tycket att det var en bra möjlighet att mäta mina kunskaper. Det var nervöst och spännande under provet. (Fast förmodligen mest nervös!)",
+				"vi": "Dù mỗi lần dự thi (N3, N2, và N1) tôi đều rất căng thẳng, tôi nghĩ dự thi là một dịp tốt để biết được trình độ của chính mình. Tôi thấy mình vừa căng thẳng mà cũng vừa hứng khởi khi đi thi. (Nhưng nói thiệt là căng thẳng thì nhiều hơn!)"
 			}
 		},
 		{
@@ -105,7 +116,8 @@
 				"fr": "Comment t'es-tu senti après avoir réussi ?",
 				"zh-hant": "JLPT合格後的感覺如何？",
 				"id": "Bagaimana perasaan Anda setelah melewati JLPT?",
-				"se": "Hur kändes det när du blev godkänd på JLPT provet?"
+				"se": "Hur kändes det när du blev godkänd på JLPT provet?",
+				"vi": "Bạn cảm thấy như thế nào sau khi thi đậu JLPT?"
 			},
 			"answer": {
 				"en": "Of course I was extremely happy. Particularly upon passing N1 and N2, since they are needed to enter university or to get a job. It was the greatest feeling.",
@@ -113,7 +125,8 @@
 				"fr": "Evidemment j'étais très heureux. Particulièrement après le N2 et le N1 puisqu'ils sont souvent nécessaires pour entrer à l'université ou trouver du travail.",
 				"zh-hant": "當然我十分的高興。特別是取得N2和N1的時候，因為這是進入大學或找工作所需要的條件，感覺非常好。",
 				"id": "Tentu saja saya sangat senang. Terutama setelah melewati N1 dan N2, karena mereka dibutuhkan untuk masuk universitas atau untuk mendapatkan pekerjaan.",
-				"se": "Självklart var jag extremt glad. Speciellt när jag klarade N1 och N2, eftersom dessa var nödvändiga för att börja på universitet eller hitta ett jobb. Det var en härlig känsla."
+				"se": "Självklart var jag extremt glad. Speciellt när jag klarade N1 och N2, eftersom dessa var nödvändiga för att börja på universitet eller hitta ett jobb. Det var en härlig känsla.",
+				"vi": "Đương nhiên là tôi mừng lắm. Đặc biệt là khi thi đậu N1 và N2, vì đây là hai trình độ rất cần thiết để vào đại học hay để kiếm việc làm. Cảm giác thật là tuyệt vời."
 			}
 		},
 		{
@@ -123,7 +136,8 @@
 				"fr": "Quelle a été ta méthode pour réussir l'examen ?",
 				"zh-hant": "為了要通過JLPT，你做了什麼樣的努力呢？",
 				"id": "Upaya apa yang Anda buat untuk lulus JLPT?",
-				"se": "Vad gjorde du för att lyckas bli godkänd på JLPT provet?"
+				"se": "Vad gjorde du för att lyckas bli godkänd på JLPT provet?",
+				"vi": "Bạn đã chuẩn bị như thế nào cho kỳ thi JLPT?"
 			},
 			"answer": {
 				"en": "If you can make studying enjoyable, it will make passing much easier. If you're not enjoying studying, you won't want to continue, so it is important to make things fun and interesting. If you do this, you will increase your chance of passing the JLPT. I personally recommend video games and reading manga.",
@@ -131,7 +145,8 @@
 				"fr": "Si vous pouvez étudier en vous amusant cela rendra la tache plus facile. Si étudier vous ennui, vous n'aurez pas envie de continuer, il est donc important de faire en sorte que cela reste amusant et intéressant. Si vous faîtes cela, vous augmenterez vos chance de réussir le JLPT. Personnellement, je recommande les jeux video et les manga.",
 				"zh-hant": "如果你學習日文過程是愉快的，那便會使你較容易通過考試。如果你學得不開心，那你也不會想繼續學習，所以讓學習變有趣以及對日文感興趣是最重要的事。如此一來，便能增大你通過考試的機會，我個人建議電玩和漫畫能提升興趣。",
 				"id": "Jika Anda bisa membuat belajar menyenangkan, itu akan membuat lulus lebih mudah. Jika Anda tidak menikmati belajar, Anda tidak akan ingin melanjutkan, sehingga sangat penting untuk membuat hal-hal menyenangkan dan menarik. Jika Anda melakukan ini, Anda akan meningkatkan kesempatan Anda untuk melewati JLPT. Saya pribadi merekomendasikan video game dan membaca manga. ",
-				"se": "Om du kan göra studerandet roligt så blir det mycket lättare att klara av proven. Om du inte har roligt under studierna så kommer du inte vilja fortsätta, därför är det viktigt att göra studerandet kul och intressant. Om du kan lyckas med detta ökar chansen att bli godkänd på JLPT. Det som fungerade för mig var att använda tv-spel och manga i studierna."
+				"se": "Om du kan göra studerandet roligt så blir det mycket lättare att klara av proven. Om du inte har roligt under studierna så kommer du inte vilja fortsätta, därför är det viktigt att göra studerandet kul och intressant. Om du kan lyckas med detta ökar chansen att bli godkänd på JLPT. Det som fungerade för mig var att använda tv-spel och manga i studierna.",
+				"vi": "Nếu bạn có thể làm cho việc học thú vị, thì bạn có thể thi đậu dễ dàng hơn. Nếu bạn không hứng thú với việc học, bạn sẽ không muốn tiếp tục nữa, vì vậy kiếm được thứ gì hấp dẫn vui tươi để học là rất quan trọng. Nếu bạn làm được, khả năng bạn thi đậu JLPT sẽ được nâng cao. Cá nhân tôi khuyên bạn nên thử chơi game và đọc manga."
 			}
 		},
 		{
@@ -141,7 +156,8 @@
 				"fr": "Quels sont les aspects des cours au Nihongo Center qui étaient utiles pour réussir le JLPT ?",
 				"zh-hant": "日本語中心的那些課程對於JLPT是有幫助的？",
 				"id": "Apa aspek kelas di Nihongo Center yang berguna untuk melewati JLPT?",
-				"se": "Vilka delar från Nihongo Centers lektioner var hjälpsamma inför JLPT?"
+				"se": "Vilka delar från Nihongo Centers lektioner var hjälpsamma inför JLPT?",
+				"vi": "Điều gì bạn học tại Nihongo Center giúp bạn thi đậu JLPT?"
 			},
 			"answer": {
 				"en": "Studying a wide field of topics in Japanese really helped. Reading in particular is especially important for the JLPT, which we practiced a lot in class. Nihongo Center's teaching style was very helpful to me.",
@@ -149,7 +165,8 @@
 				"fr": "Etudier un large éventail de sujet en japonais a beaucoup aidé. La lecture est vraiment très importante pour le JLPT, et nous avons beaucoup pratiqué pendant les cours. La méthode d'enseignement du Nihongo Center m'a vraiment été utile.",
 				"zh-hant": "教學主題廣泛是很有幫助的。尤其是JLPT的閱讀測驗部分，我們在課堂上練習了很多，日本語中心的教學風格是對我很有幫助的。",
 				"id": "Mempelajari bidang macam topik dalam bahasa Jepang benar-benar membantu. Membaca khususnya sangat penting untuk JLPT, yang kami berlatih banyak di kelas. Gaya mengajar Nihongo Center sangat membantu saya.",
-				"se": " Att studera olika teman och situationer på japanska hjälpte mycket. Läsning var särskilt viktigt för JLPT, vilket vi övade mycket på under lektionerna. Nihongo Centers sätt att lära ut var väldigt hjälpsam för mig."
+				"se": " Att studera olika teman och situationer på japanska hjälpte mycket. Läsning var särskilt viktigt för JLPT, vilket vi övade mycket på under lektionerna. Nihongo Centers sätt att lära ut var väldigt hjälpsam för mig.",
+				"vi": "Nghiên cứu về nhiều chủ đề khác nhau bằng tiếng Nhật giúp tôi rất nhiều. Đặc biệt kỹ năng đọc là cực kỳ quan trọng trong kỳ thi JLPT, chúng tôi đã được rèn luyện rất nhiều trong lớp. Cách dạy ở trường Nihongo Center thật sự rất hữu ích cho tôi."
 			}
 		},
 		{
@@ -159,7 +176,8 @@
 				"fr": "As-tu un message pour les enseignants du Nihongo Center ?",
 				"zh-hant": "你有沒有要對日本語中心的老師說的話？",
 				"id": "Apakah Anda punya pesan untuk para guru di Nihongo Center?",
-				"se": "Har du något att säga till lärarna på Nihongo Center?"
+				"se": "Har du något att säga till lärarna på Nihongo Center?",
+				"vi": "Bạn muốn để lại lời nhắn gì cho các giáo viên ở trường Nihongo Center không?"
 			},
 			"answer": {
 				"en": "My two years at Nihongo Center were a very important learning experience. I really appreciate all of the awesome teachers who made classes so much fun. I don't know if we'll be able to meet again, but I will never forget you. To all my teachers- thank you!",
@@ -167,7 +185,8 @@
 				"fr": "Mes deux années au Nihongo Center ont été une expérience d'apprentissage incroyable. Je suis vraiment reconnaissant envers tous ces professeurs qui rendaient les cours si amusant. Je ne sais pas si nous pourrons un jour nous revoir mais je ne vous oublierai jamais. Je remercie tout mes professeurs !",
 				"zh-hant": "我在日本語中心兩年裡，對我來說是很重要的學習經驗，我真的非常感謝這些盡力讓學習日文變有趣的超棒老師們。我不知道以後我們是否還有機會再見面，但我永遠不會忘記你們，感謝所有的老師們！",
 				"id": "Dua tahun di Nihongo Center adalah pengalaman belajar yang sangat penting. Saya sangat menghargai semua guru mengagumkan yang membuat kelas sangat menyenangkan. Saya tidak tahu apakah kita akan bisa bertemu lagi, tapi aku tidak akan pernah melupakan kalian. Untuk para guruku tercinta -terima kasih! ",
-				"se": "Mina två år på Nihongo Center var en mycket viktigt erfarenhet. Jag uppskattar alla suveräna lärare som gjorde lektionerna roliga. Jag vet inte om vi kommer mötas igen men jag kommer aldrig glömma bort er. Till alla mina lärare - Ett stort tack!"
+				"se": "Mina två år på Nihongo Center var en mycket viktigt erfarenhet. Jag uppskattar alla suveräna lärare som gjorde lektionerna roliga. Jag vet inte om vi kommer mötas igen men jag kommer aldrig glömma bort er. Till alla mina lärare - Ett stort tack!",
+				"vi": "2 năm học tại Nihongo Center là một kinh nghiệm học tập rất quý giá đối với tôi. Tôi hết sức cảm kích các giáo viên tận tụy không ngừng tạo không khí vui tươi cho lớp học. Tôi không biết có dịp gặp lại hay không nhưng tôi sẽ không bao giờ quên các thầy cô. Gửi đến các thầy cô của tôi – cảm ơn rất nhiều!"
 			}
 		},
 		{
@@ -177,7 +196,8 @@
 				"fr": "As-tu un message pour ceux qui envisageraient d'étudier le japonais ?",
 				"zh-hant": "你有沒有話想對想要學日文的人說呢？",
 				"id": "Apakah Anda memiliki pesan bagi mereka yang berpikir untuk belajar bahasa Jepang?",
-				"se": "Har du något att säga till de som funderar på att studera japanska?"
+				"se": "Har du något att säga till de som funderar på att studera japanska?",
+				"vi": "Và lời nhắn nhủ gì cho các bạn khác đang đắn đo muốn học tiếng Nhật?"
 			},
 			"answer": {
 				"en": "The beginning and the end of your Japanese studies are the most fun, I think. In the beginning you progress quickly and it's not so difficult. In the end you can understand most everything, which is a really exciting feeling. However, I have seen many people who have given up half-way, so it's really important to keep pushing yourself. If you can get through the boring, difficult parts, you can make it to the fun part. Don't give up!",
@@ -185,7 +205,8 @@
 				"fr": "Je trouve que le début et la fin de vos études de japonais sont les plus amusantes. Au début vous apprenez vite et ce n'est pas très difficile. A la fin, vous comprennez pratiquement tout, ce qui procure un sentiment excitant. Cependant, j'ai vu beaucoup de personnes qui ont abandonné en cours de route, il est donc très important de persévérer. Si vous arrivez à surmonter les moments ennuyeux et diffciles, vous arriverez jusqu'aux parties amusantes. N'abandonnez-pas !",
 				"zh-hant": "我認為學習日文在最初和最後的階段是最有趣的，在一開始你會進步很快而且沒有那麼困難。而最後的階段中，你可以了解全部的東西是讓人非常開心的。然而很多人卻是在中途的時候放棄了，所以繼續加油撐下去是很重要的，如果你能通過了最辛苦的中段部分，接下來的學習會變得較為上手且感覺有趣，所以不要放棄！",
 				"id": "Awal dan akhir studi bahasa Jepang Anda adalah yang paling menyenangkan, menurut saya. Pada awalnya Anda maju dengan cepat dan itu tidak begitu sulit. Pada akhirnya Anda bisa memahami hampir semua, yang adalah perasaan yang benar-benar menarik. Namun, saya mengenal banyak orang yang telah menyerah di tengah jalan, sehingga benar-benar penting untuk terus mendorong diri sendiri. Jika Anda bisa melalui bagian yang sulit dan membosankan, Anda dapat mencapai ke bagian yang menyenangkan. Jangan menyerah!",
-				"se": " Enligt mig var början och slutet av studierna roligast. I början går utvecklingen fort och det är inte särskilt svårt. Vid slutet kan du förstå väldigt mycket av språket vilket är en härlig känsla. Men jag har sett många personer ge upp halvvägs, så det är mycket viktigt att vara ihärdig och pressa sig själv. Om du klarar dig igenom de svårare och lite tråkigare delarna så kommer du till slut fram till det roligaste. Ge inte upp!"
+				"se": " Enligt mig var början och slutet av studierna roligast. I början går utvecklingen fort och det är inte särskilt svårt. Vid slutet kan du förstå väldigt mycket av språket vilket är en härlig känsla. Men jag har sett många personer ge upp halvvägs, så det är mycket viktigt att vara ihärdig och pressa sig själv. Om du klarar dig igenom de svårare och lite tråkigare delarna så kommer du till slut fram till det roligaste. Ge inte upp!",
+				"vi": "Lúc mới bắt đầu học và cuối khóa học là khoảng thời gian thú vị nhất, tôi nghĩ vậy. Lúc bắt đầu, bạn tiến bộ nhanh chóng và lớp học không khó lắm. Trong khi vào cuối khóa, bạn có thể hiểu gần hết mọi thứ, nên bạn cảm thấy thật hứng khởi. Tuy nhiên, tôi thấy khá nhiều bạn bỏ cuộc giữa chừng, nên điều quan trọng nhất là bạn phải không ngừng nỗ lực. Nếu bạn có thể vượt qua các phần học nhàm chán hay khó nuốt đối với bạn, bạn nhất định sẽ tìm thấy các phần thú vị. Đừng bỏ cuộc!"
 			}
 		},
 		{
@@ -195,7 +216,8 @@
 				"fr": "Quels sont tes futurs projets ? (Etudes de japonais, travail, etc.)",
 				"zh-hant": "你未來的計劃是什麼？ (日語相關、JLPT、工作...等等)",
 				"id": "Apa rencana Anda di masa depan? (Pelajaran bahasa Jepang, JLPT, pekerjaan, dll)",
-				"se": "Vad är dina planer för framtiden? (Japanska studier, JLPT, jobb, etc.)"
+				"se": "Vad är dina planer för framtiden? (Japanska studier, JLPT, jobb, etc.)",
+				"vi": "Dự định tương lai của bạn thế nào? (học tiếng Nhật, JLPT, làm việc, v.v…)"
 			},
 			"answer": {
 				"en": "I will likely be returning to Sweden soon to go to university, so for the time I don't think I can get a job related to Japanese. But in order to maintain my ability, I plan to read in Japanese for 1-4 hours everyday. Since one day I want to do Swedish-Japanese translating, I plan to keep doing my best.",
@@ -203,7 +225,8 @@
 				"fr": "Je vais sans doute rentrer en Suède pour aller à l'université donc pour le moment je ne pense pas trouver un travail en rapport avec le japonais. Mais pour maintenir mon niveau, je prévois de lire en japonais entre 1 et 4 heures par jour. Etant donné que j'envisage de devenir traducteur suédois-japonais, je dois continuer à faire de mon mieux.",
 				"zh-hant": "我會回瑞典的大學就讀，所以我認為我應該還不會於會使用到日文的工作就職，但是為了維持我的日語能力，我打算每天花1~4小時讀日文，因為我以後想成為瑞典文和日文之間的翻譯，我會盡我所能的。",
 				"id": "Saya mungkin akan kembali ke Swedia untuk pergi ke universitas, sehingga untuk saat ini mungkin saya tidak akan mendapatkan pekerjaan yang berhubungan dengan Jepang. Tapi dalam rangka mempertahankan kemampuan berbahasa saya, saya berencana untuk membaca dalam bahasa Jepang untuk 1-4 jam setiap hari. Karena suatu hari saya ingin melakukan menerjemahan bahasa Swedia-Jepang, saya berencana untuk terus bekerjas keras.",
-				"se": "Jag kommer förmodligen att återvända till Sverige snart och studera på universitet, så för tillfället kan jag nog inte få ett jobb där jag kan använda min japanska. Men för att bibehålla mina kunskaper planerar jag att läsa japanska 1-4 timmar om dagen. I framtiden vill jag jobba med svensk-japansk översättning, så jag kommer göra mitt bästa."
+				"se": "Jag kommer förmodligen att återvända till Sverige snart och studera på universitet, så för tillfället kan jag nog inte få ett jobb där jag kan använda min japanska. Men för att bibehålla mina kunskaper planerar jag att läsa japanska 1-4 timmar om dagen. I framtiden vill jag jobba med svensk-japansk översättning, så jag kommer göra mitt bästa.",
+				"vi": "Tôi sắp quay về Thụy Điển để học đại học, nên hiện tại tôi không nghĩ tôi sẽ kiếm việc liên quan đến tiếng Nhật. Nhưng để không quên tiếng Nhật, tôi dự định sẽ tự luyện đọc khoảng 1-4 tiếng mỗi ngày. Với mục tiêu một ngày nào đó tôi có thể phiên dịch tiếng Thụy Điển sang tiếng Nhật, tôi cần phải tiếp tục phấn đấu hết sức mình."
 			}
 		}
 	]
