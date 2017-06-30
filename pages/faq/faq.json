@@ -5,7 +5,8 @@
 		"fr": "Questions Fréquentes",
 		"zh-hant": "常問的問題",
 		"id": "Pertanyaan yang sering diajukan",
-		"se": "Vanliga Frågor"
+		"se": "Vanliga Frågor",
+		"vi": "Các Câu hỏi Thường gặp"
 	},
 	"faq": [
 		{
@@ -15,7 +16,8 @@
 				"fr": "Est-ce un problème de ne pas comprendre le japonais ?",
 				"zh-hant": "如果我完全不懂日文可以嗎？",
 				"id": "Apakah baik-baik saja jika saya tidak tahu Bahasa Jepang sama sekali?",
-				"se": "Är det ok om jag inte kan någon japanska alls?"
+				"se": "Är det ok om jag inte kan någon japanska alls?",
+				"vi": "Có vấn đề gì không nếu tôi hoàn toàn không biết tiếng Nhật?"
 			},
 			"answer": {
 				"en": "This is no problem. We welcome beginner students and have classes designed for those just starting out.",
@@ -23,7 +25,8 @@
 				"fr": "Ce n'est pas un problème. Nous accueillons les débutants et nous avons des classes spécialisées.",
 				"zh-hant": "這是沒有問題的。我們歡迎初學者學生，並有專為那些剛剛起步的學生所提供的課程。",
 				"id": "Ini tidak ada masalah. Kami menyambut siswa pemula dan kami memiliki kelas yang dirancang bagi mereka yang mulai dari dasar.",
-				"se": "Det är inga problem, vi välkomnar och har kurser designade för nybörjare."
+				"se": "Det är inga problem, vi välkomnar och har kurser designade för nybörjare.",
+				"vi": "Hoàn toàn không có vấn đề gì. Chúng tôi hoan nghênh mọi học viên sơ cấp và có các lớp dành riêng cho các bạn mới bắt đầu học."
 			}			
 		},
 		{
@@ -33,7 +36,8 @@
 				"fr": "Quelle genre de nourriture y a t'il au Japon ?",
 				"zh-hant": "日本有什麼樣的食物選擇？",
 				"id": "Jenis makanan apa yang tersedia di Jepang?",
-				"se": "Vad finns det för typ av mat i Japan?"
+				"se": "Vad finns det för typ av mat i Japan?",
+				"vi": "Tại Nhật Bản, các bạn có các loại thực phẩm nào?"
 			},
 			"answer": {
 				"en": "As Nihongo Center is located in the heart of Kyoto city, there are plenty of choices when it comes to food, Japanese and international food alike. There are also many inexpensive restaurants that cater to students, offering set meals from 500-700 yen. Both ramen and curry cost only about 500 yen, and are popular choices for lunch. We hope you can enjoy the variety of food that Japan has to offer. In addition to restaurants, you can also dine in the cafeterias at any of Kyoto’s approximately 50 universities. They offer a wide variety of food at a cheap price.",
@@ -41,7 +45,8 @@
 				"fr": "Nihongo Center étant situé au centre de Kyoto, il y a un large choix de nourriture, japonaise ou internationnale. Il y a également de nombreux restaurants bon marchés avec des tarifs étudiants proposant des menus entre 500 et 700 yens. Les ramens et curry ne coûtent que 500 yen et sont très populaire pour le déjeuner. Nous espérons que vous saurez apprécier la variété culinaire que le Japon a à offrir. En plus des restaurants, vous pouvez également manger dans l'une des cafétérias des 50 universités de Kyoto. Elles offrent un large éventail de repas pour pas cher.",
 				"zh-hant": "日本語中心位於京都的心臟地帶，食物的選擇種類非常多樣化，日本菜和各國料理都有，有許多學生可負擔的價位的餐廳可供選擇，餐點大約500~700日圓的也有。拉麵和咖哩都大約500元可以吃到，午餐選擇也很多種。我們希望您能享受各種日本有的各種餐點。除了餐廳，你也可以在任何京都的約50所大學的食堂用餐。他們以低廉的價格提供各種各樣的食物。",
 				"id": "Karena Nihongo Center terletak di tengah kota Kyoto, ada banyak pilihan mengenai makanan, untuk masakan Jepang maupun internasional. Ada juga banyak restoran murah untuk para mahasiswa, menawarkan set makanan dengan harga sekitar 500-700 yen. Harga ramen dan curry hanya sekitar 500 yen, dan kedua ini adalah pilihan populer untuk makan siang. Kami berharap Anda dapat menikmati berbagai makanan yang tersedia di Jepang. Selain restoran, Anda juga bisa makan di kafetaria universitas di Kyoto yang ada sekitar 50 universitas. Mereka menawarkan berbagai macam makanan dengan harga murah.",
-				"se": "Eftersom Nihongo Center är beläget i Kyotos innerstad så finns det stor valmöjlighet på resturanger, japanska och internationella. Det finns även en mängd resturanger som är anpassade för en studentbudget med menyer mellan 500-700yen. Både ramen och curry kostar endast runt 500yen och är populära alternativ för lunch. Vi hoppas du kan testa de olika maträtter som Japan kan erbjuda. Utöver resturanger så kan du även äta på något av Kyotos 50-tal universitets cafeterior. De erbjuder en stor variation av mat för billiga priser."
+				"se": "Eftersom Nihongo Center är beläget i Kyotos innerstad så finns det stor valmöjlighet på resturanger, japanska och internationella. Det finns även en mängd resturanger som är anpassade för en studentbudget med menyer mellan 500-700yen. Både ramen och curry kostar endast runt 500yen och är populära alternativ för lunch. Vi hoppas du kan testa de olika maträtter som Japan kan erbjuda. Utöver resturanger så kan du även äta på något av Kyotos 50-tal universitets cafeterior. De erbjuder en stor variation av mat för billiga priser.",
+				"vi": "Nihongo Center nằm tại trung tâm thành phố Kyoto, nên có rất nhiều hàng quán cho bạn thoải mái lựa chọn, từ món ăn Nhật cho đến các món ăn từ các quốc gia khác . Có nhiều tiệm ăn giá cả phải chăng hợp với túi tiền của sinh viên, với giá các phần ăn trong khoảng 500-700 yên. Ramen và cà ry chỉ tốn 500 yên và là bữa trưa phổ biến ở đây. Chúng tôi mong rằng các bạn hài lòng với các loại thực phẩm đa dạng tại Nhật. Ngoài các tiệm ăn, nhà hàng, bạn có thể dùng bữa tại các căn tin, tiệm cà phê ở bất kỳ 50 trường đại học nào của Kyoto. Thực đơn thường rất đa dạng với giá cả hợp lý."
 			}
 		},
 		{
@@ -51,7 +56,8 @@
 				"fr": "Quel est le coût moyen par mois ?",
 				"zh-hant": "每月平均開銷是多少？",
 				"id": "Berapa biaya rata-rata hidup per bulan?",
-				"se": "Vad är den genomsnittliga levnadskostnaden för en månad?"
+				"se": "Vad är den genomsnittliga levnadskostnaden för en månad?",
+				"vi": "Chi phí sinh hoạt hàng tháng tính trung bình vào khoảng bao nhiêu?"
 			},
 			"answer": {
 				"en": "While the cost of living varies from student to student, the average is around 70,000 – 100,000 yen per month, excluding tuition fees. For example, student A may spend about 70,000 yen a month (35,000 for rent, 20,000 for food, and 15,000 for additional expenses), while student B may spend around 108,000 yen a month (50,000 for rent, 30,000 for food, 10,000 for transportation, 5,000 for electricity bill, 3,000 for mobile phone, and 10,000 for entertainment).",
@@ -59,7 +65,8 @@
 				"fr": "Bien que le coût varie d'un étudiant à l'autre, la moyenne se situe entre 70,000 et 100,000 yens par mois, sans les frais de scolarité. Par exemple, l'étudiant A peut utilisé environ 70,000 yens par mois (35,000 pour le loyer, 20,000 pour la nourriture, et 15,000 pour les dépenses supplémentaires), quand l'étudiant B utilisera 108,000 yens par mois (50,000 pour le loyer, 30,000 pour la nourriture, 10,000 pour les transports, 5,000 pour les factures, 3,000 pour le téléphone, et 10,000 pour les loisirs.)",
 				"zh-hant": "生活費因人而異，不含學費的情況下，平均大約是每月70,000 – 100,000日圓，例如，學生A每月花70,000日圓 (房租35,000、吃的20,00、其他費用15,000)，另一位學生B每月花費108,000 (房租50,000、吃的30,000、交通10,000，電費5,000、手機費3,000、娛樂10,000)。",
 				"id": "Sementara biaya hidup bervariasi dari siswa ke siswa, biaya rata-rata mencapai sekitar 70.000 - 100,000 yen per bulan, tidak termasuk biaya kuliah. Misalnya, siswa A dapat menghabiskan sekitar 70.000 yen per bulan (35.000 untuk sewa, 20.000 untuk makanan, dan 15.000. untuk biaya tambahan), sedangkan siswa B dapat menghabiskan sekitar ¥ 108.000 per bulan (50.000 untuk sewa, 30.000 untuk makanan, 10.000 untuk transportasi, 5.000 untuk tagihan listrik, 3.000 untuk ponsel, dan 10.000 untuk hiburan).",
-				"se": "Levnadskostnad varierar från student till student men genomsnittet ligger mellan 70,000-100,000yen i månaden, exkludaret kursavgifter. Till exempel, student A spenderar drygt 70,000yen per månad(35,000 på hyra, 20,000 på mat och 15,000 på övriga utgifter). Medan student B spenderar ca108,000yen per månad(50,000 på hyra, 30,000 på mat och 10,000 på transport, 5000 på elräkning, 3000 på mobiltelefon och 10,000yen på nöje)."
+				"se": "Levnadskostnad varierar från student till student men genomsnittet ligger mellan 70,000-100,000yen i månaden, exkludaret kursavgifter. Till exempel, student A spenderar drygt 70,000yen per månad(35,000 på hyra, 20,000 på mat och 15,000 på övriga utgifter). Medan student B spenderar ca108,000yen per månad(50,000 på hyra, 30,000 på mat och 10,000 på transport, 5000 på elräkning, 3000 på mobiltelefon och 10,000yen på nöje).",
+				"vi": "Chi phí sinh hoạt thay đổi tùy theo từng học viên, nhưng trung bình vào khoảng 70,000 – 100,000 yên hàng tháng, bên cạnh tiền học phí. Ví dụ, học viên A chi tiêu khoảng 70,000 yên trong một tháng (35,000 tiền nhà, 20,000 tiền ăn, và 15,000 cho các khoản khác), trong khi học viên B có thể chi tiêu khoảng 108,000 yên trong một tháng (50,000 tiền nhà, 30,000 tiền ăn, 10,000 tiền đi lại, 5,000 tiền điện, 3,000 tiền điện thoại, và 10,000 dành cho giải trí)."
 			}
 		},
 		{
@@ -69,7 +76,8 @@
 				"fr": "Que dois-je faire si je tombe malade ?",
 				"zh-hant": "生病了怎麼辦？",
 				"id": "Bagaimana jika saya sakit?",
-				"se": "Vad händer om jag blir sjuk?"
+				"se": "Vad händer om jag blir sjuk?",
+				"vi": "Trong trường hợp tôi bị bệnh?"
 			},
 			"answer": {
 				"en": "You can obtain national health insurance from the ward office, which costs about 9,000 yen for the first year. With health insurance, you are only responsible for 30% of the medical bill. Dental insurance is also included. We have compiled a list of hospitals and clinics near Nihongo Center. Please contact us at support@nihongo-center.com for information.",
@@ -77,7 +85,8 @@
 				"fr": "Vous pouvez bénéficer de la sécurité sociale en allant à votre mairie de quartier ce qui vous coûtera environ 15,000 yens à l'année. Avec la sécurité sociale, vous n'aurez à payer que 30% des frais médicaux. Les soins dentaires sont également inclus. Nous avons fait une liste des hospitaux et cliniques à coté du Nihongo Center. Si vous en avez besoin, n'hésitez pas nous contacter à support@nihongo-center.com.",
 				"zh-hant": "你可以在區役所投保國民健康保險，第一年的費用約9000日元。有國民健康保險的話，你只需付醫療費用的30％，牙科也包括在保險範圍內。我們已列出日本語中心附近的醫院和表，請聯繫support@nihongo-center.com以獲取信息。",
 				"id": "Anda dapat memperoleh asuransi kesehatan nasional dari kantor bangsal, yang mencapai sekitar 9.000 yen untuk tahun pertama. Dengan asuransi kesehatan, Anda hanya bertanggung jawab untuk 30% dari tagihan medis. Asuransi Gigi juga termasuk. Kami telah mengumpulkan daftar rumah sakit dan klinik di dekat Nihongo Center. Silahkan hubungi kami di support@nihongo-center.com untuk informasi.",
-				"se": "Du kan gå med den nationella sjukförsäkringen vilket kostar ca9000yen för första året. Med denna sjukförsäkring är du endast ansvarig för 30% av en sjukvårdsräkning. Tandvård är även inkluderad. Vi har skapat en lista över sjukhus och kliniker nära Nihongo Center. Var vänlig kontakta oss genom support@nihongo-center.com för mer information."
+				"se": "Du kan gå med den nationella sjukförsäkringen vilket kostar ca9000yen för första året. Med denna sjukförsäkring är du endast ansvarig för 30% av en sjukvårdsräkning. Tandvård är även inkluderad. Vi har skapat en lista över sjukhus och kliniker nära Nihongo Center. Var vänlig kontakta oss genom support@nihongo-center.com för mer information.",
+				"vi": "Bạn có thể đăng ký bảo hiểm quốc gia tại văn phòng chính của phường mình đang sống, trả khoảng 9,000 yên trong năm đầu tiên. Với bảo hiểm sức khỏe, bạn chỉ phải trả 30% trong hóa đơn khám bệnh. Bảo hiểm nha khoa cũng được bao gồm trong chương trình này. Chúng tôi đã tổng hợp một danh sách các bệnh viện và phòng khám gần Nihongo Center. Xin liên lạc với chúng tôi qua support@nihongo-center.com để biết thêm chi tiết."
 			}
 		},
 		{
@@ -87,7 +96,8 @@
 				"fr": "Que pouvez-vous me dire sur les coûtumes japonaises ou la façon de penser des Japonais ?",
 				"zh-hant": "請告訴我有關日本的風俗，或日本人思考的方式？",
 				"id": "Apa yang bisa Anda ceritakan tentang adat istiadat Jepang, atau cara Jepang berpikir?",
-				"se": "Vilka japanska seder och tankesätt bör jag tänka på?"
+				"se": "Vilka japanska seder och tankesätt bör jag tänka på?",
+				"vi": "Xin cho tôi biết thêm về phong tục tập quán hay cách suy nghĩ của người Nhật?"
 			},
 			"answer": {
 				"en": "It is important to be punctual and to keep promises when meeting with Japanese people. In addition, the Japanese will do what they can to avoid causing trouble for others. As such, it is best to refrain from shouting or making a lot of noise, whether at home or out in public. Also, Japanese people love cleanliness, so it is a good idea to take care of your personal appearance and keep your surroundings clean and organized. In general, the Japanese are very kind and polite people, so please treat others with the same kindness and respect that you are shown.",
@@ -95,7 +105,8 @@
 				"fr": "Il est important d'être ponctuel et de tenir ses promesses lorsque vous rencontrez des Japonais. De plus, les Japonais essaieront par tous les moyens d'éviter de gêner les autres. De fait, il est préférable de se retenir de crier ou de faire beaucoup de bruit, que ce soit chez vous ou en publique. Les japonais aiment la propreté, il est donc préférable de garder une bonne hygiène de vie. En général, les japonais sont très gentils et polis donc traitez les autres avec la même gentillesse et le même respect dont on vous a fait part.",
 				"zh-hant": "見面要守時、守承諾對日本人來說是很重要的。日本人將竭盡所能避免造成他人麻煩的事。因此，無論在家裡或外面，都不要大聲叫囂或製造噪音。此外，日本人愛乾淨，所以請保持好個人形象，並保持周圍環境整潔有序。一般情況下，日本人是很親切、有禮貌的，所以請善待他人並表現同樣的善良和尊重。",
 				"id": "Sangat penting untuk tepat waktu dan untuk menepati janji saat bertemu dengan orang-orang Jepang. Selain itu, orang Jepang akan melakukan apa yang mereka bisa untuk menghindari menyebabkan masalah bagi orang lain. Karena itu, yang terbaik adalah untuk menahan diri dari berteriak atau membuat banyak suara, apakah di rumah atau di depan umum. Dan juga, orang Jepang menghargai kebersihan, sehingga penting untuk menjaga penampilan pribadi Anda dan menjaga lingkungan Anda yang bersih dan terorganisir. Secara umum, orang Jepang adalah orang yang sangat baik dan sopan, maka dari itu memperlakukanlah orang lain dengan kebaikan dan hormat.",
-				"se": "Det är viktigt att vara punktlig och att hålla löften med japaner. Japaner gör även sitt yttersta för att undvika att orsaka problem för andra. På grund av detta är det säkrast att låta bli att ropa och vara högljud i hemmet och även ute i allmänheten. Japaner tycker även om renlighet så ta hand om ditt yttre och håll din omgivning ren och organiserad."
+				"se": "Det är viktigt att vara punktlig och att hålla löften med japaner. Japaner gör även sitt yttersta för att undvika att orsaka problem för andra. På grund av detta är det säkrast att låta bli att ropa och vara högljud i hemmet och även ute i allmänheten. Japaner tycker även om renlighet så ta hand om ditt yttre och håll din omgivning ren och organiserad.",
+				"vi": "Đến đúng giờ và giữ lời hứa là điều rất quan trọng khi bạn gặp gỡ giao lưu với người Nhật. Hơn nữa, người Nhật rất lưu ý hành vi của bản thân để tránh gây phiền hà cho người khác. Vì vậy, xin đừng lớn tiếng hay gây ồn ào, cho dù bạn ở nhà hay ở nơi công cộng. Ngoài ra, người Nhật thích sạch sẽ, nên bạn cũng nên chú ý  đến vẻ bề ngoài của bản thân và quét dọn nhà cửa thường xuyên. Nói chung, phần lớn người Nhật rất tử tế và lịch sự, nên xin hãy đáp lại sự thân thiện và tôn trọng mà họ dành cho bạn một cách tốt nhất."
 			}
 		},
 		{
@@ -105,7 +116,8 @@
 				"fr": "Quelles sont les opportunités d'avenir envisageables ?",
 				"zh-hant": "學習日文未來有什麼樣的發展？",
 				"id": "Apa jenis prospek masa depan yang saya miliki?",
-				"se": "Vilka framtidsutsikter finns?"
+				"se": "Vilka framtidsutsikter finns?",
+				"vi": "Tôi có lựa chọn nào cho tương lai ?"
 			},
 			"answer": {
 				"en": "Aside from continuing your education in Japan, if you have already graduated from university it is possible to work for a Japanese company. There are currently many companies looking for talented foreign staff with a strong command of Japanese, so there are many opportunities for you. Many students go on to work at a Japanese company after graduating from Nihongo Center.",
@@ -113,7 +125,8 @@
 				"fr": "Hormis la possibilité de continuer vos études à l'université, si vous êtes déjà diplômé, il est possible de travailler pour une entreprise japonaise. Il y a actuellement beaucoup d'entreprises qui recherchent des étrangers talentueux ayant une bonne compréhension du japonais. De nombreux étudiants trouvent du travail après être diplômés du Nihongo Center.",
 				"zh-hant": "你可以繼續在日本接受教育，如果你已經大學畢業就可以在日本公司工作。目前有許多公司正在尋找有才華的且會日語的外籍員工，所以你會有很多的機會。許多日本語中心畢業後的學生進入到日本公司工作。",
 				"id": "Selain melanjutkan pendidikan di Jepang, jika Anda telah lulus dari universitas Anda dapat bekerja untuk sebuah perusahaan Jepang. Saat ini ada banyak perusahaan mencari staf asing yang memiliki bakat dalam Bahasa Jepang, sehingga ada banyak kesempatan untuk Anda. Banyak siswa pergi untuk bekerja di sebuah perusahaan Jepang setelah lulus dari Nihongo Center. ",
-				"se": "Utöver att fortsätta studier i Japan, om du redan har en examen från universitet eller högskola finns det möjlighet att jobba för ett japanskt företag. Det finns en mängd företag i Japan som söker utländsk personal som behärskar japanska. Med andra ord finns det många möjligheter i Japan. Många studenter går vidare till att arbeta på japanska företag efter de studerat på Nihongo Center."
+				"se": "Utöver att fortsätta studier i Japan, om du redan har en examen från universitet eller högskola finns det möjlighet att jobba för ett japanskt företag. Det finns en mängd företag i Japan som söker utländsk personal som behärskar japanska. Med andra ord finns det många möjligheter i Japan. Många studenter går vidare till att arbeta på japanska företag efter de studerat på Nihongo Center.",
+				"vi": "Ngoài việc tiếp tục trau dồi kiến thức tại Nhật Bản, nếu bạn đã tốt nghiệp đại học bạn có thể kiếm được việc làm tại một công ty Nhật. Hiện nay nhiều công ty tìm kiếm nhân viên người nước ngoài có năng lực và có trình độ tiếng Nhật cao, nên có rất nhiều cơ hội dành cho bạn. Khá nhiều học viên làm việc cho công ty Nhật Bản sau khi kết thúc chương học tại Nihongo Center."
 			}
 		},
 		{
@@ -123,7 +136,8 @@
 				"fr": "Puis-je trouver un travail à mi-temps ?",
 				"zh-hant": "我可以打工嗎？",
 				"id": "Dapatkah saya bekerja pekerjaan paruh waktu?",
-				"se": "Kan jag arbeta deltid?"
+				"se": "Kan jag arbeta deltid?",
+				"vi": "Tôi có thể làm việc bán thời gian hay không?"
 			},
 			"answer": {
 				"en": "A student visa allows you to work part time in Japan. One of the quickest ways to find a job is by getting information from other students who have already found jobs. Please also check with the office, as we sometimes receive information on job openings. Please be aware that Japanese ability is sometimes required for certain jobs. If you are interested in teaching private lessons, you can post an advertisement on the notice board at Kyoto’s International Exchange Center (Kokusai Koryukaikan)",
@@ -131,7 +145,9 @@
 				"fr": "Un visa étudiant vous permer de travailler au Japon. Le moyen le plus rapide pour trouver un travail est de demander des informations aux étudiants en ayant déjà un. Vous pouvez également demander à l'accueil car nous reçevons régulièrement des annonces. Pensez quand même que les capacités en japonais demandées ne sont pas les mêmes pour tous les jobs. Si vous êtes intéressé pour donner des cours privés vous pouvez poster une annonce sur le tableau du Centre d'Echange International de Kyoto.",
 				"zh-hant": "學生簽證允許是在日本打工的，其中一個找工作最快的方法是通過其他已經在打工的學生獲取打工信息。另外，也可以詢問辦公室，因為我們有時會收到關於職位空缺的信息。請注意，有一定的日語能力會增加就業機會。如果你有興趣找家教等工作，你可以在京都國際交流會館在佈告欄上張貼廣告。",
 				"id": "Visa pelajar memungkinkan Anda untuk bekerja paruh waktu di Jepang. Salah satu cara tercepat untuk menemukan pekerjaan adalah dengan mendapatkan informasi dari siswa lain yang telah menemukan pekerjaan. Silakan juga periksa dengan kantor, terkadang kami menerima informasi tentang lowongan pekerjaan. Perlu diketahui bahwa kemampuan Bahasa Jepang kadang diperlukan untuk pekerjaan tertentu. Jika Anda tertarik untuk mengajar les privat, Anda dapat memposting iklan di papan pengumuman di Exchange Center International Kyoto (Kokusai Koryukaikan).",
-				"se": "Ett studentvisum tillåter dig att jobba deltid i Japan. Snabbaste sättet att hitta jobb är att rådfråga andra studenter som redan arbetar. Kolla även med skolans personal efter det händer att skolan kontaktas av företag. Var uppmärksam på att olika jobb kräver olika nivåer av Japanska. Om du är intresserad av att lära ut t.ex. engelska genom privat lektioner kan du sätta upp en annons vid Kyotos internationella utbytes center (Kokusai Koryukaikan)."}
+				"se": "Ett studentvisum tillåter dig att jobba deltid i Japan. Snabbaste sättet att hitta jobb är att rådfråga andra studenter som redan arbetar. Kolla även med skolans personal efter det händer att skolan kontaktas av företag. Var uppmärksam på att olika jobb kräver olika nivåer av Japanska. Om du är intresserad av att lära ut t.ex. engelska genom privat lektioner kan du sätta upp en annons vid Kyotos internationella utbytes center (Kokusai Koryukaikan).",
+				"vi": "Thị thực Du học sinh cho phép bạn làm việc bán thời gian tại Nhật. Một trong những cách kiếm việc nhanh nhất là thu thập thông tin từ các học viên khác đã kiếm được việc. Bạn cũng có thể hỏi thăm tại văn phòng, vì chúng tôi đôi lúc nhận được các thông tin tuyển người. Xin lưu ý rằng một số công việc đòi hỏi phải có trình độ tiếng Nhật nhất định. Nếu bạn quan tâm đến việc dạy thêm, bạn có thể đăng thông báo tìm học viên tại bảng thông báo ở Trung tâm Trao đổi Quốc tế Kyoto (Kokusai Koryukaikan)."
+			}
 		},
 		{
 			"question": {
@@ -140,7 +156,8 @@
 				"fr": "Comment puis-je me faire des amis Japonais ?",
 				"zh-hant": "要如何交到日本人的朋友？",
 				"id": "Bagaimana cara saya membuat teman orang Jepang?",
-				"se": "Var kan lättast skaffa japanska vänner?"
+				"se": "Var kan lättast skaffa japanska vänner?",
+				"vi": "Làm sao để kết bạn với người Nhật?"
 			},
 			"answer": {
 				"en": "We recommend joining a gym, martial arts group, or other cultural activity. Since Japanese tend to be shy, you might want to try approaching them first. However, many people are quite interested in foreigners, so if you are proactive you can easily make good friends. One of our students was studying Japanese at Starbucks, when he asked someone sitting nearby a question about the material. They began talking, and in the end planned to meet again for a date. Smart idea!",
@@ -148,7 +165,8 @@
 				"fr": "Nous vous recommandons de rejoindre un club de gym, d'art martiaux, ou de toute autre activité culturelle. Les Japonais étant bien souvent timides, vous aurez à faire le premier pas. Cependant beaucoup de personnes sont intéressés par les étrangers donc si vous êtes avenant vous n'aurez pas de problèmes à vous faire des amis. Un de nos étudiants qui révisait ses cours au Starbucks demanda de l'aide à la personne à coté de lui. Ils commencèrent à parler pour finalement conclure d'un rendez-vous. Bonne idée !",
 				"zh-hant": "我們建議加入健身房、武術團、或其他文化活動。由於日本的人往往比較害羞，一開始你可以先嘗試主動跟他們打招呼。然而，很多人都對外國人很感興趣，所以如果你以積極的個性與他們交談，可以很容易作好朋友的。我們的一個學生是在星巴克讀日語時，然後他問了旁邊的人一些日語相關的問題，於是開始交談，並再約下次見面。很聰明吧！",
 				"id": "Sebaiknya bergabung dengan gym, kelompok bela diri, atau kegiatan budaya lainnya. Karena orang Jepang cenderung pemalu, Anda mungkin harus menjadi yang pertama untuk mencoba mendekati mereka. Namun, banyak orang yang cukup tertarik dengan orang asing, jadi jika Anda proaktif Anda dapat dengan mudah membuat teman-teman yang baik. Salah satu siswa kami belajar bahasa Jepang di Starbucks dan ia meminta seseorang yang duduk di dekatnya untuk menjawab sebuah pertanyaan tentang materi pelajaran. Mereka mulai berbicara, dan pada akhirnya merencanakan untuk bertemu lagi untuk kencan. Ide yang cerdas!",
-				"se": "Vi rekomenderar att gå med gym, kampsportsklubb eller annan typ av kulturell aktivitet. Japaner anses vara blyga men många är intresserade av utländska kulturer så om du är utåtriktad och tar kontakt med dem så kan du lätt få bra vänner. Till exempel en av våra studender satt på Starbucks och studerade, han ställde en fråga till en närsittande japan vilket ledde till att de började prata och de bestämde sig för att träffas igen på en dejt. Bra tänkt!"
+				"se": "Vi rekomenderar att gå med gym, kampsportsklubb eller annan typ av kulturell aktivitet. Japaner anses vara blyga men många är intresserade av utländska kulturer så om du är utåtriktad och tar kontakt med dem så kan du lätt få bra vänner. Till exempel en av våra studender satt på Starbucks och studerade, han ställde en fråga till en närsittande japan vilket ledde till att de började prata och de bestämde sig för att träffas igen på en dejt. Bra tänkt!",
+				"vi": "Chúng tôi khuyên bạn nên đến phòng tập thể hình, tham gia câu lạc bộ võ thuật hoặc các hoạt động văn hóa khác. Người Nhật thường hay nhút nhát, nên bạn cần chủ động làm quen trước. Tuy nhiên, rất nhiều người muốn giao lưu với người nước ngoài, nên nếu bạn thân thiện cởi mở bạn có thể kết bạn một cách dễ dàng. Một trong số học viên của trường chúng tôi khi đang tự học tại Starbucks, đã hỏi một người ngồi bên cạnh một câu hỏi liên quan đến tiếng Nhật. Hai người họ bắt đầu nói chuyện với nhau và sau đó quyết định cùng gặp gỡ trao đổi tiếp vào một ngày khác. Một ý tưởng hay để làm quen!"
 			}
 		},
 		{
@@ -158,7 +176,8 @@
 				"fr": "Quel est le meilleur moyen pour réjoindre mon logement de l'aéroport ?",
 				"zh-hant": "從機場到我住宿的地方最快捷的方式是什麼？",
 				"id": "Apa cara terbaik untuk pergi dari bandara ke akomodasi saya?",
-				"se": "Vad är lättaste sättet att ta sig från flygplatsen till mitt boende?"
+				"se": "Vad är lättaste sättet att ta sig från flygplatsen till mitt boende?",
+				"vi": "Cách nào là tốt nhất để đi từ phi trường đến chỗ ở của tôi?"
 			},
 			"answer": {
 				"en": "For those who wish, Nihongo Center can arrange for the MK shuttle bus to take you from Kansai Airport to your housing or the school. The price is 3,600 yen per person, and you can take up to 1 suitcase and 1 hand luggage for free. The price is 1,000 yen for each additional luggage after that. A member of MK staff will be waiting for you outside of customs, holding a sign with your name on it, so there is no need to worry. (Please note that MK does not offer the name-plate service from 8 pm to 8 am, so if you arrive during this time please go directly to the MK service counter to the left of the H Gate.)",
@@ -166,7 +185,8 @@
 				"fr": "Pour ceux qui le souhaite, Nihongo center peut faire une réservation de la navette MK pour vous ammener de l'aéroport du Kansai jusqu'à votre logement ou à l'école. Le prix est de 3,600 yens par personne, et vous pouvez avoir une valise + 1 sac. Tout bagage supplémentaire coûte 1000 yens par bagage. Un membre de la compagnie vous attendra avec une pancarte à votre nom.(Il est à noter que la compagnie ne propose pas de pancarte entre 20:00 et 8:00, donc si vous arrivez dans cette tranche d'horaire, veuillez vous rendre directement au comptoir de la compagnie sur la gauche de la porte H.)",
 				"zh-hant": "若你願意，日本語中心可以安排MK接駁帶你從關西機場到您的房屋或學校。價格是每人3600日圓，一個手提箱和1個手提包是免加費用的。之後每增加一件行李是1000日圓。 MK一名工作人員將關外等你，就可以了舉著牌子您的姓名，所以沒有必要擔心。 （請注意，MK不會從晚上8點提供銘牌服務至8日凌晨，所以如果你在這段時間內抵達，請直接到MK服務櫃檯H門的左邊。）",
 				"id": "Bagi mereka yang memerlukan, Nihongo Center dapat mengatur shuttle bus MK untuk membawa Anda dari Kansai Airport ke perumahan atau sekolah. Dengan harga 3.600 yen per orang, Anda dapat membawa 1 koper dan 1 tas tangan secara gratis. Tambahan bagasi setelah itu akan ditambah 1.000 yen per koper. Seorang anggota staf MK akan menunggu Anda di luar area bea cukai sambil memegang tanda dengan nama Anda di atasnya, sehingga Anda tidak perlu khawatir. (Harap dicatat bahwa MK tidak menawarkan layanan papan nama pada 08:00-08:00, jadi jika Anda tiba selama waktu ini silahkan langsung ke MK layanan counter di sebelah kiri Pintu Gerbang H.)",
-				"se": "För de som önskar kan Nihongo Center boka en MK shuttle bus från flygplatsen till ditt boende eller skolan. Priset är 3600yen per person och då kan du ha med dig e resväska och ett hand baggage gratis. Utöver det kostar varje väska 1000yen. Personal från MK kommer vänta på dig utanför tullen och ha en skylt med ditt namn så det blir lätt att hitta. (OBS! Mellan kl20 och kl8 har MK ingen skyltservice utan du måste ta dig till MKs service monter som ligger till vänster om H Gaten.)"
+				"se": "För de som önskar kan Nihongo Center boka en MK shuttle bus från flygplatsen till ditt boende eller skolan. Priset är 3600yen per person och då kan du ha med dig e resväska och ett hand baggage gratis. Utöver det kostar varje väska 1000yen. Personal från MK kommer vänta på dig utanför tullen och ha en skylt med ditt namn så det blir lätt att hitta. (OBS! Mellan kl20 och kl8 har MK ingen skyltservice utan du måste ta dig till MKs service monter som ligger till vänster om H Gaten.)",
+				"vi": "Dành cho những ai quan tâm, Nihongo Center có thể giúp bạn đăng ký dịch vụ xe MK (MK shuttle bus) đưa bạn từ Kansai Airport - Sân bay Kansai đến thẳng nhà bạn hay trường chúng tôi. Giá vé là 3,600 yên / người, 1 hành lý xách tay cùng với 1 hành lý ký gửi của bạn sẽ không bị tính thêm phí. Với mỗi hành lý gửi thêm bạn sẽ trả thêm 1000 yên. Nhân viên của MK sẽ đợi bạn ngay bên ngoài cửa khẩu hải quan, cầm bảng tên của bạn, nên bạn không cần phải lo lắng. (Xin lưu ý MK sẽ không cung cấp dịch vụ cầm bảng tên từ 8 pm đến 8 am, nên nếu bạn đến trong khoảng thời gian này xin hãy đến thẳng quầy dịch vụ của MK nằm bên trái cửa H.)"
 			}
 		},
 		{
