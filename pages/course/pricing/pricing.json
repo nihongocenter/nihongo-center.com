@@ -5,7 +5,8 @@
 		"fr": "Tarifs",
 		"zh-hant": "費用",
 		"id": "Harga",
-		"se": "Prisuppgifter"
+		"se": "Prisuppgifter",
+		"vi": "Giá cả"
 	},
 	"lead": {
 		"en": "The course price depends on how long you want to study Japanese at Nihongo Center:",
@@ -13,7 +14,8 @@
 		"fr": "Les tarifs des programmes dépendent de la durée où vous souhaitez étudier au Nihongo Center",
 		"zh-hant": "所需費用與所選課程的期數時間長短而不同:",
 		"id": "Harga ditentukan pada berapa lama Anda ingin belajar bahasa Jepang di Nihongo Center:",
-		"se": "Kursavgift beror på hur länge du vill studera japanska på Nihongo Center:"
+		"se": "Kursavgift beror på hur länge du vill studera japanska på Nihongo Center:",
+		"vi": "Giá học phí thay đổi tùy thuộc vào việc bạn quyết định học bao lâu tại Nihongo Center:"
 	},
 	"pricing": {
 		"visa": {
@@ -22,7 +24,8 @@
 			"fr": "Frais de demande de visa",
 			"zh-hant": "簽證申請費",
 			"id": "Biaya aplikasi visa",
-			"se": "VisumAvgift"
+			"se": "VisumAvgift",
+			"vi": "Phí xin thị thực"
 		},
 		"registration": {
 			"en": "Registration fee",
@@ -30,7 +33,8 @@
 			"fr": "Frais d'inscription",
 			"zh-hant": "註冊費",
 			"id": "Biaya pendaftaran",
-			"se": "Inskrivningsavgift"
+			"se": "Inskrivningsavgift",
+			"vi": "Phí đăng ký"
 		},
 		"textbooks": {
 			"en": "Textbooks",
@@ -38,7 +42,8 @@
 			"fr": "Manuels",
 			"zh-hant": "教科書",
 			"id": "Buku teks",
-			"se": "Kurslitteratur"
+			"se": "Kurslitteratur",
+			"vi": "Giáo trình"
 		},
 		"tuition": {
 			"en": "Tuition",
@@ -46,7 +51,8 @@
 			"fr": "Frais de scolarité",
 			"zh-hant": "學費",
 			"id": "Uang sekolah",
-			"se": "Kursavgift"
+			"se": "Kursavgift",
+			"vi": "Học phí"
 		},
 		"total": {
 			"en": "Total",
@@ -54,7 +60,8 @@
 			"fr": "Total",
 			"zh-hant": "總計",
 			"id": "Total",
-			"se": "Totalt"
+			"se": "Totalt",
+			"vi": "Tổng cộng"
 		}
 	},
 	"popular": {
@@ -63,7 +70,8 @@
 		"fr": "Populaire",
 		"zh-hant": "受歡迎",
 		"id": "Populer",
-		"se": "Populär"
+		"se": "Populär",
+		"vi": "Thông dụng"
 	},
 	"duration": {
 		"10 weeks": {
@@ -72,7 +80,8 @@
 			"fr": "10 semaines",
 			"zh-hant": "10週",
 			"id": "10 minggu",
-			"se": "10 veckors"
+			"se": "10 veckors",
+			"vi": "10 tuần"
 		},
 		"20 weeks": {
 			"en": "20 weeks",
@@ -80,7 +89,8 @@
 			"fr": "20 semaines",
 			"zh-hant": "20週",
 			"id": "20 minggu",
-			"se": "20 veckors"
+			"se": "20 veckors",
+			"vi": "20 tuần"
 		},
 		"6 months": {
 			"en": "6 months",
@@ -88,7 +98,8 @@
 			"fr": "6 mois",
 			"zh-hant": "6個月",
 			"id": "6 bulan",
-			"se": "6 månaders"
+			"se": "6 månaders",
+			"vi": "6 tháng"
 		},
 		"1 year": {
 			"en": "1 year",
@@ -97,13 +108,15 @@
 			"zh-hant": "1年",
 			"id": "1 tahun",
 			"se": "1 års",
+			"vi": "1 năm",
 			"note": {
 				"en": "For this course you don't need to pay everything at once.",
 				"ja": "分割払いが可能です。",
 				"fr": "Pour ce programme vous n'êtes pas obligé de payer tout en une fois.",
 				"zh-hant": "此課程可以不需要一次全部付清款項",
 				"id": "Untuk kursus ini Anda tidak perlu membayar semuanya sekaligus.",
-				"se": "För denna kurs behöver du ej betala allt på en gång."
+				"se": "För denna kurs behöver du ej betala allt på en gång.",
+				"vi": "Khóa học này không đòi hỏi bạn phải thanh toán toàn bộ học phí trong một lần."
 			}
 		},
 		"2 years": {
@@ -113,13 +126,15 @@
 			"zh-hant": "2年",
 			"id": "2 tahun",
 			"se": "2 års",
+			"vi": "2 năm",
 			"note": {
 				"en": "For this course you don't need to pay everything at once.",
 				"ja": "分割払いが可能です。",
 				"fr": "Pour ce programme vous n'êtes pas obligé de payer tout en une fois.",
 				"zh-hant": "此課程可以不需要一次全部付清款項",
 				"id": "Untuk kursus ini Anda tidak perlu membayar semuanya sekaligus.",
-				"se": "För denna kurs behöver du ej betala allt på en gång."
+				"se": "För denna kurs behöver du ej betala allt på en gång.",
+				"vi": "Khóa học này không đòi hỏi bạn phải thanh toán toàn bộ học phí trong một lần."
 			}
 		}
 	}
