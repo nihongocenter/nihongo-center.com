@@ -31,7 +31,8 @@
 			"fr": "Le JLPT se divise en **5 niveaux**, allant du N5 (le plus facile) au N1 (le plus difficile). La plupart des universités et des entreprises demandent de posséder au moins le N2.",
 			"zh-hant": "JLPT非為**5 個等級** 等級從 N5 (最容易) 到 N1 (最難)。大部分的大學以及公司都要求至少要有N2的證書。",
 			"id": "JLPT memiliki **5 tingkat** mulai dari N5 (termudah) ke N1 (paling sulit). Sebagian besar universitas dan tempat kerja mengharuskan Anda untuk memiliki setidaknya sertifikasi JLPT N2.",
-			"se": "JLPT har **5 nivåer** de är mellan N5 (lättast) till N1 (svårast). De flesta universitet och arbetsplatser kräver åtminstone  JLPT N2 certifikat."
+			"se": "JLPT har **5 nivåer** de är mellan N5 (lättast) till N1 (svårast). De flesta universitet och arbetsplatser kräver åtminstone  JLPT N2 certifikat.",
+			"vi": "Kỳ thi JLPT bao gồm **5 trình độ** xếp từ N5 (dễ nhất) cho đến N1 (khó nhất). Phần lớn các đại học và các văn phòng làm việc đòi hỏi bạn phải đạt ít nhất trình độ N2."
 		}
 	},
 	"certification": {
@@ -41,13 +42,15 @@
 		"zh-hant": "取得證書",
 		"id": "Mendapatkan Sertifikasi",
 		"se": "Erhålla certifikat",
+		"vi": "Not translated",
 		"text": {
 			"en": "Although passing the JLPT is more difficult than you might expect, passing Level N1 will greatly increase your chances of entering a Japanese university or graduate school, or obtaining employment at a Japanese corporation. Passing Level N2 will greatly increase your chances of entering a Japanese technical college.If you are considering using Japanese at your job after returning to your native country, we recommend that you try to pass Level N2 or higher. Nihongo Center will give our utmost support to students who are trying to achieve high goals.",
 			"ja": "JLPTに合格するのは皆さんにとって予想以上に難しい部分もあるかもしれませんが、もしN1に合格できれば、日本の大学や大学院への進学を目指す方々や、日系企業への就職を目指す方々にとってとても有効な資格です。また、N2に合格すれば、専門学校への入学のチャンスがあります。もし皆さんが日本語センターを卒業後、母国へ帰ってから日本語を使用する機会のある職場へ就職する場合はN2以上を取得することをおすすめします。皆さんのどのような目標にも、私たちスタッフが実現のために全力でサポートします。",
 			"fr": "Réussir le JLPT peut paraître plus difficile que prévu au premier abord, mais avoir le N1 augmentera grandement vos chances d'entrer dans une université japonaise, en master, ou de trouver un travail. Obtenir le N2 vous permettra d'intégrer des écoles spécialisées. Si vous envisagez d'utiliser le japonais dans votre travail dans votre pays d'origine, nous vous recommandons d'essayer de passer le N2 ou plus. Nihongo Center apporte tout le soutien nécessaire aux étudiants qui souhaitent atteindre de grands objectifs.",
 			"zh-hant": "雖然要通過JLPT可能比你想像的更困難，但是取得N1證書會大大增加你進入日本的大學或研究所、或者在日本公司獲得就業機會。取得N2證書會大幅增加你進入日本技職學院的機會。如果你在返回自己的國家後，你的工作可能需要具備日文能力，我們建議你取得N2以上的證書。日本語中心會給試圖提供幫助，給想要實現更高目標的學生最大的支持。",
 			"id": "Meskipun melewati JLPT lebih sulit daripada yang Anda harapkan, melewati Tingkat N1 akan sangat meningkatkan peluang Anda untuk masuk universitas atau lulusan sekolah Jepang, atau mendapatkan pekerjaan di sebuah perusahaan Jepang. Melewati Tingkat N2 akan sangat meningkatkan peluang Anda untuk memasuki kuliah di Jepang. Jika Anda sedang mempertimbangkan untuk menggunakan bahasa Jepang pada pekerjaan Anda setelah kembali ke negara asal Anda, kami sarankan agar Anda mencoba untuk lulus Tingkat N2 atau lebih tinggi. Nihongo Center akan memberikan dukungan yang terbaik untuk siswa yang berusaha untuk mencapai tujuan yang tinggi.",
-			"se": "Det kan verka svårt att klara av JLPT testen men ett godkänt N1 test ökar dina chanser mycket för att studera på ett japanskt universiet eller få anställning inom ett japanskt företag. Att klara N2 ökar dina chanser att komma in på en japansk teknisk högskola. Om du planerar att använda japanska i ett jobb efter att du återvänt till ditt hemland rekomenderas att du passerar N2 eller högre. Nihongo Center gör vårt yttersta för att hjälpa studenter med höga ambitioner att nå sina mål."
+			"se": "Det kan verka svårt att klara av JLPT testen men ett godkänt N1 test ökar dina chanser mycket för att studera på ett japanskt universiet eller få anställning inom ett japanskt företag. Att klara N2 ökar dina chanser att komma in på en japansk teknisk högskola. Om du planerar att använda japanska i ett jobb efter att du återvänt till ditt hemland rekomenderas att du passerar N2 eller högre. Nihongo Center gör vårt yttersta för att hjälpa studenter med höga ambitioner att nå sina mål.",
+			"vi": "Mặc dù dự thi JLPT khó khăn hơn bạn nghĩ, đạt được trình độ N1 sẽ nâng cao cơ hội cho bạn được nhận vào một trường đại học Nhật Bản hay trường cao học, hoặc kiếm được việc làm tại một công ty Nhật. Đạt trình độ N2 sẽ nâng cao cơ hội cho bạn vào học tại một trường đại học kỹ thuật Nhật Bản. Nếu bạn muốn sử dụng tiếng Nhật trong công việc khi trở về nước, chúng tôi khuyên bạn nên dự thi trình độ N2 hoặc cao hơn. Nihongo Center luôn sẵn sàng trợ giúp các học viên phấn đấu để đạt được các mục tiêu mang tính thử thách cao."
 		},
 		"N1": {
 			"en": "(Student with N1 Certification)",
