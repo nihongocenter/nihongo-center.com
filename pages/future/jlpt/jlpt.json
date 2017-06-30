@@ -5,7 +5,8 @@
 		"fr": "JLPT",
 		"zh-hant": "JLPT",
 		"id": "JLPT",
-		"se": "JLPT"
+		"se": "JLPT",
+		"vi": "JLPT"
 	},
 	"lead": {
 		"en": "The [Japanese Language Proficiency Test](http://www.jlpt.jp/), or JLPT, is a certification examination that verifies the Japanese ability of people whose native language is not Japanese. The JLPT was started in 1984 by the Japan Foundation and the Association of International Education, Japan (currently the Japan Educational Exchanges and Services). A total of approximately 7,000 people from throughout the world took the first-ever JLPT. However, the number of worldwide examines increased to about 770,000 for the 2009 examination, making the JLPT the largest Japanese language examination in the world.",
@@ -13,7 +14,8 @@
 		"fr": "Le [Test d'Aptitude en Langue Japonaise](http://www.jlpt.jp/) ou JLPT, est un examen qui vérifie les capacités en japonais des personnes non-natives. Le JLPT a été crée en 1984 par la Japan Foundation et l'Association of International Education, Japan (AIEJ) (actuellement Japan Educational Exchanges and Services). Environ 7,000 personnes à travers le monde ont passé le premier examen du JLPT. Cependant, le nombre de participant a atteind les 770,000 à la session de 2009, faisant du JLPT l'examen de japonais le plus populaire au monde.",
 		"zh-hant": "[日本語能力測試](http://www.jlpt.jp/) JLPT, 是針對母語非日文的人所提供的日文能力認證的考試。JLPT是1984由日本國際交流基金會和日本國際教育協會始辦 (目前為本國際教育支援協會)。共有來自世界各地總共大約7000人接受了有史以來第一次的日語能力考試。然而，2009年時，全球報考人數增至約77萬，使JLPT成為了全球最大的語言考試。",
 		"id": "[Ujian Kemampuan Bahasa Jepang] (http://www.jlpt.jp/), atau JLPT, adalah ujian sertifikasi yang memverifikasi kemampuan bahasa Jepang orang yang bahasa ibunya bukan bahasa Jepang. JLPT dimulai pada tahun 1984 oleh Japan Foundation dan Asosiasi Pendidikan Internasional, Jepang (saat ini Bursa Jepang Pendidikan dan Layanan). Sekitar 7.000 orang dari seluruh dunia mengambil ujian JLPT pertama. Namun, jumlah seluruh dunia meningkat menjadi sekitar 770.000 untuk 2009, membuat JLPT ujian bahasa Jepang terbesar di dunia. ",
-		"se": "[Japanskt språkfärdighetstest](http://www.jlpt.jp/), eller JLPT, är en certifierande prov som verifierar japanska språkkunskaper hos personer med annat modersmål än japanska. JLPT startades 1984 av Japan Foundation och Association of International Education, Japan (Nuvarande, the Japan Educational Exchanges and Services). Totalt omkring 7,000 personer över hela världen tog det första JLPT provet. Men under åren har detta antal ökat och vid provet år 2009 var antalet 770,000 personer. Detta innebär att JLPT är det största Japanska språkfärdighetstestet i världen." 
+		"se": "[Japanskt språkfärdighetstest](http://www.jlpt.jp/), eller JLPT, är en certifierande prov som verifierar japanska språkkunskaper hos personer med annat modersmål än japanska. JLPT startades 1984 av Japan Foundation och Association of International Education, Japan (Nuvarande, the Japan Educational Exchanges and Services). Totalt omkring 7,000 personer över hela världen tog det första JLPT provet. Men under åren har detta antal ökat och vid provet år 2009 var antalet 770,000 personer. Detta innebär att JLPT är det största Japanska språkfärdighetstestet i världen." ,
+		"vi": "[Kỳ thi Năng lực tiếng Nhật] (http://www.jlpt.jp/),  hay JLPT, là một kỳ thi nhằm đánh giá trình độ năng lực Nhật ngữ của những người mà bản ngữ không phải là tiếng Nhật. Kỳ thi JLPT được tổ chức lần đầu tiên vào năm 1984 bởi Japan Foundation (Quỹ giao lưu Quốc tế Nhật Bản) và Association of International Education Japan (Hiệp hội Giáo dục Quốc tế Nhật Bản) (hiện nay đổi thành Japan Educational Exchanges and Services) (Hiệp hội Trao đổi Giáo dục và Dịch vụ Nhật Bản). Khoảng 7,000 người trên toàn thế giới đã tham dự kỳ thi JLPT đầu tiên này. Tuy nhiên, tổng số người dự thi đã tăng lên đến khoảng 770,000 vào năm 2009, giúp JLPT trở thành kỳ thi năng lực tiếng Nhật có quy mô lớn nhất trên toàn thế giới."
 	},
 	"levels": {
 		"en": "Levels",
@@ -22,13 +24,15 @@
 		"zh-hant": "等級",
 		"id": "Tingkat",
 		"se": "Nivåer",
+		"vi": "Trình độ",
 		"text": {
 			"en": "The JLPT has **5 levels** ranging from N5 (easiest) to N1 (hardest). Most universities and work places require you to own at least JLPT N2 certification.",
 			"ja": "JLPTは5段階のレベルに分かれており、N5(初級)からN1(上級)まであります。ほとんどの日本の大学はJLPTのN2を日本語能力の条件としています。",
 			"fr": "Le JLPT se divise en **5 niveaux**, allant du N5 (le plus facile) au N1 (le plus difficile). La plupart des universités et des entreprises demandent de posséder au moins le N2.",
 			"zh-hant": "JLPT非為**5 個等級** 等級從 N5 (最容易) 到 N1 (最難)。大部分的大學以及公司都要求至少要有N2的證書。",
 			"id": "JLPT memiliki **5 tingkat** mulai dari N5 (termudah) ke N1 (paling sulit). Sebagian besar universitas dan tempat kerja mengharuskan Anda untuk memiliki setidaknya sertifikasi JLPT N2.",
-			"se": "JLPT har **5 nivåer** de är mellan N5 (lättast) till N1 (svårast). De flesta universitet och arbetsplatser kräver åtminstone  JLPT N2 certifikat."
+			"se": "JLPT har **5 nivåer** de är mellan N5 (lättast) till N1 (svårast). De flesta universitet och arbetsplatser kräver åtminstone  JLPT N2 certifikat.",
+			"vi": "Kỳ thi JLPT bao gồm **5 trình độ** xếp từ N5 (dễ nhất) cho đến N1 (khó nhất). Phần lớn các đại học và các văn phòng làm việc đòi hỏi bạn phải đạt ít nhất trình độ N2."
 		}
 	},
 	"certification": {
@@ -44,7 +48,8 @@
 			"fr": "Réussir le JLPT peut paraître plus difficile que prévu au premier abord, mais avoir le N1 augmentera grandement vos chances d'entrer dans une université japonaise, en master, ou de trouver un travail. Obtenir le N2 vous permettra d'intégrer des écoles spécialisées. Si vous envisagez d'utiliser le japonais dans votre travail dans votre pays d'origine, nous vous recommandons d'essayer de passer le N2 ou plus. Nihongo Center apporte tout le soutien nécessaire aux étudiants qui souhaitent atteindre de grands objectifs.",
 			"zh-hant": "雖然要通過JLPT可能比你想像的更困難，但是取得N1證書會大大增加你進入日本的大學或研究所、或者在日本公司獲得就業機會。取得N2證書會大幅增加你進入日本技職學院的機會。如果你在返回自己的國家後，你的工作可能需要具備日文能力，我們建議你取得N2以上的證書。日本語中心會給試圖提供幫助，給想要實現更高目標的學生最大的支持。",
 			"id": "Meskipun melewati JLPT lebih sulit daripada yang Anda harapkan, melewati Tingkat N1 akan sangat meningkatkan peluang Anda untuk masuk universitas atau lulusan sekolah Jepang, atau mendapatkan pekerjaan di sebuah perusahaan Jepang. Melewati Tingkat N2 akan sangat meningkatkan peluang Anda untuk memasuki kuliah di Jepang. Jika Anda sedang mempertimbangkan untuk menggunakan bahasa Jepang pada pekerjaan Anda setelah kembali ke negara asal Anda, kami sarankan agar Anda mencoba untuk lulus Tingkat N2 atau lebih tinggi. Nihongo Center akan memberikan dukungan yang terbaik untuk siswa yang berusaha untuk mencapai tujuan yang tinggi.",
-			"se": "Det kan verka svårt att klara av JLPT testen men ett godkänt N1 test ökar dina chanser mycket för att studera på ett japanskt universiet eller få anställning inom ett japanskt företag. Att klara N2 ökar dina chanser att komma in på en japansk teknisk högskola. Om du planerar att använda japanska i ett jobb efter att du återvänt till ditt hemland rekomenderas att du passerar N2 eller högre. Nihongo Center gör vårt yttersta för att hjälpa studenter med höga ambitioner att nå sina mål."
+			"se": "Det kan verka svårt att klara av JLPT testen men ett godkänt N1 test ökar dina chanser mycket för att studera på ett japanskt universiet eller få anställning inom ett japanskt företag. Att klara N2 ökar dina chanser att komma in på en japansk teknisk högskola. Om du planerar att använda japanska i ett jobb efter att du återvänt till ditt hemland rekomenderas att du passerar N2 eller högre. Nihongo Center gör vårt yttersta för att hjälpa studenter med höga ambitioner att nå sina mål.",
+			"vi": "Mặc dù dự thi JLPT khó khăn hơn bạn nghĩ, đạt được trình độ N1 sẽ nâng cao cơ hội cho bạn được nhận vào một trường đại học Nhật Bản hay trường cao học, hoặc kiếm được việc làm tại một công ty Nhật. Đạt trình độ N2 sẽ nâng cao cơ hội cho bạn vào học tại một trường đại học kỹ thuật Nhật Bản. Nếu bạn muốn sử dụng tiếng Nhật trong công việc khi trở về nước, chúng tôi khuyên bạn nên dự thi trình độ N2 hoặc cao hơn. Nihongo Center luôn sẵn sàng trợ giúp các học viên phấn đấu để đạt được các mục tiêu mang tính thử thách cao."
 		},
 		"N1": {
 			"en": "(Student with N1 Certification)",
@@ -52,7 +57,8 @@
 			"fr": "(Etudiant ayant réussi le N1)",
 			"zh-hant": "(取得N1證書的學生)",
 			"id": "(Siswa dengan Sertifikasi N1)",
-			"se": "(Student med N1 Certifikat)"
+			"se": "(Student med N1 Certifikat)",
+			"vi": "(Học viên với Giấy chứng nhận N1)"
 		},
 		"N2": {
 			"en": "(Student with N2 Certification)",
@@ -60,7 +66,8 @@
 			"fr": "(Etudiant ayant réussi le N2)",
 			"zh-hant": "(取得N2證書的學生)",
 			"id": "(Siswa dengan Sertifikasi N2)",
-			"se": "(Student med N2 Certifikat)"
+			"se": "(Student med N2 Certifikat)",
+			"vi": "(Học viên với Giấy chứng nhận N2)
 		}
 	},
 	"interviews": {
@@ -69,6 +76,7 @@
 		"fr": "Interviews",
 		"zh-hant": "訪問",
 		"id": "Wawancara",
-		"se": "Intervjuer"
+		"se": "Intervjuer",
+		"vi": "Phỏng vấn"
 	}
 }
