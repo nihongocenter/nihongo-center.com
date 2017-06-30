@@ -5,7 +5,8 @@
 		"fr": "Sorties extrascolaires",
 		"zh-hant": "事紀",
 		"id": "Acara",
-		"se": "Evenemang"
+		"se": "Evenemang",
+		"vi": "Sự kiện"
 	},
 	"lead": {
 		"en": "Through project work students are given a chance to put their acquired knowledge to use, by using practical Japanese outside of the class to research, plan, and prepare a presentation. As an example, we will take a look at a beginner’s group who chose to make a presentation about “Wagashi” (Japanese sweets).",
@@ -13,7 +14,8 @@
 		"fr": "Au travers de projets d'études, les étudiants ont l'occasion de mettre à profit leurs acquis, en utilisant le japonais en dehors de la classe pour chercher, planifier et préparer leur présentation. Par exemple, vous pouvez voir une présentation d'un groupe de débutant qui ont pris pour sujet les “Wagashi” (Gâteaux japonais).",
 		"zh-hant": "藉由主題式報告的機會，學生能把自己學到的知識發揮出來，通過一般課程以外關於日本的研究，規劃和準備的演講報告。我們來看看一個選擇做一個關於“和菓子”的初學者報告的範例",
 		"id": "Melalui kegiatan sekolah, siswa diberikan kesempatan untuk menggunakan bahasa yang telah mereka pelajari di kelas, dengan menggunakan Bahasa Jepang yang praktis untuk penelitian, perencanaan, dan mempersiapkan presentasi. Sebagai contoh, kita akan menyaksikan satu kelompok pemula yang memilih untuk memberikan sebuah presentasi tentang “Wagashi” (permen Jepang). ",
-		"se": "Genom projekt arbete får studenter möjlighet att testa deras Japanska utanför klassrummet. Projektet ger studenterna friheten att själva samla in fakta, forska, planera och förbereda en presentation. Som exempel tar vi en titt på en nybörjar grupp som valt att presentera 'Wagashi' (Japanska sötsaker)."
+		"se": "Genom projekt arbete får studenter möjlighet att testa deras Japanska utanför klassrummet. Projektet ger studenterna friheten att själva samla in fakta, forska, planera och förbereda en presentation. Som exempel tar vi en titt på en nybörjar grupp som valt att presentera 'Wagashi' (Japanska sötsaker).",
+		"vi": "Thông qua việc làm nhóm, học viên có cơ hội vận dụng các kiến thức mình đã học, như việc sử dụng tiếng Nhật ngoài giờ học để thu thập thông tin, lên kế hoạch và chuẩn bị bài thuyết trình. Sau đây như một ví dụ, chúng tôi xin giới thiệu về bài thuyết trình của một nhóm học viên trình độ sơ cấp về “Wagashi” (bánh ngọt truyền thống của Nhật Bản)."
 	},
 	"experience": {
 		"en": "Experience",
@@ -22,13 +24,15 @@
 		"zh-hant": "經驗",
 		"id": "Pengalaman",
 		"se": "Uppleva",
+		"vi": "Trải nghiệm",
 		"text": {
 			"en": "First, students decide someplace they’d like to go to or something they’d like to experience based on their interests. This group decided to go to a Wagashi-making event held at a long-standing Japanese sweets shop in Kyoto.",
 			"ja": "プロジェクトの最初には、まずどこかへ行ってみたり、何かを体験してみたりして、学生の興味を引き出すところから始まります。和菓子グループは、京都の老舗和菓子店で開催されている和菓子手作り体験に行ってみることになりました。",
 			"fr": "Tout d'abord les étudiants décident d'un endroit où ils voudraient aller ou qu'ils voudraient expérimenter, basé sur leurs intérêts. Ce groupe a décidé d'aller à un salon de confection de Wagashi tenu par très ancien magasin de Kyoto.",
 			"zh-hant": "首先, 學生決定地點與主題，根據他們自己的興趣進行體驗。這個小組決定去參加在京都歷史悠久的日式點心老舖所辦的和菓子體驗。",
 			"id": "Pertama, siswa menentukan tempat yang ingin mereka kunjungi atau sesuatu yang ingin mereka alami berdasarkan minat mereka. Kelompok ini memutuskan untuk pergi ke acara pembuatan Wagashi yang digelar di sebuah toko permen Jepang kuno di Kyoto.",
-			"se": "Till att börja med bestämmer gruppen sig för vart de vill besöka eller vad de vill testa utifrån deras intressen. Just den här gruppen valde att deltaga på ett Wagashi evenemang i Kyoto där de kan se hur tillverkningen går till."
+			"se": "Till att börja med bestämmer gruppen sig för vart de vill besöka eller vad de vill testa utifrån deras intressen. Just den här gruppen valde att deltaga på ett Wagashi evenemang i Kyoto där de kan se hur tillverkningen går till.",
+			"vi": "Trước hết, các học viên chọn ra một nơi họ muốn tham quan hoặc một hoạt động nào đó họ muốn tham gia tùy theo sở thích riêng của nhóm. Nhóm học viên giới thiệu trên đây đã quyết định tham dự một sự kiện giới thiệu về cách làm Wagashi được tổ chức tại một tiệm chuyên làm bánh Nhật Bản lâu đời ở Kyoto."
 		}
 	},
 	"topic": {
@@ -38,13 +42,15 @@
 		"zh-hant": "選擇主題",
 		"id": "Pilihlah topik",
 		"se": "Välj ett ämne",
+		"vi": "Chọn chủ đề",
 		"text": {
 			"en": "After experiencing it first hand, students decide which specific topic they’d like to research further. This group chose to present themes such as:\n\n* How to make Wagashi\n* History and ingredients\n* Interview with a Wagashi artisan\n* Ingredients and shapes of Wagashi",
 			"ja": "体験してきたことやそこから興味をもったことを出発点に、さらに深めて調べていくテーマを決めます。和菓子グループは、「和菓子の作り方」「歴史と材料」「和菓子職人にインタビュー」「和菓子の材料と形」などのテーマについて発表することにしました。",
 			"fr": "Après avoir expérimenter rapidement, les étudiants décident du sujet qu'ils aimeraient étudier plus en profondeur. Ce groupe a décidé de présenter des thèmes tels que : \n\n* Comment faire des Wagashi\n* Histoire et ingrédients\n* Entretiens avec un artisan\n* Ingrédients et formes des Wagashi",
 			"zh-hant": "體驗製作和菓子之後，學生決定他們想進一步研究其特定的主題。 小組決定了以下的部分\n\n*如何製作和菓子 \n* 歷史與成分\n* 訪問和果子工匠\n* 和菓子的成分與造型",
 			"id": "Setelah mengalami secara langsung, siswa dapat menentukan topik tertentu yang ingin mereka teliti lebih lanjut. Kelompok ini memilih untuk membahas tema-tema seperti:\n\n* Bagaimana membuat Wagashi\n* Sejarah dan bahan\n* Wawancara dengan ahli Wagashi\n* Bahan dan bentuk Wagashi",
-			"se": "Efter att de deltagit i evenemanget så behöver gruppen bestäma sig för mer specifikt vilka teman de vill lyfta fram. Denna grupp ville presentera teman som:\n\n* Hur man tillverkar Wagashi\n* Historia och ingredienser\n* Intervju med en Wagashi tillverkare\n* ingredienser och former av Wagashi."
+			"se": "Efter att de deltagit i evenemanget så behöver gruppen bestäma sig för mer specifikt vilka teman de vill lyfta fram. Denna grupp ville presentera teman som:\n\n* Hur man tillverkar Wagashi\n* Historia och ingredienser\n* Intervju med en Wagashi tillverkare\n* ingredienser och former av Wagashi.",
+			"vi": "Sau trải nghiệm, các học viên sẽ cùng chọn ra chủ đề cụ thể mà họ muốn tiếp tục nghiên cứu kỹ hơn. Nhóm học viên này quyết định giới thiệu về các đề tài sau: \n\n* Cách làm Wagashi\n*  Lịch sử và nguyên vật liệu làm bánh\n*  Phỏng vấn với thợ làm bánh Wagashi\n*  Nguyên vật liệu và hình dạng khác nhau của Wagashi."
 		}
 	},
 	"investigate": {
@@ -54,13 +60,15 @@
 		"zh-hant": "考察",
 		"id": "Menyelidiki",
 		"se": "Ta fram fakta",
+		"vi": "Nghiên cứu",
 		"text": {
 			"en": "Once the topics have been decided, it’s time for research. Students put their Japanese to use outside of the classroom to conduct interviews, surveys and research through the internet. This group went around to famous Wagashi shops in Kyoto, interviewing employees and Wagashi artisans.",
 			"ja": "テーマが決まったら、次は調査です。教室の外で実際に日本語を使って、インタビューやアンケートを行ったり、インターネットで調べたりします。和菓子グループは、京都で有名な和菓子店をめぐり、店員さんや職人さんにインタビュー調査を行いました。",
 			"fr": "Une fois le sujet choisi, l'heure est à la recherche. Les étudiants se servent alors de ce qu'ils ont appris en cours pour mener des intretiens, enquêtes, et recherches sur internet. Ce groupe est allé dans un magasin renommé de Kyoto pour interviewer employés et artisans.",
 			"zh-hant": "一旦題目決定好了之後，研究過程就展開了。學生們課堂外能活用到日文並通過網路等進行採訪、調查和研究。小組到京都著名的和菓子店，訪問其員工和和菓子工匠。",
 			"id": "Setelah topik telah diputuskan, saatnya untuk penelitian. Siswa dapat mempergunakan Bahasa Jepang yang telah mereka pelajari di luar kelas untuk melakukan wawancara, survei dan penelitian melalui internet. Kelompok ini pergi berkeliling ke toko-toko terkenal Wagashi di Kyoto, mewawancarai karyawan dan pengrajin Wagashi.",
-			"se": "Efter attt gruppen valt ämnen kan de gå vidare med att leta information. Studenterna använder japanskan de lärt sig under lektionerna för att göra intervjuer, enkäter och leta fakta på internet. Denna grupp besökte kända Wagashi affärer i Kyoto och intervjuade anställda och tillverkare."
+			"se": "Efter attt gruppen valt ämnen kan de gå vidare med att leta information. Studenterna använder japanskan de lärt sig under lektionerna för att göra intervjuer, enkäter och leta fakta på internet. Denna grupp besökte kända Wagashi affärer i Kyoto och intervjuade anställda och tillverkare.",
+			"vi": "Một khi đã thống nhất được các chủ đề, là đến phần thu thập thông tin. Học viên áp dụng vốn tiếng Nhật đã học trong lớp của mình vào việc phỏng vấn, khảo sát và tìm kiếm trên mạng. Nhóm học sinh này đi đến nhiều tiệm Wagashi nổi tiếng tại Kyoto, phỏng vấn trực tiếp nhân viên và thợ làm Wagashi tại các tiệm đó."
 		}
 	},
 	"prepare": {
@@ -70,13 +78,15 @@
 		"zh-hant": "準備",
 		"id": "Mempersiapkan",
 		"se": "Förbereda",
+		"vi": "Chuẩn bị",
 		"text": {
 			"en": "After all the research has been conducted, students gather their information to create a manuscript and slides for their presentation. Then comes practice; Group members check each others’ pronunciation, mannerisms, and volume of voice, making sure everyone is well-prepared.",
 			"ja": "調査が済んだら、まず調査して集めた内容を、原稿とパワーポイントにまとめ、発表できる形にします。それができれば、次に発表練習。発音、態度、声の大きさなど、グループでチェックしあい、より良い発表を作り上げていきます。",
 			"fr": "Une fois la recherche menée, les étudiants rassemblent leurs information pour créer un dossier et des diapositives pour leur présentation. Puis viens la pratique; Chaque membre du groupe s'assure que la prononciation, les manières et le volume de la voix du groupe sont correctement préparés.",
 			"zh-hant": "所有研究的部分都已經進行完畢之後，學生收集好資料來寫好自己的演講手稿和幻燈片。然後練習；小組成員互相檢查對方的發音，舉止和語音音量，確保每個人都做好準備。",
 			"id": "Setelah semua penelitian telah dilakukan, siswa mengumpulkan informasi untuk membuat naskah dan slide untuk presentasi mereka. Kemudian datang praktek; anggota kelompok memeriksa pengucapan satu sama lain dan volume suara, memastikan semua orang sudah siap.",
-			"se": "Efter att gruppen läst på om ämnet är det dags att samla ihop informationen och skapa ett manus och ta fram bilder till deras presentation. Sen gäller det att öva; Gruppens medlemmar hjälper varandra med uttal, manér och röstens ljudnivå för att försäkra sig att alla i gruppen är välförberedda." 
+			"se": "Efter att gruppen läst på om ämnet är det dags att samla ihop informationen och skapa ett manus och ta fram bilder till deras presentation. Sen gäller det att öva; Gruppens medlemmar hjälper varandra med uttal, manér och röstens ljudnivå för att försäkra sig att alla i gruppen är välförberedda.",
+			"vi": "Sau quá trình nghiên cứu khảo sát, học viên tổng hợp các thông tin tìm kiếm được và chuẩn bị bài thuyết trình kèm theo slideshow. Tiếp theo, các bạn cùng diễn tập, các thành viên trong nhóm sẽ góp ý cách phát âm, phong thái và âm lượng khi nói của từng người, nhằm bảo đảm mọi người chuẩn bị thật tốt cho bài nói của mình."
 		}
 	},
 	"present": {
@@ -86,13 +96,15 @@
 		"zh-hant": "呈現",
 		"id": "Mempersembahkan",
 		"se": "Presentera",
+		"vi": "Thành quả",
 		"text": {
 			"en": "Other classes gather to [watch the presentation](https://www.youtube.com/watch?v=WTSVOaWCkYo). This way, students are able to fully show the hard work and effort they put into their project. Once the presentation is over, everyone in the group feels a sense of accomplishment that they made it through to the end.",
 			"ja": "発表会はクラス内だけでなく、他のクラスとも合同で行います。学生たちは練習のときには見せなかった底力をここで見せてくれます。そして、終わったあとの学生たちの表情は、グループで協力しあって最後までやりとげたという達成感に満ち溢れています。",
 			"fr": "Les autres classes se rassemblent pour [regarder la présentation](https://www.youtube.com/watch?v=WTSVOaWCkYo). De cette manière, les étudiants sont capables de montrer tout le travail et les efforts fournis dans ce projet. Une fois la présentation finie, les membres du groupe ont souvent le sentiment d'avoir mener à bien leur rôle jusqu'à la fin.",
 			"zh-hant":" 其他班級的同學也一起 [影片網址] (https://www.youtube.com/watch?v=WTSVOaWCkYo). 這樣一來，學生充分展現他們所做過的勤奮和努力，他們投入他們一首完成的報告。報告結束之後，組內所有成員對於能將此報告完成並呈現都很有成就感。",
 			"id": "Kelas-kelas lain berkumpul untuk [menonton presentasi] (https://www.youtube.com/watch?v=WTSVOaWCkYo). Sedemikian, siswa dapat sepenuhnya menunjukkan kerja keras dan usaha yang telah mereka lakukan. Setelah presentasi selesai, semua orang dalam kelompok merasakan rasa prestasi bahwa mereka telah berhasil sampai akhir.",
-			"se": "Andra klasser samlas [för att se presentationen]. https://www.youtube.com/watch?v=WTSVOaWCkYo ). På det här sättet kan studenter visa det arbete och ansträngning som lagts ner på projektet. Efter att presentationen är slutförd kan gruppens medlemmar känna att de genomfört en stor prestation."
+			"se": "Andra klasser samlas [för att se presentationen]. https://www.youtube.com/watch?v=WTSVOaWCkYo ). På det här sättet kan studenter visa det arbete och ansträngning som lagts ner på projektet. Efter att presentationen är slutförd kan gruppens medlemmar känna att de genomfört en stor prestation.",
+			"vi": "Các lớp học khác sẽ cùng đến [xem bài thuyết trình]. https://www.youtube.com/watch?v=WTSVOaWCkYo). Nhờ vậy, các học viên càng nỗi lực phấn đấu  để trình bày đề án của nhóm mình một cách tốt nhất. Khi đã thuyết trình xong, các bạn trong nhóm không khỏi cảm thấy tự hào vì đã hoàn thành trọn vẹn mục tiêu đề ra."
 		}
 	},
 	"reflect": {
@@ -102,13 +114,15 @@
 		"zh-hant": "思考",
 		"id": "Mempertimbangkan",
 		"se": "Reflektera",
+		"vi": "Tự đánh giá",
 		"text": {
 			"en": "Finally, the group receives feedback from the class. By watching a video of their presentation they can see themselves objectively and look back on the efforts they made from the beginning to the end.",
 			"ja": "最後に、クラスにかえって、プロジェクトのフィードバックを行います。発表のビデオで自分が日本語を話している様子を客観的に見てみたり、体験から発表までの取り組みをふりかえることで、この一連のプロジェクトを学生たちの学びへとつなげます。",
 			"fr": "Enfin, le groupe recoit les différentes critiques de la classe. En regardant une video de leur présentation ils peuvent objectivement se voir et juger de leurs efforts faits du début à la fin.",
 			"zh-hant": "最後，小組收到同學給的回覆。通過觀看他們的視頻，他們能夠客觀地看待自己，回首他們從開始到結束所作出的努力。",
 			"id": "Akhirnya, kelompok menerima saran balik dari kelas. Dengan menonton video presentasi mereka masing-masing, mereka dapat melihat diri mereka secara objektif dan melihat kembali upaya yang mereka buat dari awal sampai akhir.",
-			"se": "Slutligen får gruppen synpunkter från övriga i klassen. Genom att objektivt se på videon av deras presentation kan de ta till sig nya kunskaper och även se tillbaka på deras prestationer från början till slut."
+			"se": "Slutligen får gruppen synpunkter från övriga i klassen. Genom att objektivt se på videon av deras presentation kan de ta till sig nya kunskaper och även se tillbaka på deras prestationer från början till slut.",
+			"vi": "Cuối cùng, từng nhóm sẽ nhận phản hồi từ các bạn khác trong lớp. Qua việc xem video thâu lại phần diễn thuyết của mình, học viên có thể tự đánh giá một cách khách quan và nhìn lại quá trình nỗ lực của mình từ đầu đến cuối."
 		}
 	}
 }
