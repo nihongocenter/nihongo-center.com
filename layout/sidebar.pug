@@ -26,6 +26,14 @@ a.box.apply-now(href='https://my.nihongo-center.com/', target='_blank')
 		else
 			a(href='/' + (language.code ? language.code + '/' : ''), title=language.name).flag
 				img.flag-image(src=`/images/flags/${language.flag ? language.flag : language.code}.png`, alt=language.name)
+if requestLanguage === 'zh-hant'
+	.box
+		p.center
+			<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNihongoCenterKyotoTW%2F&tabs=timeline&width=280&height=350&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="280" height="350" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+if requestLanguage === 'in'
+	.box
+		p.center
+			<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fkyoto.nihongo.center.id%2F&tabs=timeline&width=280&height=350&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="280" height="350" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 if requestLanguage === 'en'
 	.box
