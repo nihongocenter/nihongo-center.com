@@ -8,6 +8,7 @@
 			"id": "Sekolah",
 			"se": "Skola",
 			"vi": "Giới thiệu",
+			"th": "เกี่ยวกับ",
 			"pages": [
 				{
 					"en": "About",
@@ -17,6 +18,7 @@
 					"id": "Tentang",
 					"se": "Om",
 					"vi": "Giới thiệu",
+					"th": "เกี่ยวกับ",
 					"icon": "home",
 					"url": "/"
 				},
@@ -27,6 +29,7 @@
 					"zh-hant": "最新消息",
 					"id": "News",
 					"se": "News",
+					"th": "News",
 					"icon": "bullhorn",
 					"url": "/news"
 				},
@@ -38,6 +41,7 @@
 					"id": "Internasional",
 					"se": "Internationell",
 					"vi": "Quốc tế",
+					"th": "นานาชาติ",
 					"icon": "globe",
 					"url": "/about/international-school"
 				},
@@ -49,6 +53,7 @@
 					"id": "Praktis",
 					"se": "Praktisk",
 					"vi": "Ứng dụng thực tiễn",
+					"th": "ภาคปฎิบัติ",
 					"icon": "comment",
 					"url": "/about/practical-japanese"
 				},
@@ -60,6 +65,7 @@
 					"id": "Acara",
 					"se": "Evenemang",
 					"vi": "Sự kiện",
+					"th": "อีเวนท์",
 					"icon": "calendar",
 					"url": "/about/events"
 				},
@@ -70,7 +76,8 @@
 					"zh-hant": "設備",
 					"id" : "Fasilitas",
 					"se": "Lokal",
-					"se": "Cơ sở vật chất",
+					"vi": "Cơ sở vật chất",
+					"th": "สิ่งอำนวยความสะดวก",
 					"icon": "blackboard",
 					"url": "/facilities"
 				},
@@ -82,6 +89,7 @@
 					"id": "Staf",
 					"se": "Personal",
 					"vi": "Đội ngũ giáo viên",
+					"th": "บุคลากร",
 					"icon": "user",
 					"url": "/staff"
 				}
@@ -95,6 +103,7 @@
 			"se": "Kurser",
 			"id": "Kurus",
 			"vi": "Chương trình học",
+			"th": "หลักสูตร",
 			"pages": [
 				{
 					"en": "Difficulty",
@@ -104,6 +113,7 @@
 					"id": "Kesulitan",
 					"se": "Nivåer",
 					"vi": "Khó khăn",
+					"th": "ความยาก",
 					"icon": "education",
 					"url": "/course"
 				},
@@ -115,6 +125,7 @@
 					"id": "Durasi",
 					"se": "Längd",
 					"vi": "Thời hạn",
+					"th": "ระยะเวลา",
 					"icon": "time",
 					"url": "/course/duration"
 				},
@@ -126,6 +137,7 @@
 					"id": "Harga",
 					"se": "Prisuppgifter",
 					"vi": "Giá cả",
+					"th": "ราคา",
 					"icon": "usd",
 					"url": "/course/pricing"
 				}
@@ -139,6 +151,7 @@
 			"id": "Kehidupan",
 			"se": "Fritid",
 			"vi": "Đời sống sinh hoạt",
+			"th": "ชีวิต",
 			"pages": [
 				{
 					"en": "Life",
@@ -148,6 +161,7 @@
 					"id": "Kehidupan",
 					"se": "Fritid",
 					"vi": "Đời sống sinh hoạt",
+					"th": "ชีวิต",
 					"icon": "eye-open",
 					"url": "/life"
 				},
@@ -159,6 +173,7 @@
 					"id": "Belajar",
 					"se": "Studera",
 					"vi": "Học tập",
+					"th": "การเรียน",
 					"icon": "education",
 					"url": "/life/study-in-japan"
 				},
@@ -170,6 +185,7 @@
 					"id": "Akomodasi",
 					"se": "Boende",
 					"vi": "Nhà ở",
+					"th": "ที่พักอาศัย",
 					"icon": "bed",
 					"url": "/accomodation"
 				}
@@ -183,6 +199,7 @@
 			"id": "Masa depan",
 			"se": "Framtid",
 			"vi": "Tương lai",
+			"th": "อนาคต",
 			"pages": [
 				{
 					"en": "Future",
@@ -192,6 +209,7 @@
 					"id": "Masa depan",
 					"se": "Framtid",
 					"vi": "Tương lai",
+					"th": "อนาคต",
 					"icon": "flag",
 					"url": "/future"
 				},
@@ -203,6 +221,7 @@
 					"id": "Pendidikan",
 					"se": "Utbildning",
 					"vi": "Giáo dục",
+					"th": "การศึกษา",
 					"icon": "education",
 					"url": "/future/education"
 				},
@@ -214,6 +233,7 @@
 					"id": "JLPT",
 					"se": "JLPT",
 					"vi": "JLPT",
+					"th": "การสอบวัดระดับภาษาญี่ปุ่น",
 					"icon": "certificate",
 					"url": "/future/jlpt"
 				}
@@ -227,6 +247,7 @@
 			"id": "Join us",
 			"se": "Ansök",
 			"vi": "Kết nối với chúng tôi",
+			"th": "เข้าร่วมกับเรา",
 			"pages": [
 				{
 					"en": "Join us",
@@ -236,6 +257,7 @@
 					"id": "Join us",
 					"se": "Ansök",
 					"vi": "Kết nối với chúng tôi",
+					"th": "เข้าร่วมกับเรา",
 					"icon": "share-alt",
 					"url": "/join"
 				},
@@ -247,6 +269,7 @@
 					"id": "Visa",
 					"se": "Visum",
 					"vi": "Thị thực",
+					"th": "วีซ่า",
 					"icon": "plane",
 					"url": "/visa"
 				},
@@ -258,6 +281,7 @@
 					"id": "FAQ",
 					"se": "Vanliga Frågor",
 					"vi": "Các Câu hỏi Thường gặp",
+					"th": "คำถามที่พบบ่อย",
 					"icon": "question-sign",
 					"url": "/faq"
 				}
