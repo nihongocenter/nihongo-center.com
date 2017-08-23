@@ -9,7 +9,8 @@
 				"zh-hant": "國際化學校",
 				"id": "Sekolah internasional",
 				"se": "Internationell skola",
-				"vi": "Trường quốc tế"
+				"vi": "Trường quốc tế",
+				"th": "โรงเรียนนานาชาติ"
 			},
 			"text": {
 				"en": "Our students come from all over the world, with about 60% from western and 40% from Asian countries. With over 30 different countries represented at our school, we are proud of our great cultural diversity.",
@@ -18,7 +19,8 @@
 				"zh-hant": "我們的學生來自 世界各國，有60%來自西方國家，40%來自亞洲國家，如此國際化的學校學生國籍遍布超過30個國家，我們對於本校的文化多樣性感到驕傲。",
 				"id": "Siswa kami berasal dari seluruh dunia, dengan sekitar 60% dari barat dan 40% dari negara-negara Asia. Dengan lebih dari 30 negara yang berbeda diwakili di sekolah kami, kami bangga dengan keanekaragaman budaya kita yang besar.",
 				"se": "Våra studenter kommer från hela världen, omkring 60% från västerländska länder med resterande 40% från Asiatiska. Med över 30 länder representerade på vår skola är vi stolta över vår kulturella mångfald.",
-				"vi": "Học viên của chúng tôi đến từ khắp nơi trên thế giới, khoảng 60% từ các quốc gia Âu Mỹ và 40% từ các nước Châu Á. Với trên 30 quốc gia khác nhau hiện diện tại đây, chúng tôi rất tự hào về sự đa dạng văn hóa của trường chúng tôi."
+				"vi": "Học viên của chúng tôi đến từ khắp nơi trên thế giới, khoảng 60% từ các quốc gia Âu Mỹ và 40% từ các nước Châu Á. Với trên 30 quốc gia khác nhau hiện diện tại đây, chúng tôi rất tự hào về sự đa dạng văn hóa của trường chúng tôi.",
+				"th": "นักเรียนของเรามาจากทั่วโลกโดยประมาณ 60% จากประเทศทางฝั่งตะวันตกและ 40% จากประเทศในเอเชีย เรามีความภาคภูมิใจในความหลากหลายทางวัฒนธรรมของเราที่มีมากกว่า 30 ประเทศที่เป็นตัวแทนในโรงเรียนของเรา"
 			},
 			"link": "/about/international-school"
 		},
@@ -30,7 +32,8 @@
 				"zh-hant": "文化經驗",
 				"id": "Bahasa Jepang yang Praktis",
 				"se": "Praktisk Japanska",
-				"vi": "Tiếng Nhật ứng dụng"
+				"vi": "Tiếng Nhật ứng dụng",
+				"th": "ภาษาญี่ปุ่นในทางปฎิบัติ"
 			},
 			"text": {
 				"en": "Our professional instructors use a uniquely developed teaching method to guide students through the learning process. Even complete beginners find they are able to start communicating from the very first week, and...",
@@ -39,7 +42,8 @@
 				"zh-hant": "「我不想要光只是坐在課堂中學習」如果你正在尋找不是每天光是面對教科書的日語課程，那我們學校是非常適合你的選擇的。跟著我們的 發現京都之旅，你會有機會探討富含歷史以及傳統文化的如今的京都。",
 				"id": "Instruktur profesional kami menggunakan metode pengajaran unik yang dikembangkan untuk membimbing siswa melalui proses pembelajaran. Bahkan para pemula dapat mulai berkomunikasi dari minggu pertama, dan...",
 				"se": "Våra professionela lärare använder en egen framtagen metod för att hjälpa studenter genom läroprocessen. Nybörjare finner att de kan börja kommunicera redan från första veckan, och...",
-				"vi": "Giảng viên chuyên nghiệp của chúng tôi sử dụng phương pháp giảng dạy đặc biệt theo sát quá trình học tập của học viên. Những học viên trình độ sơ cấp đã có thể bắt đầu giao tiếp ngay từ tuần đầu tiên vào học, và…"
+				"vi": "Giảng viên chuyên nghiệp của chúng tôi sử dụng phương pháp giảng dạy đặc biệt theo sát quá trình học tập của học viên. Những học viên trình độ sơ cấp đã có thể bắt đầu giao tiếp ngay từ tuần đầu tiên vào học, và…",
+				"th": "อาจารย์ผู้สอนมืออาชีพของเราใช้วิธีการสอนที่พัฒนาขึ้นโดยเฉพาะเพื่อเป็นแนวทางในการเรียนรู้ผ่านกระบวนการเรียนรู้ แม้แต่ผู้เริ่มต้นที่ไม่มีพื้นฐานเลย ก็พบว่าพวกเขาสามารถเริ่มต้นการสื่อสารได้ตั้งแต่สัปดาห์แรกและ ... "
 			},
 			"link": "/about/practical-japanese"
 		},
@@ -51,7 +55,8 @@
 				"zh-hant": "課程期數",
 				"id": "Pengalaman Budaya",
 				"se": "Kulturella upplevelser",
-				"vi": "Trải nghiệm văn hóa"
+				"vi": "Trải nghiệm văn hóa",
+				"th": "ประสบการณ์ทางวัฒนธรรม"
 			},
 			"text": {
 				"en": "\"I want to do more than just study...\" If you're looking for something more than hitting the textbooks every day, then our school is for you. With our Discover Kyoto Program, you have the chance to explore the rich history and traditional culture still present in Kyoto today, ...",
@@ -60,7 +65,8 @@
 				"zh-hant": "我們的課程是非常 **彈性**的。你可以選擇你想要在日本語中心學習多長的期間，我們可以協助你處理官方所需簽證事宜。",
 				"id": "\" Saya ingin lebih dari sekedar belajar ... \"Jika Anda sedang mencari sekolah yang lebih dari hanya belajar setiap hari, maka sekolah kami pas untuk Anda. Dengan Discover Kyoto Program, Anda memiliki kesempatan untuk mengeksplorasi sejarah yang kaya dan budaya tradisional Kyoto, ... ",
 				"se": "\"Jag vill göra mer än bara plugga...\" Om du vill göra något annat än att bara bläddra i textböckerna varje dag så passar vår skola för dig. Med vårt Discover Kyoto Program, får du chansen att utforska den rika historia och kultur som finns bevarad i Kyoto, ...",
-				"vi": "\"Tôi muốn thử nghiệm nhiều thứ bên cạnh việc học tại trường…\"  Nếu bạn quan tâm đến các hoạt động khác ngoài việc học hành mỗi ngày thì trường chúng tôi là một sự lựa chọn thích hợp cho bạn. Với Chương trình Khám phá Kyoto, bạn sẽ có cơ hội khám phá về lịch sử và văn hóa truyền thống vẫn còn được bảo tồn đến ngày nay ở Kyoto,…"
+				"vi": "\"Tôi muốn thử nghiệm nhiều thứ bên cạnh việc học tại trường…\"  Nếu bạn quan tâm đến các hoạt động khác ngoài việc học hành mỗi ngày thì trường chúng tôi là một sự lựa chọn thích hợp cho bạn. Với Chương trình Khám phá Kyoto, bạn sẽ có cơ hội khám phá về lịch sử và văn hóa truyền thống vẫn còn được bảo tồn đến ngày nay ở Kyoto,…",
+				"th": "\"ฉันต้องการทำมากกว่าการเรียน...\" หากท่านกำลังมองหาบางสิ่งบางอย่างมากกว่าการเรียนในตำราเรียนทุกวันแล้วล่ะก็ โรงเรียนของเราเหมาะสำหรับท่าน ด้วยโครงการ Discover Kyoto ของเรา ท่านจะได้มีโอกาสสำรวจประวัติศาสตร์อันยาวนาน และวัฒนธรรมดั้งเดิมที่ยังคงมีอยู่ในเมืองเกียวโตในทุกวันนี้ ... "
 			},
 			"link": "/life"
 		}
