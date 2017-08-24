@@ -6,7 +6,8 @@
 		"zh-hant": "訪問: Gabriella Miranda",
 		"id": "Wawancara: Gabriella Miranda",
 		"se": "Intervju: Gabriella Miranda",
-		"vi": "Phỏng vấn: Gabriella Miranda"
+		"vi": "Phỏng vấn: Gabriella Miranda",
+		"th": "บทสัมภาษณ์: Gabriella Miranda"
 	},
 	"interview": [
 		{
@@ -17,7 +18,8 @@
 				"zh-hant": "你住日本多久了？",
 				"id": "Berapa lama Anda tinggal di Jepang?",
 				"se": "Hur länge har du bott i Japan?",
-				"vi": "Bạn đã sống ở Nhật bao lâu rồi?"
+				"vi": "Bạn đã sống ở Nhật bao lâu rồi?",
+				"th": "คุณอาศัยอยู่ที่ญี่ปุ่นมานานแค่ไหน"
 			},
 			"answer": {
 				"en": "I lived in Japan for a year and 9 months. (From October 2011-June 2013)",
@@ -26,7 +28,8 @@
 				"zh-hant": "一年幼九個月。(從2011年10月-2013年6月)",
 				"id": "Saya tinggal di Jepang selama satu tahun dan 9 bulan. (Dari Oktober 2011-Juni 2013)",
 				"se": "Jag har bott i Japan under ett år och 9 månader. (Från october 2011-juni 2013)",
-				"vi": "Tôi đã sống ở Nhật 1 năm 9 tháng. (Từ tháng 10/2011- tháng 6/2013)"
+				"vi": "Tôi đã sống ở Nhật 1 năm 9 tháng. (Từ tháng 10/2011- tháng 6/2013)",
+				"th": "ฉันอาศัยอยู่ในประเทศญี่ปุ่นเป็นเวลาหนึ่งปีและ 9 เดือน (ตั้งแต่เดือนตุลาคม 2011 ถึงเดือนมิถุนายน 2013) "
 			}
 		},
 		{
@@ -37,7 +40,8 @@
 				"zh-hant": "為何決定來日本？",
 				"id": "Mengapa Anda memutuskan untuk datang ke Jepang?",
 				"se": "Varför valde du att besöka Japan?",
-				"vi": "Vì sao bạn quyết định đến Nhật?"
+				"vi": "Vì sao bạn quyết định đến Nhật?",
+				"th": "ทำไมคุณถึงตัดสินใจมาที่ประเทศญี่ปุ่น"
 			},
 			"answer": {
 				"en": "To improve my speaking, and to pass the JLPT.",
@@ -46,7 +50,8 @@
 				"zh-hant": "增進我對話的能力，以及考取JLPT",
 				"id": "Untuk meningkatkan kemampuan bicara saya, dan untuk lulus JLPT.",
 				"se": "För att bli bättre på att prata japanska och klara av JLPT.",
-				"vi": "Để nâng cao kỹ năng giao tiếp và dự thi JLPT."
+				"vi": "Để nâng cao kỹ năng giao tiếp và dự thi JLPT.",
+				"th": "เพื่อปรับปรุงการพูดของฉัน และสอบผ่าน JLPT"
 			}
 		},
 		{
@@ -57,7 +62,8 @@
 				"zh-hant": "來日本之前學了多久的日文？",
 				"id": "Berapa lama Anda belajar bahasa Jepang sebelum datang ke Jepang?",
 				"se": "Hur mycket japanska studerade du innan du kom till Japan?",
-				"vi": "Bạn đã học tiếng Nhật bao lâu trước khi đến đây?"
+				"vi": "Bạn đã học tiếng Nhật bao lâu trước khi đến đây?",
+				"th": "คุณเรียนภาษาญี่ปุ่นมานานแค่ไหนก่อนที่จะมาที่ญี่ปุ่น"
 			},
 			"answer": {
 				"en": "On my own I studied hiragana and katakana, as well as basic greetings.",
@@ -66,7 +72,8 @@
 				"zh-hant": "自學平假名和片假名以及簡單的打招呼。",
 				"id": "Dengan sendiri saya belajar hiragana dan katakana, serta salam dasar.",
 				"se": "På egen hand studerade jag hiragana, katakana och hälsningsfraser.",
-				"vi": "Tôi tự học hiragana và katakana, cũng như các câu chào hỏi căn bản."
+				"vi": "Tôi tự học hiragana và katakana, cũng như các câu chào hỏi căn bản.",
+				"th": "ฉันเรียนรู้ฮิระงานะ และคาตาคานะ รวมถึงคำทักทายพื้นฐานด้วยตัวเอง"
 
 			}
 		},
@@ -78,7 +85,8 @@
 				"zh-hant": "你來日本前，日語程度如何？",
 				"id": "Apa tingkat Jepang Anda sebelum datang ke Jepang?",
 				"se": "Vad var din Japanska nivå på innan du kom till Japan?",
-				"vi": "Trình độ tiếng Nhật của bạn trước khi đến Nhật?"
+				"vi": "Trình độ tiếng Nhật của bạn trước khi đến Nhật?",
+				"th": "ความสามารถภาษาญี่ปุ่นของคุณอยู่ในระดับไหนก่อนมาที่ญี่ปุ่น"
 			},
 			"answer": {
 				"en": "Pretty much nothing.",
@@ -87,7 +95,8 @@
 				"zh-hant": "幾乎不會什麼。",
 				"id": "Tidak sama sekali.",
 				"se": "I princip ingenting.",
-				"vi": "Gần như là không có."
+				"vi": "Gần như là không có.",
+				"th": "แทบไม่มีอะไรเลย"
 			}
 		},
 		{
@@ -98,7 +107,8 @@
 				"zh-hant": "你對於報考JLPT想法如何？",
 				"id": "Apa pikiran Anda ketika mengambil JLPT?",
 				"se": "Hur kände du inför JLPT proven?",
-				"vi": "Bạn có suy nghĩ gì khi bạn dự thi JLPT?"
+				"vi": "Bạn có suy nghĩ gì khi bạn dự thi JLPT?",
+				"th": "คุณคิดอย่างไรตอนที่สอบวัดระดับภาษาญี่ปุ่น JLPT?"
 			},
 			"answer": {
 				"en": "I was glad there were many questions like we had practiced in class.",
@@ -107,7 +117,8 @@
 				"zh-hant": "我很高興因為有很多類似的題目有在課堂上練習過了。",
 				"id": "Saya senang ada banyak pertanyaan seperti yang telah kita praktekkan di kelas.",
 				"se": "Jag blev glad över att det var så många frågor vi hade studerat under lektionerna.",
-				"vi": "Tôi rất mừng là nhiều câu hỏi trong bài thi giống như những gì chúng tôi được luyện tập trong lớp."
+				"vi": "Tôi rất mừng là nhiều câu hỏi trong bài thi giống như những gì chúng tôi được luyện tập trong lớp.",
+				"th": "ฉันดีใจมากที่มีคำถามมากมาย ให้เราได้ฝึกฝนในชั้นเรียน"
 			}
 		},
 		{
@@ -118,7 +129,8 @@
 				"zh-hant": "JLPT合格後的感覺如何？",
 				"id": "Bagaimana perasaan Anda setelah melewati JLPT?",
 				"se": "Hur kändes det när du blev godkänd på JLPT provet?",
-				"vi": "Bạn cảm thấy như thế nào sau khi thi đậu JLPT?"
+				"vi": "Bạn cảm thấy như thế nào sau khi thi đậu JLPT?",
+				"th": "คุณรู้สึกอย่างไรหลังจากที่ผ่าน JLPT?"
 			},
 			"answer": {
 				"en": "I thought, “No way!” I was so surprised. （＾▽＾）",
@@ -127,7 +139,8 @@
 				"zh-hant": "我當時覺得“合格了？不會吧！” 我覺得考過很驚喜。 （＾▽＾）",
 				"id": "Saya pikir, “Tidak mungkin!” Saya sangat terkejut. (^ ▽ ^)",
 				"se": "jag tänkte, “det är inte sant!” jag var väldigt överraskad. （＾▽＾）",
-				"vi": "Tôi đã nghĩ, “Có lẽ nào!” Thiệt quá bất ngờ. （＾▽＾）"
+				"vi": "Tôi đã nghĩ, “Có lẽ nào!” Thiệt quá bất ngờ. （＾▽＾）",
+				"th": "ฉันคิดว่า “ไม่มีทาง!” ฉันรู้สึกประหลาดใจมาก (^ ▽ ^)"
 			}
 		},
 		{
@@ -138,7 +151,8 @@
 				"zh-hant": "為了要通過JLPT，你做了什麼樣的努力呢？",
 				"id": "Upaya apa yang Anda buat untuk lulus JLPT?",
 				"se": "Vad gjorde du för att lyckas bli godkänd på JLPT provet?",
-				"vi": "Bạn đã chuẩn bị như thế nào cho kỳ thi JLPT?"
+				"vi": "Bạn đã chuẩn bị như thế nào cho kỳ thi JLPT?",
+				"th": "คุณทำอย่างไรให้ผ่านการสอบ JLPT"
 			},
 			"answer": {
 				"en": "I tried my hardest in class, speaking and listening. Studying every day is very important.",
@@ -147,7 +161,8 @@
 				"zh-hant": "我上課非常用心，特別是說和聽力方面，每天用功讀書是很重要的。",
 				"id": "Aku berusaha sekuat tenaga di kelas, berbicara dan mendengarkan. Belajar setiap hari sangat penting.",
 				"se": "Jag gjorde mitt bästa under lektionerna, prata och lyssna. Att studera varje dag är väldigt viktigt",
-				"vi": "Tôi tập trung hết sức mình trong giờ học, luyện nói và luyện nghe. Ôn luyện mỗi ngày là rất quan trọng."
+				"vi": "Tôi tập trung hết sức mình trong giờ học, luyện nói và luyện nghe. Ôn luyện mỗi ngày là rất quan trọng.",
+				"th": "ฉันพยายามอย่างหนักในชั้นเรียนทั้งการพูด และการฟัง การเรียนทุกวันถือเป็นเรื่องสำคัญมาก"
 			}
 		},
 		{
@@ -158,7 +173,8 @@
 				"zh-hant": "日本語中心的那些課程對於JLPT是有幫助的？",
 				"id": "Apa aspek kelas di Nihongo Center yang berguna untuk melewati JLPT?",
 				"se": "Vilka delar från Nihongo Centers lektioner var hjälpsamma inför JLPT?",
-				"vi": "Điều gì bạn học tại Nihongo Center giúp bạn thi đậu JLPT?"
+				"vi": "Điều gì bạn học tại Nihongo Center giúp bạn thi đậu JLPT?",
+				"th": " มุมมองต่อชั้นเรียนไหนที่เป็นประโยชน์ต่อการสอบผ่าน JLPT?"
 			},
 			"answer": {
 				"en": "Listening practice was really helpful! It made the JLPT much easier. And the JLPT practice in class was helpful too.",
@@ -167,7 +183,8 @@
 				"zh-hant": "聽力練習非常有幫助！這讓我覺得JLPT沒那麼困難了，然後與JLPT考試相關題型練習也是很有幫助的。",
 				"id": "Praktek Mendengarkan benar-benar membantu! Ini membuat JLPT jauh lebih mudah. Dan praktek JLPT di kelas juga membantu.",
 				"se": "Lyssningsövningar var väldigt hjälpsamma! Det gjorde JLPT mycket lättare och övningarna inför JLPT var också hjälpsamma.",
-				"vi": "Phần luyện nghe rất hữu ích! Nhờ vậy kỳ thi JLPT không đến nỗi quá khó. Và phần luyện thi JLPT trong lớp cũng giúp tôi rất nhiều."
+				"vi": "Phần luyện nghe rất hữu ích! Nhờ vậy kỳ thi JLPT không đến nỗi quá khó. Và phần luyện thi JLPT trong lớp cũng giúp tôi rất nhiều.",
+				"th": "การฝึกการฟังเป็นประโยชน์อย่างมากจริงๆ! มันทำให้ JLPT ง่ายมากขึ้น และการฝึก JLPT ในชั้นเรียนก็มีประโยชน์เช่นกัน"
 			}
 		},
 		{
@@ -178,7 +195,8 @@
 				"zh-hant": "你有沒有要對日本語中心的老師說的話？",
 				"id": "Apakah Anda punya pesan untuk para guru di Nihongo Center?",
 				"se": "Har du något att säga till lärarna på Nihongo Center?",
-				"vi": "Bạn muốn để lại lời nhắn gì cho các giáo viên ở trường Nihongo Center không?"
+				"vi": "Bạn muốn để lại lời nhắn gì cho các giáo viên ở trường Nihongo Center không?",
+				"th": "คุณมีข้อความอะไรฝากถึงอาจารย์ที่นิฮงโกะ เซ็นเตอร์มั้ย"
 			},
 			"answer": {
 				"en": "I want to say thank you so much to all of my teachers! It was because of you that I could pass. I really enjoyed my time here! I will definitely come back to Japan so let's meet again! (*^▽^*)",
@@ -187,7 +205,8 @@
 				"zh-hant": "我想對我的老師們說聲謝謝！都是因為有你們我才能考過，我在學校過得很開心，我以後絕對還會回來日本跟你們見面的！ (*^▽^*)",
 				"id": "Saya ingin mengucapkan terima kasih banyak kepada semua guru saya! Berkat mereka saya bisa lulus. Saya benar-benar menikmati waktu saya di sini! Saya pasti akan datang kembali ke Jepang jadi mari kita bertemu lagi! (* ^ ▽ ^ * ) ",
 				"se": "Jag will säga tack så mycket till alla mina lärare! Det var tack vare er jag klarade av provet. Jag trivdes verkligen under min tid här! Jag kommer garanterat tillbaka till Japan så låt oss träffas igen! (*^▽^*)",
-				"vi": "Tôi muốn gửi lời cảm ơn rất nhiều đến mọi giáo viên! Nhờ sự giúp đỡ của các thầy cô mà tôi có thể vượt qua kỳ thi. Tôi đã có một khoảng thời gian rất đẹp tại trường! Nhất định tôi sẽ quay lại Nhật nên xin hẹn gặp lại mọi người lần tới! (*^▽^*)"
+				"vi": "Tôi muốn gửi lời cảm ơn rất nhiều đến mọi giáo viên! Nhờ sự giúp đỡ của các thầy cô mà tôi có thể vượt qua kỳ thi. Tôi đã có một khoảng thời gian rất đẹp tại trường! Nhất định tôi sẽ quay lại Nhật nên xin hẹn gặp lại mọi người lần tới! (*^▽^*)",
+				"th": "ฉันอยากจะบอกว่า ขอบคุณคุณครูทุกๆ คนของฉัน นั่นเป็นเพราะคุณที่ทำให้ฉันสามารถสอบผ่านได้ ฉันสนุกกับเวลาที่นี่มาก ฉันจะกลับมาที่ประเทศญี่ปุ่นอย่างแน่นอน ดังนั้นเราจะได้พบกันอีกครั้ง  (* ^ ▽ ^ * * )"
 			}
 		},
 		{
@@ -198,7 +217,8 @@
 				"zh-hant": "你有沒有話想對想要學日文的人說呢？",
 				"id": "Apakah Anda memiliki pesan bagi mereka yang berpikir untuk belajar bahasa Jepang?",
 				"se": "Har du något att säga till de som funderar på att studera japanska?",
-				"vi": "Và lời nhắn nhủ gì cho các bạn khác đang đắn đo muốn học tiếng Nhật?"
+				"vi": "Và lời nhắn nhủ gì cho các bạn khác đang đắn đo muốn học tiếng Nhật?",
+				"th": "คุณมีข้อความอะไรฝากถึงคนที่กำลังคิดจะเรียนภาษาญี่ปุ่นมั้ย"
 			},
 			"answer": {
 				"en": "Please come to Japan. You can learn much more quickly and enjoy learning.",
@@ -207,7 +227,8 @@
 				"zh-hant": "請來日本吧，你可以學得更快並能愉快地學習。",
 				"id": "Silahkan datang ke Jepang. Anda dapat mempelajari lebih cepat dan menikmati belajar.",
 				"se": "Snälla ta chansen och åk till Japan. Du kommer lära dig mycket snabbare och ha roligt under tiden.",
-				"vi": "Xin hãy đến học tại Nhật. Bạn có thể tiến bộ rất nhanh và học rất vui."
+				"vi": "Xin hãy đến học tại Nhật. Bạn có thể tiến bộ rất nhanh và học rất vui.",
+				"th": "โปรดมาที่ญี่ปุ่น คุณจะสามารถเรียนรู้ได้เร็วขึ้น และสนุกกับการเรียนรู้"
 			}
 		},
 		{
@@ -218,7 +239,8 @@
 				"zh-hant": "你未來的計劃是什麼？ (日語相關、JLPT、工作...等等)",
 				"id": "Apa rencana Anda di masa depan? (Pelajaran bahasa Jepang, JLPT, pekerjaan, dll)",
 				"se": "Vad är dina planer för framtiden? (Japanska studier, JLPT, jobb, etc.)",
-				"vi": "Dự định tương lai của bạn thế nào? (học tiếng Nhật, JLPT, làm việc, v.v…)"
+				"vi": "Dự định tương lai của bạn thế nào? (học tiếng Nhật, JLPT, làm việc, v.v…)",
+				"th": "คุณวางแผนอนาคตไว้อย่างไร (การเรียนภาษาญี่ปุ่น, JLPT, ทำงาน, อื่นๆ )"
 			},
 			"answer": {
 				"en": "I plan to study at university but I'm still deciding my major. For my Japanese, I want to make friends with Japanese people and other Japanese speaker's at a language cafe in Göteborg, Sweden.",
@@ -227,7 +249,8 @@
 				"zh-hant": "我計畫念大學但是我尚未決定我的主修。關於日文的話，我回到瑞典後想在哥德堡的'語言咖啡'廳裡多認識一些日本朋友。",
 				"id": "Saya berencana untuk belajar di universitas tapi saya masih menentukan mata kuliah saya. Untuk bahasa Jepang saya, saya ingin berteman dengan orang Jepang dan orang lain yang berbahasa Jepang di sebuah kafe bahasa di Göteborg, Swedia.",
 				"se": "Jag planerar att studera på universitet men jag har inte valt vilket ämne än. Angående japanska så planerar jag att skaffa japansktalande vänner på ett språk café i Göteborg.",
-				"vi": "Tôi dự định vào học đại học nhưng vẫn chưa quyết định chuyên ngành nào. Để không quên tiếng Nhật, tôi mong muốn kết bạn với người Nhật và các bạn khác nói tiếng Nhật tại một tiệm cà phê trao đổi ngôn ngữ ở Göteborg, Thụy Điển."
+				"vi": "Tôi dự định vào học đại học nhưng vẫn chưa quyết định chuyên ngành nào. Để không quên tiếng Nhật, tôi mong muốn kết bạn với người Nhật và các bạn khác nói tiếng Nhật tại một tiệm cà phê trao đổi ngôn ngữ ở Göteborg, Thụy Điển.",
+				"th": "ฉันวางแผนที่จะเรียนต่อในมหาวิทยาลัย แต่ฉันยังตัดสินใจเลือกสาขาเอกอยู่ สำหรับภาษาญี่ปุ่นของฉัน ฉันต้องการทำความรู้จักกับคนญี่ปุ่น และคนที่พูดภาษาญี่ปุ่นอื่น ๆ ที่ร้านคาเฟ่ใน Göteborg ประเทศสวีเดน"
 			}
 		}
 	]
