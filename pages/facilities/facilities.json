@@ -6,7 +6,8 @@
 		"zh-hant": "設備",
 		"id": "Fasilitas",
 		"se": "Lokal",
-		"vi": "Cơ sở vật chất"
+		"vi": "Cơ sở vật chất",
+		"th": "สิ่งอำนวยความสะดวก"
 	},
 	"text": {
 		"en": "We put a lot of effort into making your study environment as **clean** and **relaxing** as possible. The following photos show how Nihongo Center looks from the inside:",
@@ -15,6 +16,7 @@
 		"zh-hant": "我們花費許多心力盡可能地使教學環境 **整潔** 且 **輕鬆**。下面的照片是日本語中心內部的照片。",
 		"id": "Kami mengusahakan sebisa mungin untuk membuat lingkungan belajar Anda  **bersih** dan **nyaman**. Foto-foto berikut ini menunjukkan suasana Nihongo Center dari dalam.",
 		"vi": "Chúng tôi làm việc hết sức mình nhằm đảm bảo cho học viên một môi trường học tập **sạch đẹp** và **thoải mái** nhất. Xin mời các bạn xem qua một số hình ảnh về cơ sở vật chất của trường Nihongo Center.",
-		"se": "Vi lägger ner mycket ansträngning på att hålla din studiemiljö så **ren** och **avslappnande** som möjligt. Följande bilder visar hur Nihongo Center ser ut på insidan:"
+		"se": "Vi lägger ner mycket ansträngning på att hålla din studiemiljö så **ren** och **avslappnande** som möjligt. Följande bilder visar hur Nihongo Center ser ut på insidan:",
+		"th": "เราพยายามเป็นอย่างมากที่จะทำให้สภาพแวดล้อมในการเรียนของท่าน **สะอาด** และ **ผ่อนคลาย** มากที่สุดเท่าที่จะเป็นไปได้ รูปด้านล่างนี้แสดงถึงภายในนิฮงโกะ เซ็นเตอร์"
 	}
 }
