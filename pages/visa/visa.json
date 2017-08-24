@@ -13,7 +13,8 @@
 		"fr": "Pour être en mesure de rester au Japon vous aurez besoin d'un visa. Les visa les plus souvent utilisés par les étrangers sont listés ci-dessous.",
 		"zh-hant": "留在日本，你必須要獲得簽證。外國學生最常用的簽證種類如下所列。",
 		"id": "Untuk dapat tinggal di Jepang Anda akan perlu untuk mendapatkan visa. Jenis visa yang paling umum digunakan oleh mahasiswa asing tercantum di bawah ini.",
-		"se": "För att stanna i Japan behöver du ett visum. De vanligaste visumen är listade nedan."
+		"se": "För att stanna i Japan behöver du ett visum. De vanligaste visumen är listade nedan.",
+		"th": "เพื่อที่จะสามารถพำนักอยู่ในประเทศญี่ปุ่นได้ คุณจะต้องได้รับวีซ่า ประเภทวีซ่าทั่วไปที่นักเรียนต่างชาติใช้อยู่มีดังต่อไปนี้"
 	},
 	"studentVisa": {
 		"en": "Student Visa",
@@ -22,13 +23,15 @@
 		"zh-hant": "學生簽證",
 		"id": "Visa Pelajar",
 		"se": "Studentvisum",
+		"th": "วีซ่านักเรียน",
 		"text": {
 			"en": "Those wishing to study in Japan will stay under “student visa” status. With a student visa you can stay for 1 year, with the option of extending up to 2 years. Those students who study Japanese for more than 20 hours per week and for longer than 6 months may apply for a student visa at Nihongo Center.",
 			"ja": "日本語学習を目的に滞在される方の在留資格を「留学」といいます。 認められる在留期間は1年で、更新ができ、最長2年間の滞在が許されています。 日本語センターでは、週20時間以上で1年以上の日本語学習を希望される方のために留学ビザを申請することができます。",
 			"fr": "Ceux qui désirent venir étudiant au Japon reçevrons un “visa étudiant”. Avec celui-ci vous pouvez rester 1 an avec la possibilité de l'étendre une deuxième année. Les étudiants désireux d'étudier pour 6 mois ou plus au Nihongo Center peuvent bénéficier de ce visa.",
 			"zh-hant": "希望到日本留學者可以“學生簽證”留日。學生簽證可以停留1年，最多延長到2年。每週超過20小時，超過6個月的日語課程的學生可以申請在日本語中心申請學生簽證。",
 			"id": "Mereka yang ingin belajar di Jepang akan tinggal di bawah status “visa pelajar”. Dengan visa pelajar Anda dapat tinggal selama 1 tahun, dengan pilihan untuk memperpanjang hingga 2 tahun. Siswa yang belajar bahasa Jepang selama lebih dari 20 jam per minggu dan selama lebih dari 6 bulan dapat mengajukan visa mahasiswa di Nihongo Center. ",
-			"se": "De som önskar att stanna i Japan på ett “studentvisum” . Med ett studentvisum kan du stanna i 1 år med möjligheten att förlänga upp till 2 år. De studenter som studerar japanska mer än 20 timmar per vecka och längre än 6 månader kan ansöka om studentvisum genom Nihongo Center."
+			"se": "De som önskar att stanna i Japan på ett “studentvisum” . Med ett studentvisum kan du stanna i 1 år med möjligheten att förlänga upp till 2 år. De studenter som studerar japanska mer än 20 timmar per vecka och längre än 6 månader kan ansöka om studentvisum genom Nihongo Center.",
+			"th": "ผู้ที่ต้องการเรียนต่อในประเทศญี่ปุ่นจะอยู่ในสถานะ "วีซ่านักเรียน" วีซ่านักเรียนสามารถอยู่ได้ 1 ปี และสามารถขยายได้ถึง 2 ปี นักเรียนที่เรียนภาษาญี่ปุ่นมากกว่า 20 ชั่วโมงต่อสัปดาห์ และ นานกว่า 6 เดือน สามารถขอวีซ่านักเรียนที่ นิฮงโกะ เซ็นเตอร์ ได้"
 		}
 	},
 	"partTimeJob": {
@@ -38,13 +41,15 @@
 		"zh-hant": "打工",
 		"id": "Pekerjaan paruh waktu",
 		"se": "Deltidsarbete",
+		"th": "งานพิเศษ",
 		"text": {
 			"en": "After issuance of a work permit by the immigration service, it is possible for a person in possession of a student visa to find work not exceeding 28 hours per week (you can work 8 hours day during the summer or winter).",
 			"ja": "留学ビザの学生は資格外活動許可を得て、週28時間までアルバイトをすることができます。（夏休み冬休みなどの長期休暇中は1日8時間まで可能）",
 			"fr": "Après délivrance d'un permis de travail par le service d'immigration, il est posssible pour une personne détentrice d'un visa étudiant de travailler à hauteur de 28 heures par semaine (vous pouvez travailler 8h par jour durant les vacances). ",
 			"zh-hant": "得到移民局所發的工作許可後，可以以學生簽證打工，每週不超過28小時。(暑假和寒假期間可以一天8小時).",
 			"id": "Setelah mendapat penerbitan izin kerja oleh layanan imigrasi, siswa dapat memiliki visa pelajar untuk mencari pekerjaan tidak melebihi 28 jam per minggu (Anda bisa bekerja 8 jam sehari selama musim panas atau musim dingin).",
-			"se": "Efter att immigrationskontoret har utfärdat ett arbetstillstånd kan en student på studentvisum jobba upp till 28 timmar per vecka. (du kan jobba 8timmar per dag under sommar och vinter lov)."
+			"se": "Efter att immigrationskontoret har utfärdat ett arbetstillstånd kan en student på studentvisum jobba upp till 28 timmar per vecka. (du kan jobba 8timmar per dag under sommar och vinter lov).",
+			"th": "หลังจากได้รับใบอนุญาตทำงานจากหน่วยงานตรวจคนเข้าเมืองแล้ว บุคคลที่ถือวีซ่านักเรียนสามารถหางานได้ไม่เกิน 28 ชั่วโมงต่อสัปดาห์ (คุณสามารถทำงานได้ 8 ชั่วโมงต่อวันในช่วงฤดูร้อน หรือฤดูหนาว) "
 		}
 	},
 	"shortTermVisa": {
@@ -54,13 +59,15 @@
 		"zh-hant": "短期簽證",
 		"id": "Visa Jangka Pendek",
 		"se": "Korttidsvisum(Turistvisum)",
+		"th": "วีซ่าระยะสั้น",
 		"text": {
 			"en": "Language school students may obtain a short-term student visa (for the purpose of learning Japanese language). Or if your country is part of the visa exemption agreement with Japan, students can come to Japan without a visa (for 90 days or 180 days) but it is not possible to extend the period of stay. Those who wish to stay in Japan for a short period may apply for this visa or come without visa. Also, those students who could not file for a regular student visa by the deadline may apply for this visa (or come without visa) and stay in Japan until the next enrollment period. In such a case, students must leave Japan once because it is not permitted to extend a short-term visa.",
 			"ja": "日本語学習者に対して「留学」ビザの他に短期ビザ（日本語学習）が認められています。 在留期限は90日で、期間更新は認められていません。また、国によって査証免除（90日または180日）が認められています。 短期で来日を希望される方は、短期ビザを取得するか査証免除で来日して下さい。 また、「留学」ビザ申請に間に合わなかった方が、次回の申請までに短期滞在し、その間に「留学」ビザを申請することができます。",
 			"fr": "Les étudiants d'écoles de langue peuvent obtenir un visa courte durée (dans le but d'étudier la langue japonaise). Si votre pays fait partie de l'accort d'exemption de visa avec le Japon, les étudiants peuvent venir sans visa (pour 90 ou 180 jours) mais il n'est pas possible d'étendre cette période. De plus les étudiants qui n'auraient pas faire la demande d'un visa étudiant avant la date limite ont la possibilité de venir au Japon jusqu'à la période d'inscription suivante. Dans ce cas là, il suffit de sortir du pays et de rerentrer pour recevoir un niveau visa de 3 mois.",
 			"zh-hant": "語言學校的學生可取得短期學生簽證（學習日語的目的）。如果你的國家是與日本互免簽證協議的一國，學生來日本可無需簽證（90天或180天），但是不能延長停留期限。希望短期停留在日本的學生可以申請此簽證或憑免簽來日。此外，若是在截止日期前無法申請到學生簽證的人，可以申請該簽證（或免簽來日），並留在日本直到下一個註冊的期間。在這種情況下，必須因為它不允許延長短期簽證的因素而離開日本一次再回來。",
 			"id": "Siswa sekolah Bahasa dapat memperoleh visa pelajar jangka pendek (untuk tujuan belajar bahasa Jepang). Atau jika negara Anda adalah bagian dari perjanjian pembebasan visa dengan Jepang, siswa bisa datang ke Jepang tanpa visa (untuk 90 hari atau 180 hari) tetapi tidak mungkin untuk memperpanjang masa tinggal. Mereka yang ingin tinggal di Jepang untuk waktu yang singkat mungkin berlaku untuk visa ini atau datang tanpa visa. Para siswa yang tidak bisa mengajukan visa pelajar berkala oleh batas waktu mungkin berlaku untuk visa ini (atau datang tanpa visa) dan tinggal di Jepang sampai periode pendaftaran berikutnya. Dalam kasus seperti itu, siswa harus meninggalkan Jepang sekali karena tidak diizinkan untuk memperpanjang visa jangka pendek.",
-			"se": "Du kan studera japanska på ett 90-dagars turistvisum. Men du kan inte förlänga perioden. De som vill stanna i Japan på ett turistvisum behöver inte ansöka i förhand. Även studenter som inte hinner få sitt studentvisum utfärdat i tid kan komma på detta visum och stanna i Japan tills nästa registreringsperiod. Vid sådant tillfälle måste studenten resa ut ur japan och komma tillbaka för att göra om proceduren var nittionde dag. Detta beror på att det inte går att förlänga visumet."
+			"se": "Du kan studera japanska på ett 90-dagars turistvisum. Men du kan inte förlänga perioden. De som vill stanna i Japan på ett turistvisum behöver inte ansöka i förhand. Även studenter som inte hinner få sitt studentvisum utfärdat i tid kan komma på detta visum och stanna i Japan tills nästa registreringsperiod. Vid sådant tillfälle måste studenten resa ut ur japan och komma tillbaka för att göra om proceduren var nittionde dag. Detta beror på att det inte går att förlänga visumet.",
+			"th": "นักเรียนที่เรียนภาษาอาจได้รับวีซ่านักเรียนระยะสั้น (เพื่อการเรียนภาษาญี่ปุ่น) หรือถ้าประเทศของคุณเป็นส่วนหนึ่งของข้อตกลงการยกเว้นวีซ่ากับญี่ปุ่นนักเรียนสามารถเดินทางมาญี่ปุ่นได้โดยไม่ต้องขอวีซ่า (90 วันหรือ 180 วัน) วัน แต่ไม่สามารถขยายระยะเวลาการพำนักได้ ผู้ที่ต้องการอยู่ในประเทศญี่ปุ่นในระยะเวลาสั้นๆ อาจขอวีซ่าประเภทนี้ หรือมาโดยไม่มีวีซ่า นอกจากนี้นักเรียนที่ไม่สามารถยื่นขอวีซ่านักเรียนได้ตามปกติ (หรือมาโดยไม่มีวีซ่า) และอยู่ในประเทศญี่ปุ่นจนกว่าจะถึงระยะเวลาการลงทะเบียนครั้งถัดไป ในกรณีเช่นนี้นักเรียนต้องเดินทางออกจากประเทศญี่ปุ่นอีกครั้ง เนื่องจากไม่ได้รับอนุญาตให้ขยายวีซ่าระยะสั้น"
 		},
 		"application": {
 			"en": "Applying for Short-term Visa",
@@ -69,13 +76,15 @@
 			"zh-hant": "申請短期簽證",
 			"id": "Pendaftaran untuk visa jangka pendek",
 			"se": "Applying for Short-term Visa",
+			"th": "การยื่นขอวีซ่าระยะสั้น"
 			"text": {
 				"en": "If your country is not on the visa exemption list and requires a short-term visa to enter Japan, Nihongo Center will provide the following documents.\n\n1. School Admission Permit\n1. Letter of Invitation\n1. Personal Reference Form\n1. Schedule of Visit to Japan\n\nPlease take these documents to the nearest Japanese Embassy or Consulate and apply for a short-term visa.\nRequired documents may vary by country, so please confirm beforehand.",
 				"ja": "自国が日本の査証免除国ではなく短期ビザが必要になる場合は、日本語センターより下記の書類を発行いたします。\n\n* 入学許可書\n* 招へい理由書\n* 身元保証書\n* 来日スケジュール表\n\nこれを日本国大使館（又は領事館）に提出して短期ビザを申請してください。国によって必要書類が異なる場合がありますので、事前にご相談ください。",
 				"fr": "Si votre pays ne figure pas dans la liste des pays exempts de visa, Nihongo Center vous procurera les documents suivants.\n\n1. Permis d'admission\n1. Lettre d'invitation\n1. Lettre de garantie.\n\n Il est nécessaire d'apporter ces documents à l'ambassade ou au consulat japonais le plus proche pour faire la demande de visa.\nLes documents requis peuvent variés d'un pays à l'autre.",
 				"zh-hant": "如果你的國家不在免簽名單上，則需要一個短期簽證進入日本，日本語中心將提供以下文件。\n\n1. 入學許可\n1. 邀請函\n1. 個人資料表\n1. 留日計畫\n\n請把這些文件到最近的日本大使館或領事館申請短期簽證。\n所需的文件可能會因國家而異，所以請事先確認。",
 				"id": "Jika negara Anda tidak ada dalam daftar pembebasan visa dan memerlukan visa jangka pendek untuk memasuki Jepang, Nihongo Center akan memberikan dokumen-dokumen berikut.\n\n1. Izin Penerimaan Sekolah.\n1. Surat Undangan\n1.  Formulir Referensi Pribadi\n1.  Jadwal Kunjungan ke Jepang.\n\nSilahkan bawa dokumen-dokumen ini ke Kedutaan Besar Jepang terdekat atau Konsulat dan mengajukan permohonan visa jangka pendek. \n Dokumen yang dibutuhkan dapat berbeda tergantung negaranya, jadi silahkan dikonfirmasi terlebih dahulu. ",
-				"se": "Om ditt land inte är på visum-undantagslistan och behöver ett korttidsvisum för att komma in i Japan kommer Nihongo Center att bidra med följande dokument.\n\n1. School Admission Permit\n1. Letter of Invitation\n1. Personal Reference Form\n1. Schedule of Visit to Japan\n\nVar vänlig och ta dessa dokument till närmaste japnska ambassad och ansök till korttidsvisum.\nNödvändiga dokument kan variera beroende på land så kontrollera detta på förhand."
+				"se": "Om ditt land inte är på visum-undantagslistan och behöver ett korttidsvisum för att komma in i Japan kommer Nihongo Center att bidra med följande dokument.\n\n1. School Admission Permit\n1. Letter of Invitation\n1. Personal Reference Form\n1. Schedule of Visit to Japan\n\nVar vänlig och ta dessa dokument till närmaste japnska ambassad och ansök till korttidsvisum.\nNödvändiga dokument kan variera beroende på land så kontrollera detta på förhand.",
+				"th": "หากประเทศของคุณไม่ได้อยู่ในรายการยกเว้นวีซ่าและต้องมีวีซ่าระยะสั้นเพื่อเข้าประเทศญี่ปุ่นนิฮงโกะ เซ็นเตอร์ จะจัดเตรียมเอกสารดังต่อไปนี้ \n\n1 ใบอนุญาตเข้าเรียนในโรงเรียน\n1 หนังสือเชิญ\n1 แบบฟอร์มการอ้างอิงส่วนบุคคล\n1 กำหนดการเยือนประเทศญี่ปุ่น\n\n โปรดนำเอกสารเหล่านี้ไปที่สถานทูตญี่ปุ่น หรือสถานกงสุลญี่ปุ่นที่ใกล้ที่สุด และยื่นขอวีซ่าระยะสั้น\n เอกสารที่ต้องใช้อาจแตกต่างกันไปในแต่ละประเทศ ดังนั้นโปรดยืนยันก่อนยื่น"
 			}
 		}
 	},
@@ -86,13 +95,15 @@
 		"zh-hant": "免簽國家",
 		"id": "Negara-negara yang tidak membutuhkan visa",
 		"se": "Länder där visum inte är nödvändigt",
+		"th": "ประเทศที่ไม่จำเป็นต้องขอวีซ่า",
 		"text": {
 			"en": "Japan has taken measures concerning the visa exemption with 61 countries and regions. Because of this, students from most countries are able to take our regular course without the need of a visa. However, those from countries not on the visa waver agreement need to obtain a short-term visa. To see whether or not your country is part of the visa waver agreement, please check the Japanese Ministry of Foreign Affairs' [list of countries qualifying for visa exemption](http://www.mofa.go.jp/j_info/visit/visa/short/novisa.html).",
 			"ja": "日本は現在61の国・地域に対して査証免除措置を実施しております。そのためほとんどの国の方がレギュラーコース受講に際してビザは必要ありません。しかし査証免除国以外の方は短期ビザを取得していただく必要があります。自国が査証免除国かどうかは日本国外務省のWebページを参照してください。\n\n[日本国外務省Webサイト　日本国査証免除措置国一覧](http://www.mofa.go.jp/mofaj/toko/visa/tanki/novisa.html)",
 			"fr": "Le Japon a passé en accord d'exemption de via avec 61 pays. De fait, la plupart des étudiants peuvent participer au cours réguliers sans avoir besoin de visa. Cependant les pays hors de cet accort ont besoin d'un visa courte durée. Pour savoir si votre pays fait partie de cet accord ou non, veuillez vous référer au Ministère Japonais des affaires étrangères. [Liste des pays exempts de Visa](http://www.mofa.go.jp/j_info/visit/visa/short/novisa.html).",
 			"zh-hant": "日本與61個國家和地區採取免簽證措施。正因為如此，大多數國家的學生都能夠免簽來日就讀我們的一般課程。然而，若非免簽協議的國家則需要申請獲得短期簽證。要查看您所在的國家是否免簽協議的一部分，請向日本外務省確認 [免簽證的國家名單](http://www.mofa.go.jp/j_info/visit/visa/short/novisa.html).",
 			"id": "Jepang telah mengambil langkah-langkah mengenai pembebasan visa dengan 61 negara dan wilayah. Karena itu, mahasiswa dari berbagai negara dapat mengambil kursus reguler kami tanpa perlu visa. Namun, mereka yang dari negara yang tidak mengenai pembebasan visa harus memperoleh visa jangka pendek. Untuk melihat apakah atau tidak negara Anda adalah bagian dari pembebasan visa, silahkan cek Menteri Jepang luar negeri ' [daftar negara kualifikasi untuk pembebasan visa](http://www.mofa.go.jp/j_info/visit/visa/short/novisa.html).",
-			"se": "Japan har samarbete angående visum-undantag med 61 länder och regioner. Därför kan studenter från de flesta länder ta våran reguljära kurs utan att ansöka för ett visum. Men de länder som inte är med på avtalet om visum-undantag behöver skaffa ett korttidsvisum. För att se om ditt land är med på avtalet om visum-undantag var vänlig och kolla på Japanese Ministry of Foreign Affairs [lista över länder som kvalificerar för visum undantag] (http://www.mofa.go.jp/j_info/visit/visa/short/novisa.html)."
+			"se": "Japan har samarbete angående visum-undantag med 61 länder och regioner. Därför kan studenter från de flesta länder ta våran reguljära kurs utan att ansöka för ett visum. Men de länder som inte är med på avtalet om visum-undantag behöver skaffa ett korttidsvisum. För att se om ditt land är med på avtalet om visum-undantag var vänlig och kolla på Japanese Ministry of Foreign Affairs [lista över länder som kvalificerar för visum undantag] (http://www.mofa.go.jp/j_info/visit/visa/short/novisa.html).",
+			"th": "ญี่ปุ่นได้ดำเนินมาตรการเกี่ยวกับการยกเว้นวีซ่ากับ 61 ประเทศ และภูมิภาค ด้วยเหตุนี้นักเรียนจากประเทศส่วนใหญ่จึงสามารถเข้าเรียนหลักสูตรทั่วไปของเราได้โดยไม่จำเป็นต้องขอวีซ่า อย่างไรก็ตามประเทศเหล่านี้ที่ไม่ได้อยู่ในข้อตกลงการยกเว้นวีซ่า ต้องขอวีซ่าระยะสั้น เพื่อดูว่าประเทศของคุณเป็นส่วนหนึ่งของข้อตกลงในการยกเลิกวีซ่าหรือไม่ โปรดตรวจสอบจากกระทรวงการต่างประเทศของประเทศญี่ปุ่น [รายชื่อประเทศที่มีคุณสมบัติได้รับการยกเว้นวีซ่า] (http://www.mofa.go.jp/j_info/visit/visa/short/novisa.html)."
 		}
 	}
 }
