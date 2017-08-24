@@ -5,7 +5,8 @@
 		"fr": "Postuler !",
 		"zh-hant": "加入我們！",
 		"id": "Bergabunglah dengan kami!",
-		"se": "Ansökan"
+		"se": "Ansökan",
+		"th": "มาร่วมกับเรา!"
 	},
 	"lead": {
 		"en": "It's simple. Just fill in your personal data at our [online registration](${MNC}) platform, upload your documents and you're ready to apply.",
@@ -13,7 +14,8 @@
 		"fr": "C'est simple. Remplissez vos informations personnelles sur notre [système d'inscription en ligne](${MNC}), uploadez vos documents et vous êtes prêts à postuler.",
 		"zh-hant": "這非常簡單！你只需於 [線上註冊](${MNC})的平台填入一些資料，上傳文件，然後便準備申請。",
 		"id": "Caranya sangat sederhana. Hanya mengisi data pribadi Anda di [pendaftaran online] kami (${MNC}), meng-upload dokumen Anda dan Anda siap untuk menerapkan.",
-		"se": "Det är lätt. Fyll in dina personliga uppgifter på vår [online registration](${MNC}) platform, ladda upp dina dokument så är du redo att ansöka."
+		"se": "Det är lätt. Fyll in dina personliga uppgifter på vår [online registration](${MNC}) platform, ladda upp dina dokument så är du redo att ansöka.",
+		"th": "ง่ายๆ เพียงแค่กรอกข้อมูลส่วนตัวของคุณที่ [การสมัครออนไลน์](${MNC}) , อัพโหลดเอกสารของคุณ เท่านี้ก็พร้อมแล้วสำหรับการสมัคร"
 	},
 	"preparation": {
 		"en": "Preparation",
@@ -22,13 +24,15 @@
 		"zh-hant": "準備",
 		"id": "Persiapan",
 		"se": "Förberedelse",
+		"th": "เตรียมความพร้อม",
 		"text": {
 			"en": "You'll need the following documents:",
 			"ja": "申込には以下の書類を提出してください。",
 			"fr": "Vous aurez besoin des documents suivants:",
 			"zh-hant": "你需要準備下列文件：",
 			"id": "Dokumen-dokumen yang harus disiapkan:",
-			"se": "Du behöver följande dokument:"
+			"se": "Du behöver följande dokument:",
+			"th": "คุณจะต้องมีเอกสารดังต่อไปนี้:"
 		}
 	},
 	"cv": {
@@ -37,7 +41,8 @@
 		"fr": "Curriculum Vitae",
 		"zh-hant": "個人簡歷",
 		"id": "Curriculum Vitae",
-		"se": "Curriculum Vitae"
+		"se": "Curriculum Vitae",
+		"th": "ประวัติโดยย่อ"
 	},
 	"letter": {
 		"en": "Letter of Guarantee",
@@ -45,7 +50,8 @@
 		"fr": "Lettre de garantie",
 		"zh-hant": "保證函",
 		"id": "Surat jaminan",
-		"se": "Garantibrev"
+		"se": "Garantibrev",
+		"th": "หนังสือค้ำประกัน"
 	},
 	"pledge": {
 		"en": "Pledge",
@@ -53,14 +59,16 @@
 		"fr": "Déclaration sur l'honneur",
 		"zh-hant": "誓約書",
 		"id": "Janji",
-		"se": "Löfte"
+		"se": "Löfte",
+		"th": "มัดจำ"
 	},
 	"enrollment": {
 		"en": "Enrollment Guide",
 		"ja": "申し込みガイド",
 		"fr": "Guide d'Inscritpion",
 		"zh-hant": "申請入學指南",
-		"id": "Panduan Pendaftaran" 
+		"id": "Panduan Pendaftaran",
+		"se": "Enrollment Guide"
 	},
 	"application" : {
 		"en": "1/ Application on my.nihongo-center.com",
