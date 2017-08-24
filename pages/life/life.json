@@ -5,7 +5,8 @@
 		"fr": "Quotidien",
 		"zh-hant": "生活",
 		"id": "Kehidupan",
-		"se": "Fritid"
+		"se": "Fritid",
+		"th": "ชีวิต"
 	},
 	"lead": {
 		"en": "“I want to do more than just study…” If you’re looking for something more than hitting the textbooks everyday, then Nihongo Center is for you. With our Discover Kyoto Program, you have the chance to explore the rich history and traditional culture still present in Kyoto today, as well as having the opportunity to interact with Japanese student volunteers.",
@@ -13,7 +14,8 @@
 		"fr": "“Je veux faire plus que bachoter…” Si vous cherchez à faire plus que suivre les manuels toute la journée alors le Nihongo Center est pour vous. Avec notre Programme de Découverte de Kyoto, vous avez la chance d'explorer la culture traditionnelle et riche d'histoire encore présente à Kyoto de nos jours, ainsi que l'opportunité d'intéragir avec des étudiants japonais volontaires. ",
 		"zh-hant": "「我不想要光只是坐在課堂中學習」如果你正在尋找不是每天光是面對教科書的日語課程，那我們學校是非常適合你的選擇的。跟著我們的 發現京都之旅，你會有機會探討富含歷史以及傳統文化的如今的京都。",
 		"id": "“Saya ingin lebih dari sekedar belajar ...”Jika Anda sedang mencari sekolah yang lebih dari hanya belajar setiap hari, maka sekolah kami pas untuk Anda. Dengan Discover Kyoto Program, Anda memiliki kesempatan untuk mengeksplorasi sejarah yang kaya dan budaya tradisional Kyoto, serta memiliki kesempatan untuk berinteraksi dengan relawan mahasiswa Jepang.",
-		"se": "“Jag vill göra mer än bara plugga…”Om du vill göra något annat än att bara bläddra i textböckerna varje dag så passar vår skola för dig. Med vårt Discover Kyoto Program, får du chansen att utforska den rika historia och kultur som finns bevarad i Kyoto, med möjligheter att träffa och tala med japanska studenter."
+		"se": "“Jag vill göra mer än bara plugga…”Om du vill göra något annat än att bara bläddra i textböckerna varje dag så passar vår skola för dig. Med vårt Discover Kyoto Program, får du chansen att utforska den rika historia och kultur som finns bevarad i Kyoto, med möjligheter att träffa och tala med japanska studenter.",
+		"th": "“ฉันต้องการมากกว่าการเรียน…” หากท่านกำลังมองหาบางสิ่งบางอย่างมากกว่าการเรียนในตำราเรียนทุกวันแล้วล่ะก็ โรงเรียนของเราเหมาะสำหรับท่าน ด้วยโครงการ Discover Kyoto ของเรา ท่านจะได้มีโอกาสสำรวจประวัติศาสตร์อันยาวนาน และวัฒนธรรมดั้งเดิมที่ยังคงมีอยู่ในเมืองเกียวโตในทุกวันนี้ รวมทั้งมีโอกาสได้มีปฏิสัมพันธ์กับอาสาสมัครนักเรียนชาวญี่ปุ่น "
 	},
 	"dkp": {
 		"title": {
@@ -22,7 +24,8 @@
 			"fr": "Qu'est-ce que le Programme Découverte de Kyoto",
 			"zh-hant": "什麼是發現日本之旅",
 			"id": "Apakah Discover Kyoto Program?",
-			"se": "Vad är Discover Kyoto Program?"
+			"se": "Vad är Discover Kyoto Program?",
+			"th": "โครงการ Discover Kyoto คืออะไร"
 		},
 		"text": {
 			"en": "The Discover Kyoto Program (DKP) is a “tour experience” program started at Nihongo Center in 2011. From visiting famous places to trying out different aspects of Japanese culture, the DKP gives you a unique opportunity to expand on your cultural experiences in Japan. There are eight events scheduled throughout the year, on weekends and holidays. Students can choose which events they are interested in, and simply pay the fee to participate.",
@@ -30,7 +33,8 @@
 			"fr": "Le Programme Découverte de Kyoto (DKP) est une 'expérience' commencée au Nihongo Center en 2011. De la visite de site connus aux expérimentations des différents aspects de la culture japonaise, les DKP vous apporte une opportunité unique d'élargir vos expériences culturelles au Japon. Il y a huits sorties prévues tout au long de l'année, durant les weekend et les vacances. Les étudiants peuvent choisir les sorties qui les intéressent, et payer les frais pour participer.",
 			"zh-hant": "發現京都之旅 (DKP) 是類似 “校外教學” ，日本語中心於2011年起開辦。從參觀著名的地方嘗試認識並了解日本文化的不同面，DKP是讓你在日本的文化體驗拓展的難得機會。每年有8次，都在週末和節假日。學生可以選擇他們感興趣的項目，並支付少許的費用參與。",
 			"id": "Discover Kyoto Program (DKP) adalah “tour pengalaman” program yang dimulai pada Nihongo Center pada tahun 2011. Dari mengunjungi tempat-tempat terkenal untuk mencoba aspek yang berbeda dari budaya Jepang, DKP memberi Anda kesempatan unik untuk memperluas pengalaman budaya Anda di Jepang. Ada delapan acara yang dijadwalkan sepanjang tahun, pada akhir pekan dan hari libur. Siswa dapat memilih acara yang mereka tertarik, dan hanya membayar biaya untuk berpartisipasi. ",
-			"se": "Discover Kyoto Program (DKP) är ett“tour upplevelse” program som Nihongo Center startade i 2011. Med aktiviteter som att besöka kända platser och testa olika delar av japansk kultur så ger DKP dig en unik möjlighet att utvidga dina kulturella upplevelser i Japan. Det är åtta evenemang planerade under ett läsår på helger och högtider. Studenter kan deltaga det evenemang som lockar mest och betala självkostnadspriset för att delta."
+			"se": "Discover Kyoto Program (DKP) är ett“tour upplevelse” program som Nihongo Center startade i 2011. Med aktiviteter som att besöka kända platser och testa olika delar av japansk kultur så ger DKP dig en unik möjlighet att utvidga dina kulturella upplevelser i Japan. Det är åtta evenemang planerade under ett läsår på helger och högtider. Studenter kan deltaga det evenemang som lockar mest och betala självkostnadspriset för att delta.",
+			"th": "โครงการ Discover Kyoto (DKP) เป็นโครงการ “ทัวร์ชม” ที่ นิฮงโกะ เซ็นเตอร์ริเริ่มในปี 2011 จากการเยี่ยมชมสถานที่ที่มีชื่อเสียง การทดลองวัฒนธรรมญี่ปุ่นในรูปแบบต่างๆ DKPมอบโอกาสพิเศษในการขยายประสบการณ์ด้านวัฒนธรรมของคุณในประเทศญี่ปุ่น มีกำหนดการจัดงานไว้ 8 ครั้งตลอดทั้งปีในช่วงวันหยุดสุดสัปดาห์ และวันหยุดนักขัตฤกษ์ นักเรียนสามารถเลือกกิจกรรมที่พวกเขาสนใจ และจ่ายค่าเข้าร่วมได้"
 		},
 		"purpose": {
 			"title": {
@@ -39,7 +43,8 @@
 				"fr": "But du programme",
 				"zh-hant": "計畫的目的",
 				"id": "Tujuan dari Program",
-				"se": "Syftet med programet"
+				"se": "Syftet med programet",
+				"th": "วัตถุประสงค์ของโครงการ"
 			},
 			"text": {
 				"en": "We believe there is more to learning Japanese than simply going to class. Experiencing Japanese culture and customs are very important aspects to the learning process. We hope to give our students as many opportunities as possible. Before, we held various events such as visiting the famous Gion Matsuri and our Daimonji hiking tour, and in 2011 decided to expand on these events, thus establishing the Discover Kyoto Program. We invite you all to join us and have a great time!",
@@ -47,7 +52,8 @@
 				"fr": "Nous pensons qu'il y a plus que simplement apprendre en classe. Expérimenter la culture et les coûtumes japonaises sont un aspect important dans le processus d'apprentissage d'une langue. Nous esperons donner à nos étudiants autant d'opportunités que possible. Auparavant nous participions au Festival de Gion, ou partions en randonnée au Daimonji, et en 2011 nous avons décidé d'augmenter ces sorties au travers du Programme Découverte de Kyoto. Nous vous invitons tous à nous rejoindre à passer du bon temps avec nous ! ",
 				"zh-hant": "我們相信，有很多的東西是課堂上學不到的，體驗日本文化和習俗是學習過程中非常重要的層面。我們希望盡可能給我們的學生多一點機會參與體驗。之前我們舉辦各種活動，如參觀著名的祗園祭和登上大文字山之旅，並於2011年起決定擴大辦理其他活動，從而確立了發現京都之旅。邀請你們加入我們的行列，一起創造美的時光！",
 				"id": "Kami percaya bahwa belajar bahasa Jepang lebih dari sekedar belajar di kelas. Mengalami budaya Jepang dan adat istiadat merupakan aspek yang sangat penting dalam proses pembelajaran. Kami berharap untuk memberikan siswa kami kesempatan yang sebanyak mungkin. Sebelumnya, kami mengadakan berbagai acara seperti mengunjungi Gion Matsuri yang terkenal dan hiking tour Daimonji kami, dan pada tahun 2011 memutuskan untuk memperluas acara-acara, sehingga membentuk Discover Kyoto Program. Kami mengundang Anda semua untuk bergabung dengan kami!",
-				"se": "Vi tror att det ligger mer bakom att lära sig japanska än att endast delta på lektioner varje dag. Det är även viktigt att uppleva samt lära sig japansk kultur och seder. Vi vill ge våra studenter så många möjligheter som möjligt. Innan DKP hade vi olika evenemang t.ex. att delta på Gion Matsuri eller en utflykt till berget Daimonji och 2011 valde vi att exandera dessa evenemang och därför skapade vi Discover Kyoto Program. Vi bjuder alla att hänga med på dessa spännande evenemang!"
+				"se": "Vi tror att det ligger mer bakom att lära sig japanska än att endast delta på lektioner varje dag. Det är även viktigt att uppleva samt lära sig japansk kultur och seder. Vi vill ge våra studenter så många möjligheter som möjligt. Innan DKP hade vi olika evenemang t.ex. att delta på Gion Matsuri eller en utflykt till berget Daimonji och 2011 valde vi att exandera dessa evenemang och därför skapade vi Discover Kyoto Program. Vi bjuder alla att hänga med på dessa spännande evenemang!",
+				"th" "เราเชื่อว่าการเรียนรู้ภาษาญี่ปุ่นมีมากกว่าการเรียนในชั้นเรียน ประสบการณ์วัฒนธรรมญี่ปุ่นเป็นสิ่งที่สำคัญมากในกระบวนการเรียนรู้ เราหวังว่าจะให้นักเรียนของเรามีโอกาสมากที่สุดเท่าที่จะเป็นไปได้ ก่อนหน้านี้เราจัดงานต่างๆ เช่น การเยี่ยมชมเทศกาลกิองที่มีชื่อเสียง และการปีนเขา Daimonji และในปี 2011 ตัดสินใจที่จะขยายกิจกรรมเหล่านี้ ด้วยเหตุนี้โครงการ Discover Kyoto จึงเกิดขึ้น เราขอเชิญคุณเข้าร่วมกับเรา และมีช่วงเวลาที่ยอดเยี่ยม! "
 			}
 		}
 	}
