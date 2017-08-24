@@ -44,26 +44,26 @@ mixin pricing(registration, textbooks, tuition, visa)
 	h3
 		span= __(duration['10 weeks'])
 	
-	+pricing(27000, 19440, 194400, 0)
+	+pricing(27000, 21600, 194400, 0)
 	
 .box(title='This course is taken using consecutive 3-month tourist visas.')
 	h3
 		span= __(duration['20 weeks'])
 	
-	+pricing(54000, 19440, 324000, 0)
+	+pricing(54000, 21600, 324000, 0)
 	
 .box
 	h3
 		span= __(duration['6 months'])
 	
-	+pricing(54000, 19440, 324000, 32400)
+	+pricing(54000, 21600, 324000, 32400)
 	
 .box
 	.badge= __(popular)
 	h3
 		span= __(duration['1 year'])
 	
-	+pricing(54000, 38880, 648000, 32400)
+	+pricing(54000, 43200, 648000, 32400)
 	
 	//- p= '※ ' + __(duration['1 year'].note)
 	
@@ -71,6 +71,6 @@ mixin pricing(registration, textbooks, tuition, visa)
 	h3
 		span= __(duration['2 years'])
 	
-	+pricing(54000, 38880 * 2, 648000 * 2, 32400)
+	+pricing(54000, 43200 * 2, 648000 * 2, 32400)
 	
 	//- p= '※ ' + __(duration['2 years'].note)
