@@ -46,7 +46,7 @@
 			"id": "Gelar sarjana",
 			"se": "Kandidatexamen",
 			"vi": "Bằng cử nhân",
-			"th": "ปริญญาตรี"
+			"th": "ปริญญาตรี",
 			"text": {
 				"en": "The requirements for obtaining a bachelor degree differ depending on whether you go to a public or private university.",
 				"ja": "学士号の取得については、国公立大学か私立大学かによって条件が異なります。",
@@ -65,7 +65,7 @@
 				"id": "Perguruan Tinggi Negeri",
 				"se": "Allmänna universitet",
 				"vi": "Đại học Công lập",
-				"th": "มหาวิทยาลัยรัฐ"
+				"th": "มหาวิทยาลัยรัฐ",
 				"text": {
 					"en": "- EJU exam, TOEIC exam\n- Application (January for entrance in April, July for entrance in October)\n- Entrance exam (interview, university specific exam)\n\n**Important:** An EJU score of at least **250 / 400** is required as well as **basic academic skills** (English, mathematics, science…).",
 					"ja": "- EJU試験、TOEIC試験\n- 入学申込　（4月入学の場合1月申込、10月入学の場合7月申込）\n- 入学試験　（面接、及び各大学独自の試験）\n\n**備考：**EJU試験の得点は最低での250点(400点満点)必要であり、尚且つ基礎科目(英語、数学、理科など)の知識も必要となります。",
@@ -106,7 +106,7 @@
 			"id": "Gelar Master",
 			"se": "Magistersexamen",
 			"vi": "Bằng Thạc sĩ",
-			"th": "ปริญญาโท"
+			"th": "ปริญญาโท",
 			"text": {
 				"en": "In case you choose the same major you had during your Bachelor studies you can directly take the entrance exam.\n\nIn case you choose a different major you need to:\n\n- Enter as a research student (you will need an interview with a professor before deciding your entrance period).\n- Take the entrance exam the next year.\n\n**Important:** JLPT N1, English abilities and knowledge about the chosen major.",
 				"ja": "希望している修士課程と同様の専攻科目で学士号を既に取得している場合、直接その修士課程の入学試験を受けることができます。\n\n希望している修士課程と異なる学士号を取得している場合、\n\n- まず研修生として希望する修士課程の研究室へ所属します。(研修生になるには、教授との面接を行い、研究室に入る時期を決定する必要があります。)\n- 研究室に所属した翌年に修士課程の入学試験を受験。\n\n**備考：**JLPT N1合格、及び英語能力と希望する修士課程の専門分野に関する知識が必要となります。",
