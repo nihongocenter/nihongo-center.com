@@ -48,7 +48,7 @@
 		},
 		{
 			"name": "Tanabe Yuki",
-			"image": "yuki.png",
+			"image": "yuki.jpg",
 			"role": {
 				"en": "Teacher",
 				"ja": "Teacher",
@@ -58,7 +58,7 @@
 		},
 		{
 			"name": "Yukari Suzue",
-			"image": "yukari.png",
+			"image": "yukari.jpg",
 			"role": {
 				"en": "Teacher",
 				"ja": "Teacher",
@@ -68,7 +68,7 @@
 		},
 		{
 			"name": "Motomi Okumura",
-			"image": "motomi.png",
+			"image": "motomi.jpg",
 			"role": {
 				"en": "Teacher",
 				"ja": "Teacher",
@@ -78,7 +78,7 @@
 		},
 		{
 			"name": "Shota Ikkai",
-			"image": "shota.png",
+			"image": "shota.jpg",
 			"role": {
 				"en": "Admission",
 				"ja": "Admission",
