@@ -58,7 +58,7 @@
 		},
 		{
 			"name": "Yukari Suzue",
-			"image": "Suzue.PNG",
+			"image": "suzue.png",
 			"role": {
 				"en": "Teacher",
 				"ja": "Teacher",
@@ -68,7 +68,7 @@
 		},
 		{
 			"name": "Motomi Okumura",
-			"image": "Okumura.PNG",
+			"image": "okumura.png",
 			"role": {
 				"en": "Teacher",
 				"ja": "Teacher",
@@ -78,7 +78,7 @@
 		},
 		{
 			"name": "Shota Ikkai",
-			"image": "Ikkai.PNG",
+			"image": "ikkai.png",
 			"role": {
 				"en": "Admission",
 				"ja": "Admission",
