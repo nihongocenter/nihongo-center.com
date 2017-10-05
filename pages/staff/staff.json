@@ -47,16 +47,6 @@
 			}
 		},
 		{
-			"name": "Yuki Tanabe",
-			"image": "tanabe2.png",
-			"role": {
-				"en": "Teacher",
-				"ja": "Teacher",
-				"fr": "Enseignant",
-				"se": "Lärare"
-			}
-		},
-		{
 			"name": "Yukari Suzue",
 			"image": "suzue.png",
 			"role": {
