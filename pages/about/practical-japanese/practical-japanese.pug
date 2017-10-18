@@ -5,8 +5,12 @@ include ../header.pug
 	!= md(__(text))
 
 
-	.video-container.compact-video-renderer
-		iframe.video(src='https://www.youtube.com/embed/6WWX5b95kEc?showinfo=0')
+	
+	<div id="video-viewport">
+   	 <video autoplay preload width="640" height="360">
+        <src='https://www.youtube.com/embed/6WWX5b95kEc?showinfo=0'/>
+    	</video>
+	</div>
 		
 .box
 	h2= __(title2)
