@@ -12,6 +12,9 @@
 	"title2": {
 		"en": "Project"
 	},
+	"title3": {
+		"en": "Presentation"
+	},
 	"text": {
 		"en": "Our professional instructors use a uniquely developed teaching method to guide students through the learning process. Even complete beginners find they are able to start communicating from the very first week, and can become proficient in daily conversation after only 6 months of study. We are here to help you through the exciting experience of language acquisition. Project work, visitor sessions, and other opportunities to communicate with Japanese people will help fine-tune your languages skills for practical use.",
 		"ja": "プロのインストラクターが独自に開発された習得ノウハウの世界に学生を導きます。最初の1週間で「もうしゃべっている自分」を発見できるのは、日本語センターだけ。６か月後はどこへ行っても誰と話しても、ほとんど困ることなんてないし・・・といった調子で、日本という場所でどんどん自分の居場所が広がっていくわくわく感を楽しんでもらうことが、私たちの理想の教育法です。Project work、Visitor Sessionなど日本人と交流できるプログラムも満載で、あなたの日本語にさらに磨きをかけていきます。\n\n**さあ、大学でアートを学ぶことも、日本企業で働くことも、夢に終わらせず、その手に掴みましょう。**",
@@ -150,6 +153,12 @@
 			"se": "Slutligen får gruppen synpunkter från övriga i klassen. Genom att objektivt se på videon av deras presentation kan de ta till sig nya kunskaper och även se tillbaka på deras prestationer från början till slut.",
 			"vi": "Cuối cùng, từng nhóm sẽ nhận phản hồi từ các bạn khác trong lớp. Qua việc xem video thâu lại phần diễn thuyết của mình, học viên có thể tự đánh giá một cách khách quan và nhìn lại quá trình nỗ lực của mình từ đầu đến cuối.",
 			"th": "กลุ่มที่นำเสน"
+		}
+	},
+	"presentation":{
+		"en": "Presentation",
+		"text": {
+			"en": "During their time studying, students will have many opportunities to do presentation about various subjects."
 		}
 	}
 }
