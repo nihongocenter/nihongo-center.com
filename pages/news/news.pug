@@ -3,6 +3,11 @@ include ../about/header.pug
 .box
 	h2 News
 
+if requestLanguage === 'se'
+	.box
+		CSN : Nihongo Center can give you necessary document to apply for CSN
+	
+
 each article in articles
 	.box
 		h3= article.title
