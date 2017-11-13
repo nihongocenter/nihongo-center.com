@@ -67,16 +67,6 @@
 			}
 		},
 		{
-			"name": "Okumura Motomi",
-			"image": "motomi.jpg",
-			"role": {
-				"en": "Teacher",
-				"ja": "Teacher",
-				"fr": "Enseignant",
-				"se": "Lärare"
-			}
-		},
-		{
 			"name": "Ikkai Shota",
 			"image": "shota.jpg",
 			"role": {
