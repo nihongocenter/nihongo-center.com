@@ -1,7 +1,7 @@
 Notre école est située en plein cœur du centre-ville de Kyôto,
 au carrefour Shijo Kawaramachi. Elle se trouve dans un secteur extrêmement bien
 desservi par les transports en commun, ce qui la rend très facile d’accès depuis
-n’importe quel endroit de Kyôto. Nihongo Center existe depuis plus de 30 ans et
+n’importe quel endroit de Kyôto. Nihongo Center existe depuis plus de 39 ans et
 est spécialisé dans l’enseignement du japonais aux étrangers. Cette longue
 existence est le résultat de la qualité des formations que nous proposons,
 la présence d’un corps enseignant jeune mais expérimenté et grâce à l’utilisation
