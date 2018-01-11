@@ -17,7 +17,9 @@ include header.pug
 			h3.feature-title= __(feature.title)
 			p!= __(feature.text)
 
-
+		  
+ -if language === 'en' 		  
+ -if language === 'fr'
 	.box
 		picture
 			source(media='(min-width: 321px)', srcset='/images/kyoto-987.jpg')
