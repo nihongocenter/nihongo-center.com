@@ -61,6 +61,16 @@
 		"vi": "Đăng ký ngay!",
 		"th": "สมัครตอนนี้! "
 	},
+	"contact":{
+		"en": "Contact",
+		"fr": "Contacter",
+		"ja": "今すぐ申し込む",
+		"zh-hant": "Contact",
+		"id": "Contact",
+		"se": "Contact",
+		"vi": "Contact",
+		"th": "Contact"
+	},
 	"languages": [
 		{
 			"name": "English",
