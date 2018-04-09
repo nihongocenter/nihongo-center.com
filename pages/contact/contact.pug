@@ -10,15 +10,15 @@
 			label(for='email') Email:
 			input(id='email', type='email')
 			
-		.field
+		///.field
 			label(for='nationality') Nationality:
 			input(id='nationality', type='text')
 			
-		.field
+		///.field
 			label(for='age') Age:
 			input(id='age', type='number', min=10, max=120)
 			
-		.field
+		///.field
 			label(for='last-education') Last education:
 			select(id='last-education')
 				option(value='none') None
@@ -26,13 +26,13 @@
 				option(value='university / college') University / College
 				option(value='other') Other
 
-		.field
+		///.field
 			label(for='course-start-year') Course start year:
 			select(id='course-start-year')
 				option(value=(new Date).getFullYear())= (new Date).getFullYear()
 				option(value=(new Date).getFullYear() + 1)= (new Date).getFullYear() + 1
 		
-		.field
+		///.field
 			label(for='course-start-month') Course start month:
 			select(id='course-start-month')
 				option(value='January') January
