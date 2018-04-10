@@ -62,14 +62,14 @@
 		"th": "สมัครตอนนี้! "
 	},
 	"contact":{
-		"en": "Contact",
+		"en": "Inquiry",
 		"fr": "Contacter",
 		"ja": "今すぐ申し込む",
 		"zh-hant": "Contact",
-		"id": "Contact",
-		"se": "Contact",
-		"vi": "Contact",
-		"th": "Contact"
+		"id": "Inquiry",
+		"se": "Inquiry",
+		"vi": "Inquiry",
+		"th": "Inquiry"
 	},
 	"languages": [
 		{
