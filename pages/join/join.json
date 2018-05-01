@@ -8,7 +8,7 @@
 		"se": "Ansökan",
 		"th": "มาร่วมกับเรา!"
 	},
-	//"lead": {
+	///"lead": {
 		"en": "It's simple. Just fill in your personal data at our [online registration](${MNC}) platform, upload your documents and you're ready to apply.",
 		"ja": "申込方法はとても簡単です。日本語センターの[オンライン申込サイト](${MNC})でプロフィールを入力して、申込書類をアップロードするだけで完了です。",
 		"fr": "C'est simple. Remplissez vos informations personnelles sur notre [système d'inscription en ligne](${MNC}), uploadez vos documents et vous êtes prêts à postuler.",
