@@ -8,6 +8,16 @@
 		"se": "Ansökan",
 		"th": "มาร่วมกับเรา!"
 	},
+	"lead": {
+		"en": "It's simple. Just fill in your personal data at our [online registration](${MNC}) platform, upload your documents and you're ready to apply.",
+		"ja": "申込方法はとても簡単です。日本語センターの[オンライン申込サイト](${MNC})でプロフィールを入力して、申込書類をアップロードするだけで完了です。",
+		"fr": "C'est simple. Remplissez vos informations personnelles sur notre [système d'inscription en ligne](${MNC}), uploadez vos documents et vous êtes prêts à postuler.",
+		"zh-hant": "這非常簡單！你只需於 [線上註冊](${MNC})的平台填入一些資料，上傳文件，然後便準備申請。",
+		"id": "Caranya sangat sederhana. Hanya mengisi data pribadi Anda di [pendaftaran online] kami (${MNC}), meng-upload dokumen Anda dan Anda siap untuk menerapkan.",
+		"se": "Det är lätt. Fyll in dina personliga uppgifter på vår [online registration](${MNC}) platform, ladda upp dina dokument så är du redo att ansöka.",
+		"th": "ง่ายๆ เพียงแค่กรอกข้อมูลส่วนตัวของคุณที่ [การสมัครออนไลน์](${MNC}), อัพโหลดเอกสารของคุณ เท่านี้ก็พร้อมแล้วสำหรับการสมัคร"
+
+	},
 	"preparation": {
 		"en": "Preparation",
 		"ja": "必要書類",
